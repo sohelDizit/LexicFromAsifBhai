@@ -1,0 +1,36 @@
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\ASC.VoipService.dll.config
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\ASC.VoipService.dll
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\ASC.VoipService.pdb
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailAggregator\ASC.VoipService.dll.config
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailAggregator\ASC.VoipService.dll
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailAggregator\ASC.VoipService.pdb
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailWatchdog\ASC.VoipService.dll.config
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailWatchdog\ASC.VoipService.dll
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailWatchdog\ASC.VoipService.pdb
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailCleaner\ASC.VoipService.dll.config
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailCleaner\ASC.VoipService.dll
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailCleaner\ASC.VoipService.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.VoipService.dll.config
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.VoipService.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.VoipService.pdb
+E:\CommunityServer\module\ASC.VoipService\obj\Debug\ASC.VoipService.csprojAssemblyReference.cache
+E:\CommunityServer\module\ASC.VoipService\obj\Debug\ASC.VoipService.csproj.CoreCompileInputs.cache
+E:\CommunityServer\module\ASC.VoipService\obj\Debug\ASC.VoipService.csproj.CopyComplete
+E:\CommunityServer\module\ASC.VoipService\obj\Debug\ASC.VoipService.dll
+E:\CommunityServer\module\ASC.VoipService\obj\Debug\ASC.VoipService.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.VoipService.dll.config
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.VoipService.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.VoipService.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.VoipService\obj\Debug\ASC.VoipService.csprojAssemblyReference.cache
+D:\EKT.AI\LEXIC-2.0\module\ASC.VoipService\obj\Debug\ASC.VoipService.csproj.CoreCompileInputs.cache
+D:\EKT.AI\LEXIC-2.0\module\ASC.VoipService\obj\Debug\ASC.VoipService.csproj.CopyComplete
+D:\EKT.AI\LEXIC-2.0\module\ASC.VoipService\obj\Debug\ASC.VoipService.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.VoipService\obj\Debug\ASC.VoipService.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.VoipService.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.VoipService.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.VoipService.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.VoipService\obj\Debug\ASC.VoipService.csproj.AssemblyReference.cache
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.VoipService\obj\Debug\ASC.VoipService.csproj.CoreCompileInputs.cache
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.VoipService\obj\Debug\ASC.VoipService.csproj.CopyComplete
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.VoipService\obj\Debug\ASC.VoipService.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.VoipService\obj\Debug\ASC.VoipService.pdb

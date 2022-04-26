@@ -1,0 +1,88 @@
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\callback.htm
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\ASC.Web.CRM.dll.config
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\ASC.Web.CRM.dll
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\ASC.Web.CRM.pdb
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailAggregator\callback.htm
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailAggregator\ASC.Web.CRM.dll.config
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailAggregator\ASC.Web.CRM.dll
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailAggregator\ASC.Web.CRM.pdb
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailWatchdog\callback.htm
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailWatchdog\ASC.Web.CRM.dll.config
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailWatchdog\ASC.Web.CRM.dll
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailWatchdog\ASC.Web.CRM.pdb
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailCleaner\callback.htm
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailCleaner\ASC.Web.CRM.dll.config
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailCleaner\ASC.Web.CRM.dll
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailCleaner\ASC.Web.CRM.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\callback.htm
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Web.CRM.dll.config
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Web.CRM.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Web.CRM.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.csprojAssemblyReference.cache
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMErrorsResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMVoipResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMContactResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMCommonResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMJSResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMDealResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMReportResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMSettingResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMSocialMediaResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMTaskResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Services.NotifyService.CRMPatternResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMInvoiceResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMCasesResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMEnumResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.csproj.GenerateResource.cache
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.csproj.CoreCompileInputs.cache
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.csproj.CopyComplete
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\callback.htm
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Web.CRM.dll.config
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Web.CRM.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Web.CRM.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.csprojAssemblyReference.cache
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMErrorsResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMVoipResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMContactResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMCommonResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMJSResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMDealResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMReportResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMSettingResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMSocialMediaResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMTaskResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Services.NotifyService.CRMPatternResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMInvoiceResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMCasesResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMEnumResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.csproj.GenerateResource.cache
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.csproj.CoreCompileInputs.cache
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.csproj.CopyComplete
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\callback.htm
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Web.CRM.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Web.CRM.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Web.CRM.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.csproj.AssemblyReference.cache
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMErrorsResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMVoipResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMContactResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMCommonResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMJSResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMDealResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMReportResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMSettingResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMSocialMediaResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMTaskResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Services.NotifyService.CRMPatternResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMInvoiceResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMCasesResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMEnumResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.csproj.GenerateResource.cache
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.csproj.CoreCompileInputs.cache
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.csproj.CopyComplete
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.pdb

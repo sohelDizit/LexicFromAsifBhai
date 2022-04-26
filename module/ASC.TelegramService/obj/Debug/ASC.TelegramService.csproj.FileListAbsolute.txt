@@ -1,0 +1,184 @@
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\callback.htm
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\ASC.TelegramService.dll.config
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\ASC.TelegramService.dll
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\ASC.TelegramService.pdb
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\callback.htm
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\ASC.TelegramService.dll.config
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\ASC.TelegramService.dll
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\ASC.TelegramService.pdb
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\ARSoft.Tools.Net.dll
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\Autofac.dll
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\Autofac.pdb
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\AWSSDK.CloudFront.dll
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\AWSSDK.CloudFront.pdb
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\AWSSDK.Core.dll
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\AWSSDK.Core.pdb
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\AWSSDK.S3.dll
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\AWSSDK.S3.pdb
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\AWSSDK.SimpleEmail.dll
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\AWSSDK.SimpleEmail.pdb
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\DotNetOpenAuth.dll
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\Google.Protobuf.dll
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\HtmlAgilityPack.dll
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\JWT.dll
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\log4net.dll
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\MailKit.dll
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\MimeKit.dll
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\MySql.Data.dll
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\Newtonsoft.Json.dll
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\NLog.dll
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\NVelocity.dll
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\Pipelines.Sockets.Unofficial.dll
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\BouncyCastle.Crypto.dll
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\Renci.SshNet.dll
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\StackExchange.Redis.dll
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\StackExchange.Redis.Extensions.Core.dll
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\StackExchange.Redis.Extensions.LegacyConfiguration.dll
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\System.Buffers.dll
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\System.IO.Pipelines.dll
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\System.Memory.dll
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\System.Numerics.Vectors.dll
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\System.Threading.Channels.dll
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\Telegram.Bot.dll
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\Twitterizer2.dll
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\Ubiety.Dns.Core.dll
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\ASC.Common.dll
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\ASC.Core.Common.dll
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\ASC.FederatedLogin.dll
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\ASC.Common.pdb
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\ASC.Common.dll.config
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\ASC.Core.Common.pdb
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\ASC.Core.Common.dll.config
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\ASC.FederatedLogin.pdb
+E:\CommunityServer\module\ASC.TelegramService\bin\Debug\ASC.FederatedLogin.dll.config
+E:\CommunityServer\module\ASC.TelegramService\obj\Debug\ASC.TelegramService.csprojAssemblyReference.cache
+E:\CommunityServer\module\ASC.TelegramService\obj\Debug\ASC.TelegramService.csproj.CoreCompileInputs.cache
+E:\CommunityServer\module\ASC.TelegramService\obj\Debug\ASC.TelegramService.csproj.CopyComplete
+E:\CommunityServer\module\ASC.TelegramService\obj\Debug\ASC.TelegramService.dll
+E:\CommunityServer\module\ASC.TelegramService\obj\Debug\ASC.TelegramService.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\callback.htm
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\ASC.TelegramService.dll.config
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\ASC.TelegramService.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\ASC.TelegramService.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\ARSoft.Tools.Net.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\Autofac.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\Autofac.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\AWSSDK.CloudFront.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\AWSSDK.CloudFront.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\AWSSDK.Core.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\AWSSDK.Core.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\AWSSDK.S3.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\AWSSDK.S3.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\AWSSDK.SimpleEmail.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\AWSSDK.SimpleEmail.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\DotNetOpenAuth.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\Google.Protobuf.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\HtmlAgilityPack.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\JWT.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\log4net.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\MailKit.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\MimeKit.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\MySql.Data.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\Newtonsoft.Json.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\NLog.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\NVelocity.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\Pipelines.Sockets.Unofficial.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\BouncyCastle.Crypto.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\Renci.SshNet.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\StackExchange.Redis.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\StackExchange.Redis.Extensions.Core.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\StackExchange.Redis.Extensions.LegacyConfiguration.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\System.Buffers.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\System.IO.Pipelines.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\System.Memory.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\System.Numerics.Vectors.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\System.Threading.Channels.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\Telegram.Bot.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\Twitterizer2.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\Ubiety.Dns.Core.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\ASC.Common.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\ASC.Core.Common.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\ASC.FederatedLogin.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\ASC.Common.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\ASC.Common.dll.config
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\ASC.Core.Common.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\ASC.Core.Common.dll.config
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\ASC.FederatedLogin.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\bin\Debug\ASC.FederatedLogin.dll.config
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\obj\Debug\ASC.TelegramService.csprojAssemblyReference.cache
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\obj\Debug\ASC.TelegramService.csproj.CoreCompileInputs.cache
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\obj\Debug\ASC.TelegramService.csproj.CopyComplete
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\obj\Debug\ASC.TelegramService.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.TelegramService\obj\Debug\ASC.TelegramService.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\callback.htm
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\ASC.TelegramService.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\ASC.TelegramService.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\ASC.TelegramService.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\ARSoft.Tools.Net.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\Autofac.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\Autofac.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\AWSSDK.CloudFront.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\AWSSDK.CloudFront.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\AWSSDK.Core.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\AWSSDK.Core.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\AWSSDK.S3.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\AWSSDK.S3.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\AWSSDK.SimpleEmail.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\AWSSDK.SimpleEmail.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\DotNetOpenAuth.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\Google.Protobuf.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\HtmlAgilityPack.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\JWT.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\log4net.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\MailKit.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\MimeKit.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\MySql.Data.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\Newtonsoft.Json.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\NLog.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\NVelocity.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\Pipelines.Sockets.Unofficial.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\BouncyCastle.Crypto.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\Renci.SshNet.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\StackExchange.Redis.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\StackExchange.Redis.Extensions.Core.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\StackExchange.Redis.Extensions.LegacyConfiguration.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\System.Buffers.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\System.IO.Pipelines.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\System.Memory.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\System.Numerics.Vectors.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\System.Threading.Channels.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\Telegram.Bot.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\Twitterizer2.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\Ubiety.Dns.Core.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\ASC.Common.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\ASC.Core.Common.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\ASC.FederatedLogin.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\ASC.Common.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\ASC.Common.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\ASC.Core.Common.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\ASC.Core.Common.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\ASC.FederatedLogin.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\bin\Debug\ASC.FederatedLogin.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\obj\Debug\ASC.TelegramService.csproj.AssemblyReference.cache
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\obj\Debug\ASC.TelegramService.csproj.CoreCompileInputs.cache
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\obj\Debug\ASC.TelegramService.csproj.CopyComplete
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\obj\Debug\ASC.TelegramService.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TelegramService\obj\Debug\ASC.TelegramService.pdb

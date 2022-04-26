@@ -1,0 +1,620 @@
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\callback.htm
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Web.Studio.dll.config
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Web.Studio.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Web.Studio.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\AjaxMin.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\AjaxPro.2.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\Antlr3.Runtime.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\Antlr3.Runtime.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ARSoft.Tools.Net.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\Autofac.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\Autofac.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\AWSSDK.CloudFront.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\AWSSDK.CloudFront.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\AWSSDK.Core.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\AWSSDK.Core.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\AWSSDK.S3.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\AWSSDK.S3.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\AWSSDK.SecurityToken.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\AWSSDK.SecurityToken.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\AWSSDK.SimpleEmail.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\AWSSDK.SimpleEmail.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\dotless.AspNet.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\dotless.Core.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\DotNetOpenAuth.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\DotNetZip.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\DotNetZip.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\Elasticsearch.Net.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\Flurl.Http.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\Flurl.Http.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\Flurl.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\Flurl.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\Google.Api.Gax.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\Google.Api.Gax.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\Google.Api.Gax.Rest.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\Google.Api.Gax.Rest.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\Google.Apis.PlatformServices.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\Google.Apis.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\Google.Apis.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\Google.Apis.Auth.PlatformServices.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\Google.Apis.Auth.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\Google.Apis.Auth.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\Google.Apis.Core.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\Google.Apis.Core.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\Google.Apis.Storage.v1.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\Google.Apis.Storage.v1.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\Google.Cloud.Storage.V1.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\Google.Cloud.Storage.V1.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\Google.Protobuf.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\Google.Authenticator.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\HtmlAgilityPack.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\JWT.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\PhoneNumbers.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\log4net.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\MailKit.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\Marvin.JsonPatch.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\System.Web.Optimization.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\System.Net.Http.Formatting.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\System.Web.Http.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\System.Web.Http.WebHost.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\Microsoft.Extensions.DependencyInjection.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\Microsoft.IdentityModel.Logging.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\Microsoft.IdentityModel.Tokens.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\Microsoft.Web.Infrastructure.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\MimeKit.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\Mono.Security.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\MySql.Data.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\Nest.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\Newtonsoft.Json.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\NLog.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\Novell.Directory.LDAP.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\NVelocity.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\openstacknet.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\openstacknet.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\Pipelines.Sockets.Unofficial.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\BouncyCastle.Crypto.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\Rackspace.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\RedisSessionProvider.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\SelectelSharp.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\Renci.SshNet.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\StackExchange.Redis.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\StackExchange.Redis.Extensions.Core.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\StackExchange.Redis.Extensions.LegacyConfiguration.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\System.Buffers.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\System.Collections.Immutable.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\System.Diagnostics.DiagnosticSource.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\System.Diagnostics.PerformanceCounter.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\System.IO.Pipelines.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\System.Memory.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\System.Numerics.Vectors.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\System.Threading.Channels.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\System.Threading.Tasks.Extensions.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\Textile.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\Twilio.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\Twitterizer2.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\UAParser.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\Ubiety.Dns.Core.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\WebGrease.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\System.Web.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.ActiveDirectory.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.ActiveDirectory.dll.config
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Common.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Common.dll.config
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Core.Common.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Core.Common.dll.config
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Data.Storage.Migration.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Data.Storage.Migration.dll.config
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Data.Storage.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Data.Storage.dll.config
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.IPSecurity.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.IPSecurity.dll.config
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Notify.Textile.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Notify.Textile.dll.config
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.ElasticSearch.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.ElasticSearch.dll.config
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Feed.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Feed.dll.config
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.MessagingSystem.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.MessagingSystem.dll.config
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.FederatedLogin.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.FederatedLogin.dll.config
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Thrdparty.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Thrdparty.dll.config
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.VoipService.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.VoipService.dll.config
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Web.Core.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Web.Core.dll.config
+E:\CommunityServer\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.csprojAssemblyReference.cache
+E:\CommunityServer\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.PublicResources.AuditResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.PublicResources.ChatResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.PublicResources.CustomModeResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.PublicResources.StudioCountriesResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.PublicResources.FeedResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.PublicResources.MonitoringResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.PublicResources.Resource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.PublicResources.ResourceJS.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.PublicResources.UserControlsCommonResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.Core.Notify.WebPatternResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.Core.Notify.WebstudioNotifyPatternResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.Core.Users.NamingPeopleResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.PublicResources.WhiteLabelResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.csproj.GenerateResource.cache
+E:\CommunityServer\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.csproj.CoreCompileInputs.cache
+E:\CommunityServer\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.csproj.CopyComplete
+E:\CommunityServer\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.pdb
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\callback.htm
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\ASC.Web.Studio.dll.config
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\ASC.Web.Studio.dll
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\ASC.Web.Studio.pdb
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailAggregator\callback.htm
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailAggregator\ASC.Web.Studio.dll.config
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailAggregator\ASC.Web.Studio.dll
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailAggregator\ASC.Web.Studio.pdb
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailWatchdog\callback.htm
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailWatchdog\ASC.Web.Studio.dll.config
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailWatchdog\ASC.Web.Studio.dll
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailWatchdog\ASC.Web.Studio.pdb
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailCleaner\callback.htm
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailCleaner\ASC.Web.Studio.dll.config
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailCleaner\ASC.Web.Studio.dll
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailCleaner\ASC.Web.Studio.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\callback.htm
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Web.Studio.dll.config
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Web.Studio.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Web.Studio.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\AjaxMin.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\AjaxPro.2.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\Antlr3.Runtime.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\Antlr3.Runtime.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ARSoft.Tools.Net.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\Autofac.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\Autofac.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\AWSSDK.CloudFront.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\AWSSDK.CloudFront.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\AWSSDK.Core.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\AWSSDK.Core.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\AWSSDK.S3.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\AWSSDK.S3.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\AWSSDK.SecurityToken.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\AWSSDK.SecurityToken.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\AWSSDK.SimpleEmail.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\AWSSDK.SimpleEmail.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\dotless.AspNet.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\dotless.Core.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\DotNetOpenAuth.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\DotNetZip.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\DotNetZip.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\Elasticsearch.Net.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\Flurl.Http.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\Flurl.Http.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\Flurl.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\Flurl.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\Google.Api.Gax.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\Google.Api.Gax.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\Google.Api.Gax.Rest.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\Google.Api.Gax.Rest.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\Google.Apis.PlatformServices.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\Google.Apis.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\Google.Apis.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\Google.Apis.Auth.PlatformServices.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\Google.Apis.Auth.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\Google.Apis.Auth.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\Google.Apis.Core.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\Google.Apis.Core.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\Google.Apis.Storage.v1.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\Google.Apis.Storage.v1.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\Google.Cloud.Storage.V1.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\Google.Cloud.Storage.V1.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\Google.Protobuf.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\Google.Authenticator.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\HtmlAgilityPack.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\JWT.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\PhoneNumbers.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\log4net.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\MailKit.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\Marvin.JsonPatch.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\System.Web.Optimization.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\System.Net.Http.Formatting.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\System.Web.Http.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\System.Web.Http.WebHost.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\Microsoft.IdentityModel.Logging.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\Microsoft.IdentityModel.Tokens.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\Microsoft.Web.Infrastructure.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\MimeKit.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\Mono.Security.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\MySql.Data.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\Nest.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\Newtonsoft.Json.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\NLog.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\Novell.Directory.LDAP.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\NVelocity.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\openstacknet.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\openstacknet.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\Pipelines.Sockets.Unofficial.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\BouncyCastle.Crypto.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\Rackspace.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\RedisSessionProvider.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\SelectelSharp.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\Renci.SshNet.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\StackExchange.Redis.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\StackExchange.Redis.Extensions.Core.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\StackExchange.Redis.Extensions.LegacyConfiguration.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\System.Buffers.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\System.Collections.Immutable.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\System.Diagnostics.DiagnosticSource.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\System.Diagnostics.PerformanceCounter.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\System.IO.Pipelines.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\System.Memory.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\System.Numerics.Vectors.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\System.Threading.Channels.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\System.Threading.Tasks.Extensions.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\Textile.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\Twilio.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\Twitterizer2.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\UAParser.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\Ubiety.Dns.Core.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\WebGrease.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\System.Web.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.ActiveDirectory.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.ActiveDirectory.dll.config
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Common.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Common.dll.config
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Core.Common.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Core.Common.dll.config
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Data.Storage.Migration.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Data.Storage.Migration.dll.config
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Data.Storage.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Data.Storage.dll.config
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.IPSecurity.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.IPSecurity.dll.config
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Notify.Textile.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Notify.Textile.dll.config
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.ElasticSearch.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.ElasticSearch.dll.config
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Feed.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Feed.dll.config
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.MessagingSystem.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.MessagingSystem.dll.config
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.FederatedLogin.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.FederatedLogin.dll.config
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Thrdparty.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Thrdparty.dll.config
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.VoipService.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.VoipService.dll.config
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Web.Core.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Web.Core.dll.config
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.csprojAssemblyReference.cache
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.PublicResources.AuditResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.PublicResources.ChatResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.PublicResources.CustomModeResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.PublicResources.StudioCountriesResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.PublicResources.FeedResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.PublicResources.MonitoringResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.PublicResources.Resource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.PublicResources.ResourceJS.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.PublicResources.UserControlsCommonResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.Core.Notify.WebPatternResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.Core.Notify.WebstudioNotifyPatternResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.Core.Users.NamingPeopleResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.PublicResources.WhiteLabelResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.csproj.GenerateResource.cache
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.csproj.CoreCompileInputs.cache
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.csproj.CopyComplete
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\callback.htm
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Web.Studio.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Web.Studio.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Web.Studio.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\AjaxMin.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\AjaxPro.2.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\Antlr3.Runtime.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\Antlr3.Runtime.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ARSoft.Tools.Net.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\Autofac.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\Autofac.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\AWSSDK.CloudFront.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\AWSSDK.CloudFront.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\AWSSDK.Core.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\AWSSDK.Core.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\AWSSDK.S3.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\AWSSDK.S3.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\AWSSDK.SecurityToken.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\AWSSDK.SecurityToken.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\AWSSDK.SimpleEmail.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\AWSSDK.SimpleEmail.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\dotless.AspNet.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\dotless.Core.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\DotNetOpenAuth.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\DotNetZip.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\DotNetZip.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\Elasticsearch.Net.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\Flurl.Http.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\Flurl.Http.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\Flurl.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\Flurl.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\Google.Api.Gax.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\Google.Api.Gax.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\Google.Api.Gax.Rest.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\Google.Api.Gax.Rest.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\Google.Apis.PlatformServices.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\Google.Apis.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\Google.Apis.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\Google.Apis.Auth.PlatformServices.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\Google.Apis.Auth.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\Google.Apis.Auth.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\Google.Apis.Core.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\Google.Apis.Core.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\Google.Apis.Storage.v1.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\Google.Apis.Storage.v1.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\Google.Cloud.Storage.V1.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\Google.Cloud.Storage.V1.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\Google.Protobuf.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\Google.Authenticator.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\HtmlAgilityPack.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\JWT.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\PhoneNumbers.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\log4net.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\MailKit.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\Marvin.JsonPatch.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\System.Web.Optimization.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\System.Net.Http.Formatting.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\System.Web.Http.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\System.Web.Http.WebHost.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\Microsoft.Extensions.DependencyInjection.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\Microsoft.IdentityModel.Logging.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\Microsoft.IdentityModel.Tokens.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\Microsoft.Web.Infrastructure.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\MimeKit.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\Mono.Security.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\MySql.Data.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\Nest.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\Newtonsoft.Json.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\NLog.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\Novell.Directory.LDAP.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\NVelocity.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\openstacknet.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\openstacknet.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\Pipelines.Sockets.Unofficial.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\BouncyCastle.Crypto.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\Rackspace.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\RedisSessionProvider.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\SelectelSharp.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\Renci.SshNet.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\StackExchange.Redis.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\StackExchange.Redis.Extensions.Core.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\StackExchange.Redis.Extensions.LegacyConfiguration.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\System.Buffers.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\System.Collections.Immutable.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\System.Diagnostics.PerformanceCounter.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\System.IO.Pipelines.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\System.Memory.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\System.Numerics.Vectors.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\System.Threading.Channels.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\System.Threading.Tasks.Extensions.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\Textile.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\Twilio.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\Twitterizer2.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\UAParser.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\Ubiety.Dns.Core.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\WebGrease.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\System.Web.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.ActiveDirectory.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.ActiveDirectory.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Common.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Common.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Core.Common.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Core.Common.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Data.Storage.Migration.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Data.Storage.Migration.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Data.Storage.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Data.Storage.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.IPSecurity.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.IPSecurity.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Notify.Textile.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Notify.Textile.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.ElasticSearch.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.ElasticSearch.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Feed.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Feed.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.MessagingSystem.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.MessagingSystem.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.FederatedLogin.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.FederatedLogin.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Thrdparty.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Thrdparty.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.VoipService.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.VoipService.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Web.Core.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Web.Core.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.csproj.AssemblyReference.cache
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.PublicResources.AuditResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.PublicResources.ChatResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.PublicResources.CustomModeResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.PublicResources.StudioCountriesResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.PublicResources.FeedResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.PublicResources.MonitoringResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.PublicResources.Resource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.PublicResources.ResourceJS.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.PublicResources.UserControlsCommonResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.Core.Notify.WebPatternResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.Core.Notify.WebstudioNotifyPatternResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.Core.Users.NamingPeopleResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.PublicResources.WhiteLabelResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.csproj.GenerateResource.cache
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.csproj.CoreCompileInputs.cache
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.csproj.CopyComplete
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\callback.htm
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.Web.Studio.dll.config
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.Web.Studio.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.Web.Studio.pdb
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\AjaxMin.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\AjaxPro.2.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\Antlr3.Runtime.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\Antlr3.Runtime.pdb
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ARSoft.Tools.Net.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\Autofac.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\Autofac.pdb
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\AWSSDK.CloudFront.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\AWSSDK.CloudFront.pdb
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\AWSSDK.Core.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\AWSSDK.Core.pdb
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\AWSSDK.S3.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\AWSSDK.S3.pdb
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\AWSSDK.SecurityToken.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\AWSSDK.SecurityToken.pdb
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\AWSSDK.SimpleEmail.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\AWSSDK.SimpleEmail.pdb
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\dotless.AspNet.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\dotless.Core.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\DotNetOpenAuth.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\DotNetZip.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\DotNetZip.pdb
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\Elasticsearch.Net.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\Flurl.Http.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\Flurl.Http.pdb
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\Flurl.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\Flurl.pdb
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\Google.Api.Gax.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\Google.Api.Gax.pdb
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\Google.Api.Gax.Rest.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\Google.Api.Gax.Rest.pdb
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\Google.Apis.PlatformServices.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\Google.Apis.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\Google.Apis.pdb
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\Google.Apis.Auth.PlatformServices.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\Google.Apis.Auth.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\Google.Apis.Auth.pdb
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\Google.Apis.Core.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\Google.Apis.Core.pdb
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\Google.Apis.Storage.v1.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\Google.Apis.Storage.v1.pdb
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\Google.Cloud.Storage.V1.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\Google.Cloud.Storage.V1.pdb
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\Google.Protobuf.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\Google.Authenticator.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\HtmlAgilityPack.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\JWT.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\PhoneNumbers.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\log4net.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\MailKit.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\Marvin.JsonPatch.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\System.Web.Optimization.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\System.Net.Http.Formatting.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\System.Web.Http.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\System.Web.Http.WebHost.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\Microsoft.Extensions.DependencyInjection.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\Microsoft.IdentityModel.Logging.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\Microsoft.IdentityModel.Tokens.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\Microsoft.Web.Infrastructure.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\MimeKit.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\Mono.Security.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\MySql.Data.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\Nest.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\Newtonsoft.Json.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\NLog.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\Novell.Directory.LDAP.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\NVelocity.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\openstacknet.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\openstacknet.pdb
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\Pipelines.Sockets.Unofficial.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\BouncyCastle.Crypto.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\Rackspace.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\RedisSessionProvider.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\SelectelSharp.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\Renci.SshNet.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\StackExchange.Redis.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\StackExchange.Redis.Extensions.Core.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\StackExchange.Redis.Extensions.LegacyConfiguration.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\System.Buffers.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\System.Collections.Immutable.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\System.Diagnostics.PerformanceCounter.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\System.IO.Pipelines.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\System.Memory.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\System.Numerics.Vectors.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\System.Threading.Channels.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\System.Threading.Tasks.Extensions.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\Textile.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\Twilio.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\Twitterizer2.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\UAParser.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\Ubiety.Dns.Core.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\WebGrease.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\System.Web.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.ActiveDirectory.pdb
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.ActiveDirectory.dll.config
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.Common.pdb
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.Common.dll.config
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.Core.Common.pdb
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.Core.Common.dll.config
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.Data.Storage.Migration.pdb
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.Data.Storage.Migration.dll.config
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.Data.Storage.pdb
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.Data.Storage.dll.config
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.IPSecurity.pdb
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.IPSecurity.dll.config
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.Notify.Textile.pdb
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.Notify.Textile.dll.config
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.ElasticSearch.pdb
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.ElasticSearch.dll.config
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.Feed.pdb
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.Feed.dll.config
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.MessagingSystem.pdb
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.MessagingSystem.dll.config
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.FederatedLogin.pdb
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.FederatedLogin.dll.config
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.Thrdparty.pdb
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.Thrdparty.dll.config
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.VoipService.pdb
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.VoipService.dll.config
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.Web.Core.pdb
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.Web.Core.dll.config
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.csproj.AssemblyReference.cache
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.PublicResources.AuditResource.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.PublicResources.ChatResource.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.PublicResources.CustomModeResource.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.PublicResources.StudioCountriesResource.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.PublicResources.FeedResource.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.PublicResources.MonitoringResource.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.PublicResources.Resource.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.PublicResources.ResourceJS.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.PublicResources.UserControlsCommonResource.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.Core.Notify.WebPatternResource.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.Core.Notify.WebstudioNotifyPatternResource.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.Core.Users.NamingPeopleResource.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.PublicResources.WhiteLabelResource.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.csproj.GenerateResource.cache
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.csproj.CoreCompileInputs.cache
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.csproj.CopyComplete
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\obj\Debug\ASC.Web.Studio.pdb

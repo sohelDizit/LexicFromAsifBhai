@@ -1,0 +1,58 @@
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\callback.htm
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\ASC.Web.Files.dll.config
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\ASC.Web.Files.dll
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\ASC.Web.Files.pdb
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailAggregator\callback.htm
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailAggregator\ASC.Web.Files.dll.config
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailAggregator\ASC.Web.Files.dll
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailAggregator\ASC.Web.Files.pdb
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailWatchdog\callback.htm
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailWatchdog\ASC.Web.Files.dll.config
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailWatchdog\ASC.Web.Files.dll
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailWatchdog\ASC.Web.Files.pdb
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailCleaner\callback.htm
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailCleaner\ASC.Web.Files.dll.config
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailCleaner\ASC.Web.Files.dll
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailCleaner\ASC.Web.Files.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\callback.htm
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Web.Files.dll.config
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Web.Files.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Web.Files.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Files\obj\Debug\ASC.Web.Files.csprojAssemblyReference.cache
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Files\obj\Debug\ASC.Web.Files.Resources.FilesCommonResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Files\obj\Debug\ASC.Web.Files.Resources.FilesJSResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Files\obj\Debug\ASC.Web.Files.Resources.FilesUCResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Files\obj\Debug\ASC.Web.Files.Services.NotifyService.FilesPatternResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Files\obj\Debug\ASC.Web.Files.csproj.GenerateResource.cache
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Files\obj\Debug\ASC.Web.Files.csproj.CoreCompileInputs.cache
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Files\obj\Debug\ASC.Web.Files.csproj.CopyComplete
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Files\obj\Debug\ASC.Web.Files.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Files\obj\Debug\ASC.Web.Files.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\callback.htm
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Web.Files.dll.config
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Web.Files.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Web.Files.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Files\obj\Debug\ASC.Web.Files.csprojAssemblyReference.cache
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Files\obj\Debug\ASC.Web.Files.Resources.FilesCommonResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Files\obj\Debug\ASC.Web.Files.Resources.FilesJSResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Files\obj\Debug\ASC.Web.Files.Resources.FilesUCResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Files\obj\Debug\ASC.Web.Files.Services.NotifyService.FilesPatternResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Files\obj\Debug\ASC.Web.Files.csproj.GenerateResource.cache
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Files\obj\Debug\ASC.Web.Files.csproj.CoreCompileInputs.cache
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Files\obj\Debug\ASC.Web.Files.csproj.CopyComplete
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Files\obj\Debug\ASC.Web.Files.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Files\obj\Debug\ASC.Web.Files.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\callback.htm
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Web.Files.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Web.Files.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Web.Files.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Files\obj\Debug\ASC.Web.Files.csproj.AssemblyReference.cache
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Files\obj\Debug\ASC.Web.Files.Resources.FilesCommonResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Files\obj\Debug\ASC.Web.Files.Resources.FilesJSResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Files\obj\Debug\ASC.Web.Files.Resources.FilesUCResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Files\obj\Debug\ASC.Web.Files.Services.NotifyService.FilesPatternResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Files\obj\Debug\ASC.Web.Files.csproj.GenerateResource.cache
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Files\obj\Debug\ASC.Web.Files.csproj.CoreCompileInputs.cache
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Files\obj\Debug\ASC.Web.Files.csproj.CopyComplete
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Files\obj\Debug\ASC.Web.Files.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Files\obj\Debug\ASC.Web.Files.pdb

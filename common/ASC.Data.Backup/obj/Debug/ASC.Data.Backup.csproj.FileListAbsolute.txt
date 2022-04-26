@@ -1,0 +1,31 @@
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\callback.htm
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\ASC.Data.Backup.dll.config
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\ASC.Data.Backup.dll
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\ASC.Data.Backup.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\callback.htm
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Data.Backup.dll.config
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Data.Backup.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Data.Backup.pdb
+E:\CommunityServer\common\ASC.Data.Backup\obj\Debug\ASC.Data.Backup.csprojAssemblyReference.cache
+E:\CommunityServer\common\ASC.Data.Backup\obj\Debug\ASC.Data.Backup.csproj.CoreCompileInputs.cache
+E:\CommunityServer\common\ASC.Data.Backup\obj\Debug\ASC.Data.Backup.csproj.CopyComplete
+E:\CommunityServer\common\ASC.Data.Backup\obj\Debug\ASC.Data.Backup.dll
+E:\CommunityServer\common\ASC.Data.Backup\obj\Debug\ASC.Data.Backup.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\callback.htm
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Data.Backup.dll.config
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Data.Backup.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Data.Backup.pdb
+D:\EKT.AI\LEXIC-2.0\common\ASC.Data.Backup\obj\Debug\ASC.Data.Backup.csprojAssemblyReference.cache
+D:\EKT.AI\LEXIC-2.0\common\ASC.Data.Backup\obj\Debug\ASC.Data.Backup.csproj.CoreCompileInputs.cache
+D:\EKT.AI\LEXIC-2.0\common\ASC.Data.Backup\obj\Debug\ASC.Data.Backup.csproj.CopyComplete
+D:\EKT.AI\LEXIC-2.0\common\ASC.Data.Backup\obj\Debug\ASC.Data.Backup.dll
+D:\EKT.AI\LEXIC-2.0\common\ASC.Data.Backup\obj\Debug\ASC.Data.Backup.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\callback.htm
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Data.Backup.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Data.Backup.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Data.Backup.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Data.Backup\obj\Debug\ASC.Data.Backup.csproj.AssemblyReference.cache
+E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Data.Backup\obj\Debug\ASC.Data.Backup.csproj.CoreCompileInputs.cache
+E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Data.Backup\obj\Debug\ASC.Data.Backup.csproj.CopyComplete
+E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Data.Backup\obj\Debug\ASC.Data.Backup.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Data.Backup\obj\Debug\ASC.Data.Backup.pdb

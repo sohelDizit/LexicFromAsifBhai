@@ -1,0 +1,36 @@
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\ASC.Feed.dll.config
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\ASC.Feed.dll
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\ASC.Feed.pdb
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailAggregator\ASC.Feed.dll.config
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailAggregator\ASC.Feed.dll
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailAggregator\ASC.Feed.pdb
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailWatchdog\ASC.Feed.dll.config
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailWatchdog\ASC.Feed.dll
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailWatchdog\ASC.Feed.pdb
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailCleaner\ASC.Feed.dll.config
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailCleaner\ASC.Feed.dll
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailCleaner\ASC.Feed.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Feed.dll.config
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Feed.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Feed.pdb
+E:\CommunityServer\module\ASC.Feed\obj\Debug\ASC.Feed.csprojAssemblyReference.cache
+E:\CommunityServer\module\ASC.Feed\obj\Debug\ASC.Feed.csproj.CoreCompileInputs.cache
+E:\CommunityServer\module\ASC.Feed\obj\Debug\ASC.Feed.csproj.CopyComplete
+E:\CommunityServer\module\ASC.Feed\obj\Debug\ASC.Feed.dll
+E:\CommunityServer\module\ASC.Feed\obj\Debug\ASC.Feed.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Feed.dll.config
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Feed.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Feed.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.Feed\obj\Debug\ASC.Feed.csprojAssemblyReference.cache
+D:\EKT.AI\LEXIC-2.0\module\ASC.Feed\obj\Debug\ASC.Feed.csproj.CoreCompileInputs.cache
+D:\EKT.AI\LEXIC-2.0\module\ASC.Feed\obj\Debug\ASC.Feed.csproj.CopyComplete
+D:\EKT.AI\LEXIC-2.0\module\ASC.Feed\obj\Debug\ASC.Feed.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Feed\obj\Debug\ASC.Feed.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Feed.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Feed.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Feed.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Feed\obj\Debug\ASC.Feed.csproj.AssemblyReference.cache
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Feed\obj\Debug\ASC.Feed.csproj.CoreCompileInputs.cache
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Feed\obj\Debug\ASC.Feed.csproj.CopyComplete
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Feed\obj\Debug\ASC.Feed.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Feed\obj\Debug\ASC.Feed.pdb

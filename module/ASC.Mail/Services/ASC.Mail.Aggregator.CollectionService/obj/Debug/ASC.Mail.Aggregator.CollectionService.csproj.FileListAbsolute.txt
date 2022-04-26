@@ -1,0 +1,588 @@
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailAggregator\callback.htm
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailAggregator\web.consumers.config
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailAggregator\web.autofac.config
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailAggregator\mail.agg.log4net.config
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailAggregator\mail.agg.nlog.config
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailAggregator\App.config
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailAggregator\ASC.Mail.Aggregator.CollectionService.exe.config
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailAggregator\ASC.Mail.Aggregator.CollectionService.exe
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailAggregator\ASC.Mail.Aggregator.CollectionService.pdb
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\callback.htm
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\web.consumers.config
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\web.autofac.config
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\mail.agg.log4net.config
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\mail.agg.nlog.config
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\App.config
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Mail.Aggregator.CollectionService.exe.config
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Mail.Aggregator.CollectionService.exe
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Mail.Aggregator.CollectionService.pdb
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\AjaxMin.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\AjaxPro.2.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\AntiXssLibrary.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\HtmlSanitizationLibrary.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Antlr3.Runtime.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Antlr3.Runtime.pdb
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ARSoft.Tools.Net.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Autofac.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Autofac.pdb
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\AWSSDK.CloudFront.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\AWSSDK.CloudFront.pdb
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\AWSSDK.Core.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\AWSSDK.Core.pdb
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\AWSSDK.S3.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\AWSSDK.S3.pdb
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\AWSSDK.SecurityToken.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\AWSSDK.SecurityToken.pdb
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\AWSSDK.SimpleEmail.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\AWSSDK.SimpleEmail.pdb
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\CommandLine.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\DocuSign.eSign.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\dotless.AspNet.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\dotless.Core.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\DotNetOpenAuth.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\DotNetZip.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\DotNetZip.pdb
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Elasticsearch.Net.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Flurl.Http.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Flurl.Http.pdb
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Flurl.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Flurl.pdb
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Api.Gax.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Api.Gax.pdb
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Api.Gax.Rest.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Api.Gax.Rest.pdb
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Apis.PlatformServices.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Apis.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Apis.pdb
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Apis.Auth.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Apis.Auth.pdb
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Apis.Core.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Apis.Core.pdb
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Apis.Storage.v1.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Apis.Storage.v1.pdb
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Cloud.Storage.V1.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Cloud.Storage.V1.pdb
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Protobuf.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Authenticator.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\HtmlAgilityPack.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Ical.Net.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Ical.Net.pdb
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\JWT.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\PhoneNumbers.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\LiteDB.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\log4net.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\LumenWorks.Framework.IO.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\LumenWorks.Framework.IO.pdb
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\MailKit.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Marvin.JsonPatch.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Web.Mvc.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Web.Razor.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Web.Optimization.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Net.Http.Formatting.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Web.Http.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Web.Http.WebHost.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Web.Helpers.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Web.WebPages.Razor.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Web.WebPages.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\MimeKit.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Mono.Security.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\MySql.Data.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Nest.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Newtonsoft.Json.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\NLog.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\NodaTime.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Novell.Directory.LDAP.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\NVelocity.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\openstacknet.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\openstacknet.pdb
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Pipelines.Sockets.Unofficial.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\BouncyCastle.Crypto.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Rackspace.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\RedisSessionProvider.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\RestSharp.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\SelectelSharp.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Renci.SshNet.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\StackExchange.Redis.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\StackExchange.Redis.Extensions.Core.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\StackExchange.Redis.Extensions.LegacyConfiguration.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Buffers.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Collections.Immutable.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.IO.Pipelines.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Memory.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Numerics.Vectors.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Reflection.TypeExtensions.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Threading.Channels.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Textile.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Twilio.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Twilio.AspNet.Common.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Twilio.AspNet.Mvc.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Twitterizer2.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\UAParser.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Ubiety.Dns.Core.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Ude.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\WebGrease.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Common.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Core.Common.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Data.Storage.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.ElasticSearch.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Mail.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Web.Core.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Web.Files.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.FederatedLogin.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Specific.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Mail.Server.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Web.CRM.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Web.Studio.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Api.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.VoipService.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.MessagingSystem.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.ActiveDirectory.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.IPSecurity.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Thrdparty.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Feed.dll
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Common.pdb
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Common.dll.config
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Core.Common.pdb
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Core.Common.dll.config
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Data.Storage.pdb
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Data.Storage.dll.config
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.ElasticSearch.pdb
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.ElasticSearch.dll.config
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Mail.pdb
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Mail.dll.config
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Web.Core.pdb
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Web.Core.dll.config
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Web.Files.pdb
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Web.Files.dll.config
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.FederatedLogin.pdb
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.FederatedLogin.dll.config
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Specific.pdb
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Specific.xml
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Specific.dll.config
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Mail.Server.pdb
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Mail.Server.dll.config
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Web.CRM.pdb
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Web.CRM.dll.config
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Web.Studio.pdb
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Web.Studio.dll.config
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Api.pdb
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Api.dll.config
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.VoipService.pdb
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.VoipService.dll.config
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.MessagingSystem.pdb
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.MessagingSystem.dll.config
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.ActiveDirectory.pdb
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.ActiveDirectory.dll.config
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.IPSecurity.pdb
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.IPSecurity.dll.config
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Thrdparty.pdb
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Thrdparty.dll.config
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Feed.pdb
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Feed.dll.config
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\obj\Debug\ASC.Mail.Aggregator.CollectionService.csprojAssemblyReference.cache
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\obj\Debug\ASC.Mail.Aggregator.CollectionService.exe.config
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\obj\Debug\ASC.Mail.Aggregator.CollectionService.csproj.CoreCompileInputs.cache
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\obj\Debug\ASC.Mail.Aggregator.CollectionService.csproj.CopyComplete
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\obj\Debug\ASC.Mail.Aggregator.CollectionService.exe
+E:\CommunityServer\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\obj\Debug\ASC.Mail.Aggregator.CollectionService.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\callback.htm
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\web.consumers.config
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\web.autofac.config
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\mail.agg.log4net.config
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\mail.agg.nlog.config
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\App.config
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Mail.Aggregator.CollectionService.exe.config
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Mail.Aggregator.CollectionService.exe
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Mail.Aggregator.CollectionService.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\AjaxMin.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\AjaxPro.2.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\AntiXssLibrary.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\HtmlSanitizationLibrary.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Antlr3.Runtime.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Antlr3.Runtime.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ARSoft.Tools.Net.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Autofac.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Autofac.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\AWSSDK.CloudFront.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\AWSSDK.CloudFront.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\AWSSDK.Core.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\AWSSDK.Core.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\AWSSDK.S3.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\AWSSDK.S3.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\AWSSDK.SecurityToken.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\AWSSDK.SecurityToken.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\AWSSDK.SimpleEmail.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\AWSSDK.SimpleEmail.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\CommandLine.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\DocuSign.eSign.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\dotless.AspNet.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\dotless.Core.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\DotNetOpenAuth.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\DotNetZip.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\DotNetZip.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Elasticsearch.Net.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Flurl.Http.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Flurl.Http.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Flurl.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Flurl.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Api.Gax.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Api.Gax.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Api.Gax.Rest.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Api.Gax.Rest.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Apis.PlatformServices.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Apis.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Apis.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Apis.Auth.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Apis.Auth.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Apis.Core.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Apis.Core.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Apis.Storage.v1.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Apis.Storage.v1.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Cloud.Storage.V1.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Cloud.Storage.V1.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Protobuf.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Authenticator.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\HtmlAgilityPack.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Ical.Net.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Ical.Net.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\JWT.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\PhoneNumbers.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\LiteDB.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\log4net.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\LumenWorks.Framework.IO.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\LumenWorks.Framework.IO.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\MailKit.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Marvin.JsonPatch.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Web.Mvc.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Web.Razor.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Web.Optimization.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Net.Http.Formatting.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Web.Http.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Web.Http.WebHost.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Web.Helpers.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Web.WebPages.Razor.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Web.WebPages.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\MimeKit.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Mono.Security.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\MySql.Data.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Nest.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Newtonsoft.Json.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\NLog.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\NodaTime.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Novell.Directory.LDAP.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\NVelocity.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\openstacknet.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\openstacknet.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Pipelines.Sockets.Unofficial.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\BouncyCastle.Crypto.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Rackspace.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\RedisSessionProvider.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\RestSharp.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\SelectelSharp.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Renci.SshNet.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\StackExchange.Redis.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\StackExchange.Redis.Extensions.Core.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\StackExchange.Redis.Extensions.LegacyConfiguration.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Buffers.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Collections.Immutable.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.IO.Pipelines.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Memory.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Numerics.Vectors.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Reflection.TypeExtensions.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Threading.Channels.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Textile.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Twilio.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Twilio.AspNet.Common.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Twilio.AspNet.Mvc.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Twitterizer2.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\UAParser.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Ubiety.Dns.Core.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Ude.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\WebGrease.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Common.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Core.Common.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Data.Storage.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.ElasticSearch.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Mail.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Web.Core.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Web.Files.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.FederatedLogin.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Specific.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Mail.Server.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Web.CRM.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Web.Studio.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Api.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.VoipService.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.MessagingSystem.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.ActiveDirectory.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.IPSecurity.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Thrdparty.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Feed.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Common.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Common.dll.config
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Core.Common.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Core.Common.dll.config
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Data.Storage.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Data.Storage.dll.config
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.ElasticSearch.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.ElasticSearch.dll.config
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Mail.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Mail.dll.config
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Web.Core.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Web.Core.dll.config
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Web.Files.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Web.Files.dll.config
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.FederatedLogin.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.FederatedLogin.dll.config
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Specific.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Specific.xml
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Specific.dll.config
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Mail.Server.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Mail.Server.dll.config
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Web.CRM.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Web.CRM.dll.config
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Web.Studio.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Web.Studio.dll.config
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Api.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Api.dll.config
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.VoipService.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.VoipService.dll.config
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.MessagingSystem.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.MessagingSystem.dll.config
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.ActiveDirectory.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.ActiveDirectory.dll.config
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.IPSecurity.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.IPSecurity.dll.config
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Thrdparty.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Thrdparty.dll.config
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Feed.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Feed.dll.config
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\obj\Debug\ASC.Mail.Aggregator.CollectionService.csprojAssemblyReference.cache
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\obj\Debug\ASC.Mail.Aggregator.CollectionService.exe.config
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\obj\Debug\ASC.Mail.Aggregator.CollectionService.csproj.CoreCompileInputs.cache
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\obj\Debug\ASC.Mail.Aggregator.CollectionService.csproj.CopyComplete
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\obj\Debug\ASC.Mail.Aggregator.CollectionService.exe
+D:\EKT.AI\LEXIC-2.0\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\obj\Debug\ASC.Mail.Aggregator.CollectionService.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\mail.agg.log4net.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\mail.agg.nlog.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\callback.htm
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\web.consumers.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\web.autofac.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\App.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Mail.Aggregator.CollectionService.exe.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Mail.Aggregator.CollectionService.exe
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Mail.Aggregator.CollectionService.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\AjaxMin.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\AjaxPro.2.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\AntiXssLibrary.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\HtmlSanitizationLibrary.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Antlr3.Runtime.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Antlr3.Runtime.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ARSoft.Tools.Net.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Autofac.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Autofac.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\AWSSDK.CloudFront.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\AWSSDK.CloudFront.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\AWSSDK.Core.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\AWSSDK.Core.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\AWSSDK.S3.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\AWSSDK.S3.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\AWSSDK.SecurityToken.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\AWSSDK.SecurityToken.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\AWSSDK.SimpleEmail.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\AWSSDK.SimpleEmail.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\CommandLine.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\DocuSign.eSign.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\dotless.AspNet.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\dotless.Core.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\DotNetOpenAuth.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\DotNetZip.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\DotNetZip.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Elasticsearch.Net.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Flurl.Http.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Flurl.Http.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Flurl.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Flurl.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Api.Gax.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Api.Gax.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Api.Gax.Rest.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Api.Gax.Rest.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Apis.PlatformServices.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Apis.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Apis.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Apis.Auth.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Apis.Auth.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Apis.Core.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Apis.Core.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Apis.Storage.v1.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Apis.Storage.v1.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Cloud.Storage.V1.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Cloud.Storage.V1.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Protobuf.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Google.Authenticator.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\HtmlAgilityPack.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Ical.Net.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Ical.Net.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\JWT.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\PhoneNumbers.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\LiteDB.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\log4net.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\LumenWorks.Framework.IO.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\LumenWorks.Framework.IO.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\MailKit.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Marvin.JsonPatch.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Web.Mvc.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Web.Razor.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Web.Optimization.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Net.Http.Formatting.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Web.Http.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Web.Http.WebHost.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Web.Helpers.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Web.WebPages.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Microsoft.IdentityModel.Logging.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\MimeKit.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Mono.Security.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\MySql.Data.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Nest.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Newtonsoft.Json.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\NLog.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\NodaTime.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Novell.Directory.LDAP.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\NVelocity.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\openstacknet.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\openstacknet.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Pipelines.Sockets.Unofficial.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\BouncyCastle.Crypto.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Rackspace.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\RedisSessionProvider.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\RestSharp.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\SelectelSharp.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Renci.SshNet.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\StackExchange.Redis.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\StackExchange.Redis.Extensions.Core.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\StackExchange.Redis.Extensions.LegacyConfiguration.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Buffers.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Collections.Immutable.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.IO.Pipelines.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Memory.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Numerics.Vectors.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Reflection.TypeExtensions.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Threading.Channels.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Textile.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Twilio.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Twilio.AspNet.Common.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Twilio.AspNet.Mvc.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Twitterizer2.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\UAParser.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Ubiety.Dns.Core.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\Ude.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\WebGrease.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Common.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Core.Common.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Data.Storage.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.ElasticSearch.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Mail.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Web.Core.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Web.Files.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.FederatedLogin.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Specific.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Mail.Server.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Web.CRM.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Web.Studio.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Api.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.VoipService.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.MessagingSystem.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.ActiveDirectory.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.IPSecurity.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Thrdparty.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Feed.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Common.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Common.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Core.Common.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Core.Common.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Data.Storage.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Data.Storage.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.ElasticSearch.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.ElasticSearch.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Mail.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Mail.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Web.Core.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Web.Core.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Web.Files.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Web.Files.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.FederatedLogin.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.FederatedLogin.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Specific.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Specific.xml
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Specific.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Mail.Server.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Mail.Server.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Web.CRM.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Web.CRM.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Web.Studio.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Web.Studio.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Api.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Api.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.VoipService.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.VoipService.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.MessagingSystem.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.MessagingSystem.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.ActiveDirectory.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.ActiveDirectory.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.IPSecurity.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.IPSecurity.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Thrdparty.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Thrdparty.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Feed.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\bin\Debug\ASC.Feed.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\obj\Debug\ASC.Mail.Aggregator.CollectionService.csproj.AssemblyReference.cache
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\obj\Debug\ASC.Mail.Aggregator.CollectionService.exe.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\obj\Debug\ASC.Mail.Aggregator.CollectionService.csproj.CoreCompileInputs.cache
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\obj\Debug\ASC.Mail.Aggregator.CollectionService.csproj.CopyComplete
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\obj\Debug\ASC.Mail.Aggregator.CollectionService.exe
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail\Services\ASC.Mail.Aggregator.CollectionService\obj\Debug\ASC.Mail.Aggregator.CollectionService.pdb

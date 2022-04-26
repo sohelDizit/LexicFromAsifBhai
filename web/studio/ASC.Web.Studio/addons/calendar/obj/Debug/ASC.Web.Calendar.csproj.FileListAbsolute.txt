@@ -1,0 +1,40 @@
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\callback.htm
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\ASC.Web.Calendar.dll.config
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\ASC.Web.Calendar.dll
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\ASC.Web.Calendar.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\callback.htm
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Web.Calendar.dll.config
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Web.Calendar.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Web.Calendar.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\addons\calendar\obj\Debug\ASC.Web.Calendar.csprojAssemblyReference.cache
+E:\CommunityServer\web\studio\ASC.Web.Studio\addons\calendar\obj\Debug\ASC.Web.Calendar.Resources.CalendarJSResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\addons\calendar\obj\Debug\ASC.Web.Calendar.Resources.CalendarAddonResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\addons\calendar\obj\Debug\ASC.Web.Calendar.csproj.GenerateResource.cache
+E:\CommunityServer\web\studio\ASC.Web.Studio\addons\calendar\obj\Debug\ASC.Web.Calendar.csproj.CoreCompileInputs.cache
+E:\CommunityServer\web\studio\ASC.Web.Studio\addons\calendar\obj\Debug\ASC.Web.Calendar.csproj.CopyComplete
+E:\CommunityServer\web\studio\ASC.Web.Studio\addons\calendar\obj\Debug\ASC.Web.Calendar.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\addons\calendar\obj\Debug\ASC.Web.Calendar.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\callback.htm
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Web.Calendar.dll.config
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Web.Calendar.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Web.Calendar.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\addons\calendar\obj\Debug\ASC.Web.Calendar.csprojAssemblyReference.cache
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\addons\calendar\obj\Debug\ASC.Web.Calendar.Resources.CalendarJSResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\addons\calendar\obj\Debug\ASC.Web.Calendar.Resources.CalendarAddonResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\addons\calendar\obj\Debug\ASC.Web.Calendar.csproj.GenerateResource.cache
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\addons\calendar\obj\Debug\ASC.Web.Calendar.csproj.CoreCompileInputs.cache
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\addons\calendar\obj\Debug\ASC.Web.Calendar.csproj.CopyComplete
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\addons\calendar\obj\Debug\ASC.Web.Calendar.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\addons\calendar\obj\Debug\ASC.Web.Calendar.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\callback.htm
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Web.Calendar.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Web.Calendar.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Web.Calendar.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\addons\calendar\obj\Debug\ASC.Web.Calendar.csproj.AssemblyReference.cache
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\addons\calendar\obj\Debug\ASC.Web.Calendar.Resources.CalendarJSResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\addons\calendar\obj\Debug\ASC.Web.Calendar.Resources.CalendarAddonResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\addons\calendar\obj\Debug\ASC.Web.Calendar.csproj.GenerateResource.cache
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\addons\calendar\obj\Debug\ASC.Web.Calendar.csproj.CoreCompileInputs.cache
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\addons\calendar\obj\Debug\ASC.Web.Calendar.csproj.CopyComplete
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\addons\calendar\obj\Debug\ASC.Web.Calendar.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\addons\calendar\obj\Debug\ASC.Web.Calendar.pdb

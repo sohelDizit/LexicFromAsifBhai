@@ -1,0 +1,43 @@
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\callback.htm
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\ASC.ActiveDirectory.dll.config
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\ASC.ActiveDirectory.dll
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\ASC.ActiveDirectory.pdb
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailAggregator\callback.htm
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailAggregator\ASC.ActiveDirectory.dll.config
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailAggregator\ASC.ActiveDirectory.dll
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailAggregator\ASC.ActiveDirectory.pdb
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailWatchdog\callback.htm
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailWatchdog\ASC.ActiveDirectory.dll.config
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailWatchdog\ASC.ActiveDirectory.dll
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailWatchdog\ASC.ActiveDirectory.pdb
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailCleaner\callback.htm
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailCleaner\ASC.ActiveDirectory.dll.config
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailCleaner\ASC.ActiveDirectory.dll
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailCleaner\ASC.ActiveDirectory.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\callback.htm
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.ActiveDirectory.dll.config
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.ActiveDirectory.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.ActiveDirectory.pdb
+E:\CommunityServer\common\ASC.ActiveDirectory\obj\Debug\ASC.ActiveDirectory.csprojAssemblyReference.cache
+E:\CommunityServer\common\ASC.ActiveDirectory\obj\Debug\ASC.ActiveDirectory.csproj.CoreCompileInputs.cache
+E:\CommunityServer\common\ASC.ActiveDirectory\obj\Debug\ASC.ActiveDirectory.csproj.CopyComplete
+E:\CommunityServer\common\ASC.ActiveDirectory\obj\Debug\ASC.ActiveDirectory.dll
+E:\CommunityServer\common\ASC.ActiveDirectory\obj\Debug\ASC.ActiveDirectory.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\callback.htm
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.ActiveDirectory.dll.config
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.ActiveDirectory.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.ActiveDirectory.pdb
+D:\EKT.AI\LEXIC-2.0\common\ASC.ActiveDirectory\obj\Debug\ASC.ActiveDirectory.csprojAssemblyReference.cache
+D:\EKT.AI\LEXIC-2.0\common\ASC.ActiveDirectory\obj\Debug\ASC.ActiveDirectory.csproj.CoreCompileInputs.cache
+D:\EKT.AI\LEXIC-2.0\common\ASC.ActiveDirectory\obj\Debug\ASC.ActiveDirectory.csproj.CopyComplete
+D:\EKT.AI\LEXIC-2.0\common\ASC.ActiveDirectory\obj\Debug\ASC.ActiveDirectory.dll
+D:\EKT.AI\LEXIC-2.0\common\ASC.ActiveDirectory\obj\Debug\ASC.ActiveDirectory.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\callback.htm
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.ActiveDirectory.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.ActiveDirectory.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.ActiveDirectory.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.ActiveDirectory\obj\Debug\ASC.ActiveDirectory.csproj.AssemblyReference.cache
+E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.ActiveDirectory\obj\Debug\ASC.ActiveDirectory.csproj.CoreCompileInputs.cache
+E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.ActiveDirectory\obj\Debug\ASC.ActiveDirectory.csproj.CopyComplete
+E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.ActiveDirectory\obj\Debug\ASC.ActiveDirectory.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.ActiveDirectory\obj\Debug\ASC.ActiveDirectory.pdb

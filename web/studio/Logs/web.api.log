@@ -1,0 +1,23 @@
+2022-04-23 12:36:17,082 ERROR [224] ASC.Api - method error: http://localhost:55421/api/2.0/project/GetProjectNumber?id=25 - Server error MySql.Data.MySqlClient.MySqlException (0x80004005): Unknown column 'ProjectNumber' in 'field list'
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int64& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at System.Data.Common.DbCommand.ExecuteReader(CommandBehavior behavior)
+   at ASC.Common.Data.AdoProxy.DbCommandProxy.ExecuteDbDataReader(CommandBehavior behavior) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Data\AdoProxy\DbCommandProxy.cs:line 87
+   at System.Data.Common.DbCommand.ExecuteReader()
+   at ASC.Common.Data.DataExtensions.ExecuteListReader(DbCommand command) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Data\DataExtensions.cs:line 142
+   at ASC.Common.Data.DataExtensions.ExecuteList(DbCommand command, String sql, Object[] parameters) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Data\DataExtensions.cs:line 132
+   at ASC.Common.Data.DataExtensions.ExecuteList(DbCommand command) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Data\DataExtensions.cs:line 122
+   at ASC.Common.Data.DataExtensions.ExecuteList(DbCommand command, ISqlInstruction sql, ISqlDialect dialect) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Data\DataExtensions.cs:line 237
+   at ASC.Common.Data.DbManager.ExecuteList(ISqlInstruction sql) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Data\DbManager.cs:line 225
+   at ASC.Common.Data.DbManagerProxy.ExecuteList(ISqlInstruction sql) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Data\DbManager.cs:line 357
+   at ASC.Projects.Data.DAO.ProjectDao.GetProjectNumber(Int32 projectId) in E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Projects\Core\Dao\ProjectDao.cs:line 167
+   at ASC.Projects.Engine.ProjectEngine.GetProjectNumber(Int32 id) in E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Projects\Core\Engine\ProjectEngine.cs:line 120
+   at ASC.Api.Projects.ProjectApi.GetProjectNumber(Int32 id) in E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Api\ASC.Api.Projects\ProjectApi.Projects.cs:line 359
+2022-04-23 15:42:53,726 ERROR [7] ASC.Api - method error: http://localhost:55421/api/2.0/files/docservice.json?__=542599 - Server error System.Exception: Docbuilder url: The remote server returned an error: (504) Gateway Timeout.
+   at ASC.Web.Files.Services.DocumentService.DocumentServiceConnector.CheckDocServiceUrl() in E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Files\Services\DocumentService\DocumentServiceConnector.cs:line 258
+   at ASC.Api.Documents.DocumentsApi.CheckDocServiceUrl(String docServiceUrl, String docServiceUrlInternal, String docServiceUrlPortal) in E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Api\ASC.Api.Documents\DocumentsApi.cs:line 1514

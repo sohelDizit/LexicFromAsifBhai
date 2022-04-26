@@ -1,0 +1,161 @@
+/*
+ *
+ * (c) Copyright Ascensio System Limited 2010-2020
+ * 
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * http://www.apache.org/licenses/LICENSE-2.0
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ *
+*/
+
+
+.personal-footer {
+    background-color: #f7f7f7;
+    font-size: 12px;
+    
+    height: auto;
+    position:absolute;
+    bottom:0;
+    width: 100%;
+    a {
+        color: #000;
+        text-decoration: none;
+    } 
+}
+.personal-footer_w {
+    width: 955px;
+    margin: 0 auto;
+    padding: 25px 0 18px;
+    background: #f7f7f7;
+}
+.personal-footer_rights {
+    float: right;
+}
+.personal-footer_inst{
+	width: 16px;
+    height: 16px;
+    float: right;
+    display: inline-block;
+    background: url(images/instagram_icon.png) no-repeat transparent;
+    margin-right: 4px;
+    margin-left: 20px;
+}
+.personal-languages {
+    float: left;
+    margin-right: 40px;
+}
+.personal-languages_select {
+    background: url("images/flags.png") no-repeat left 2px transparent;
+    cursor: pointer;
+    line-height: 16px;
+    padding-left: 25px;
+    position: relative;
+    span {
+      border-bottom: 1px dotted #666;
+   }
+    &:after {
+        content: "";
+        border-top: 4px solid #666;
+        border-left: 4px solid transparent;
+        border-right: 4px solid transparent;
+        position: absolute;
+        top: 8px;
+        right: -15px;
+    }
+}
+.studio-action-panel{
+	border-radius: 2px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+}
+.personal-languages_list{
+	li{
+	    padding-left: 0!important;
+		height: 16px;
+		color: transparent!important;
+		padding-right: 0!important;
+		margin-top: 5px!important;
+
+		&:first-of-type{
+			margin-top: 0!important;
+		}
+		a{
+			background-image: url(images/flags.png)!important;
+			background-repeat: no-repeat!important;
+			padding-left: 27px!important;
+			height: 16px;
+			width: 18px;
+			line-height: 17px !important;
+			padding: 0!important;
+			color: transparent!important;
+		}
+		a:hover {
+            text-decoration: underline;
+		    background-color: #ffffff!important;
+        }
+	}
+}
+.personal-languages_select.cs-CZ {background-position: left 1px;}
+.personal-languages_select.de-DE {background-position: left -16px;}
+.personal-languages_select.el-GR {background-position: left -31px;}
+.personal-languages_select.en-GB {background-position: left -63px;}
+.personal-languages_select.en-US {background-position: left -80px;}
+.personal-languages_select.es-ES {background-position: left -95px;}
+.personal-languages_select.fi-FI {background-position: left -110px;}
+.personal-languages_select.fr-FR {background-position: left -128px;}
+.personal-languages_select.it-IT {background-position: left -142px;}
+.personal-languages_select.lv-LV {background-position: left -159px;}
+.personal-languages_select.pl-PL {background-position: left -175px;}
+.personal-languages_select.pt-BR {background-position: left -191px;}
+.personal-languages_select.pt-PT {background-position: left -287px;}
+.personal-languages_select.ru-RU {background-position: left -207px;}
+.personal-languages_select.tr-TR {background-position: left -222px;}
+.personal-languages_select.uk-UA {background-position: left -239px;}
+.personal-languages_select.vi-VN {background-position: left -254px;}
+.personal-languages_select.zh-CN {background-position: left -270px;}
+.personal-languages_select.az-Latn-AZ {background-position: left -302px;}
+.personal-languages_select.ko-KR {background-position: left -318px;}
+.personal-languages_select.ja-JP {background-position: left -334px;}
+
+.personal-languages_list li.cs-CZ a{background-position: left 2px!important;}
+.personal-languages_list li.de-DE a{background-position: left -15px!important;}
+.personal-languages_list li.el-GR a{background-position: left -31px!important;}
+.personal-languages_list li.en-GB a{background-position: left -63px!important;}
+.personal-languages_list li.en-US a{background-position: left -79px!important;}
+.personal-languages_list li.es-ES a{background-position: left -95px!important;}
+.personal-languages_list li.fi-FI a{background-position: left -110px!important;}
+.personal-languages_list li.fr-FR a{background-position: left -127px!important;}
+.personal-languages_list li.it-IT a{background-position: left -142px!important;}
+.personal-languages_list li.lv-LV a{background-position: left -159px!important;}
+.personal-languages_list li.pl-PL a{background-position: left -175px!important;}
+.personal-languages_list li.pt-BR a{background-position: left -191px!important;}
+.personal-languages_list li.pt-PT a{background-position: left -287px!important;}
+.personal-languages_list li.ru-RU a{background-position: left -207px!important;}
+.personal-languages_list li.tr-TR a{background-position: left -223px!important;}
+.personal-languages_list li.uk-UA a{background-position: left -239px!important;}
+.personal-languages_list li.vi-VN a{background-position: left -254px!important;}
+.personal-languages_list li.zh-CN a{background-position: left -270px!important;}
+.personal-languages_list li.az-Latn-AZ a{background-position: left -302px!important;}
+.personal-languages_list li.ko-KR a{background-position: left -318px!important;}
+.personal-languages_list li.ja-JP a{background-position: left -334px!important;}
+
+.personal-footer-links {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+    li {
+        float: left;
+        margin: 0 25px 2px 0;
+
+        a:hover {
+            text-decoration: underline;
+        }
+    }
+}

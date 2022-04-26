@@ -1,0 +1,50 @@
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\callback.htm
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\ASC.Specific.dll.config
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\ASC.Specific.dll
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\ASC.Specific.pdb
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\ASC.Specific.XML
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailAggregator\callback.htm
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailAggregator\ASC.Specific.dll.config
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailAggregator\ASC.Specific.dll
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailAggregator\ASC.Specific.pdb
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailAggregator\ASC.Specific.XML
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailWatchdog\callback.htm
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailWatchdog\ASC.Specific.dll.config
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailWatchdog\ASC.Specific.dll
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailWatchdog\ASC.Specific.pdb
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailWatchdog\ASC.Specific.XML
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailCleaner\callback.htm
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailCleaner\ASC.Specific.dll.config
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailCleaner\ASC.Specific.dll
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailCleaner\ASC.Specific.pdb
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailCleaner\ASC.Specific.XML
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\callback.htm
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Specific.dll.config
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Specific.XML
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Specific.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Specific.pdb
+E:\CommunityServer\module\ASC.Api\ASC.Specific\obj\Debug\ASC.Specific.csprojAssemblyReference.cache
+E:\CommunityServer\module\ASC.Api\ASC.Specific\obj\Debug\ASC.Specific.csproj.CoreCompileInputs.cache
+E:\CommunityServer\module\ASC.Api\ASC.Specific\obj\Debug\ASC.Specific.csproj.CopyComplete
+E:\CommunityServer\module\ASC.Api\ASC.Specific\obj\Debug\ASC.Specific.dll
+E:\CommunityServer\module\ASC.Api\ASC.Specific\obj\Debug\ASC.Specific.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\callback.htm
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Specific.dll.config
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Specific.XML
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Specific.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Specific.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.Api\ASC.Specific\obj\Debug\ASC.Specific.csprojAssemblyReference.cache
+D:\EKT.AI\LEXIC-2.0\module\ASC.Api\ASC.Specific\obj\Debug\ASC.Specific.csproj.CoreCompileInputs.cache
+D:\EKT.AI\LEXIC-2.0\module\ASC.Api\ASC.Specific\obj\Debug\ASC.Specific.csproj.CopyComplete
+D:\EKT.AI\LEXIC-2.0\module\ASC.Api\ASC.Specific\obj\Debug\ASC.Specific.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Api\ASC.Specific\obj\Debug\ASC.Specific.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\callback.htm
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Specific.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Specific.XML
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Specific.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Specific.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Api\ASC.Specific\obj\Debug\ASC.Specific.csproj.AssemblyReference.cache
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Api\ASC.Specific\obj\Debug\ASC.Specific.csproj.CoreCompileInputs.cache
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Api\ASC.Specific\obj\Debug\ASC.Specific.csproj.CopyComplete
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Api\ASC.Specific\obj\Debug\ASC.Specific.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Api\ASC.Specific\obj\Debug\ASC.Specific.pdb

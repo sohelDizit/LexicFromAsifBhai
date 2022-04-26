@@ -1,0 +1,30 @@
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\callback.htm
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Api.Sample.dll.config
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Api.Sample.XML
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Api.Sample.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Api.Sample.pdb
+E:\CommunityServer\module\ASC.Api\ASC.Api.Sample\obj\Debug\ASC.Api.Sample.csprojAssemblyReference.cache
+E:\CommunityServer\module\ASC.Api\ASC.Api.Sample\obj\Debug\ASC.Api.Sample.csproj.CoreCompileInputs.cache
+E:\CommunityServer\module\ASC.Api\ASC.Api.Sample\obj\Debug\ASC.Api.Sample.csproj.CopyComplete
+E:\CommunityServer\module\ASC.Api\ASC.Api.Sample\obj\Debug\ASC.Api.Sample.dll
+E:\CommunityServer\module\ASC.Api\ASC.Api.Sample\obj\Debug\ASC.Api.Sample.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\callback.htm
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Api.Sample.dll.config
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Api.Sample.XML
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Api.Sample.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Api.Sample.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.Api\ASC.Api.Sample\obj\Debug\ASC.Api.Sample.csprojAssemblyReference.cache
+D:\EKT.AI\LEXIC-2.0\module\ASC.Api\ASC.Api.Sample\obj\Debug\ASC.Api.Sample.csproj.CoreCompileInputs.cache
+D:\EKT.AI\LEXIC-2.0\module\ASC.Api\ASC.Api.Sample\obj\Debug\ASC.Api.Sample.csproj.CopyComplete
+D:\EKT.AI\LEXIC-2.0\module\ASC.Api\ASC.Api.Sample\obj\Debug\ASC.Api.Sample.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Api\ASC.Api.Sample\obj\Debug\ASC.Api.Sample.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\callback.htm
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Api.Sample.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Api.Sample.XML
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Api.Sample.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Api.Sample.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Api\ASC.Api.Sample\obj\Debug\ASC.Api.Sample.csproj.AssemblyReference.cache
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Api\ASC.Api.Sample\obj\Debug\ASC.Api.Sample.csproj.CoreCompileInputs.cache
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Api\ASC.Api.Sample\obj\Debug\ASC.Api.Sample.csproj.CopyComplete
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Api\ASC.Api.Sample\obj\Debug\ASC.Api.Sample.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Api\ASC.Api.Sample\obj\Debug\ASC.Api.Sample.pdb

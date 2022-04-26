@@ -1,0 +1,3881 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8": {
+      "ARSoft.Tools.Net/2.2.9": {
+        "type": "package",
+        "dependencies": {
+          "BouncyCastle": "1.8.1"
+        },
+        "compile": {
+          "lib/net45/ARSoft.Tools.Net.dll": {}
+        },
+        "runtime": {
+          "lib/net45/ARSoft.Tools.Net.dll": {}
+        }
+      },
+      "Autofac/5.1.2": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Bcl.AsyncInterfaces": "1.1.0"
+        },
+        "frameworkAssemblies": [
+          "System.ComponentModel.Composition"
+        ],
+        "compile": {
+          "lib/net461/Autofac.dll": {}
+        },
+        "runtime": {
+          "lib/net461/Autofac.dll": {}
+        }
+      },
+      "AWSSDK.CloudFront/3.3.101.126": {
+        "type": "package",
+        "dependencies": {
+          "AWSSDK.Core": "[3.3.106.3, 3.4.0)"
+        },
+        "compile": {
+          "lib/net45/AWSSDK.CloudFront.dll": {}
+        },
+        "runtime": {
+          "lib/net45/AWSSDK.CloudFront.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.3.106.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/AWSSDK.Core.dll": {}
+        },
+        "runtime": {
+          "lib/net45/AWSSDK.Core.dll": {}
+        }
+      },
+      "AWSSDK.S3/3.3.110.50": {
+        "type": "package",
+        "dependencies": {
+          "AWSSDK.Core": "[3.3.106.3, 3.4.0)"
+        },
+        "compile": {
+          "lib/net45/AWSSDK.S3.dll": {}
+        },
+        "runtime": {
+          "lib/net45/AWSSDK.S3.dll": {}
+        }
+      },
+      "AWSSDK.SimpleEmail/3.3.101.130": {
+        "type": "package",
+        "dependencies": {
+          "AWSSDK.Core": "[3.3.106.3, 3.4.0)"
+        },
+        "compile": {
+          "lib/net45/AWSSDK.SimpleEmail.dll": {}
+        },
+        "runtime": {
+          "lib/net45/AWSSDK.SimpleEmail.dll": {}
+        }
+      },
+      "BouncyCastle/1.8.3.1": {
+        "type": "package",
+        "compile": {
+          "lib/BouncyCastle.Crypto.dll": {}
+        },
+        "runtime": {
+          "lib/BouncyCastle.Crypto.dll": {}
+        }
+      },
+      "DotNetOpenAuth.Ultimate/4.1.0.12182": {
+        "type": "package",
+        "compile": {
+          "lib/net45-full/DotNetOpenAuth.dll": {}
+        },
+        "runtime": {
+          "lib/net45-full/DotNetOpenAuth.dll": {}
+        }
+      },
+      "Google.Protobuf/3.6.1": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Google.Protobuf.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Google.Protobuf.dll": {}
+        }
+      },
+      "HtmlAgilityPack/1.6.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net462/HtmlAgilityPack.dll": {}
+        },
+        "runtime": {
+          "lib/net462/HtmlAgilityPack.dll": {}
+        }
+      },
+      "JWT/1.3.4": {
+        "type": "package",
+        "compile": {
+          "lib/3.5/JWT.dll": {}
+        },
+        "runtime": {
+          "lib/3.5/JWT.dll": {}
+        }
+      },
+      "log4net/2.0.8": {
+        "type": "package",
+        "compile": {
+          "lib/net45-full/log4net.dll": {}
+        },
+        "runtime": {
+          "lib/net45-full/log4net.dll": {}
+        }
+      },
+      "MailKit/2.5.2": {
+        "type": "package",
+        "dependencies": {
+          "MimeKit": "2.5.2"
+        },
+        "frameworkAssemblies": [
+          "System",
+          "System.Core",
+          "System.Data",
+          "System.Net.Http"
+        ],
+        "compile": {
+          "lib/net48/MailKit.dll": {}
+        },
+        "runtime": {
+          "lib/net48/MailKit.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.Cryptography.Internal/3.1.4": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Cryptography.Internal.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Cryptography.Internal.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.Cryptography.KeyDerivation/3.1.4": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Cryptography.Internal": "3.1.4"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll": {}
+        }
+      },
+      "Microsoft.Bcl.AsyncInterfaces/1.1.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Threading.Tasks.Extensions": "4.5.2"
+        },
+        "frameworkAssemblies": [
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net461/Microsoft.Bcl.AsyncInterfaces.dll": {}
+        },
+        "runtime": {
+          "lib/net461/Microsoft.Bcl.AsyncInterfaces.dll": {}
+        }
+      },
+      "MimeKit/2.5.2": {
+        "type": "package",
+        "dependencies": {
+          "Portable.BouncyCastle": "1.8.5"
+        },
+        "frameworkAssemblies": [
+          "System",
+          "System.Core",
+          "System.Data",
+          "System.Net.Http",
+          "System.Security"
+        ],
+        "compile": {
+          "lib/net48/MimeKit.dll": {}
+        },
+        "runtime": {
+          "lib/net48/MimeKit.dll": {}
+        }
+      },
+      "MySql.Data/8.0.19": {
+        "type": "package",
+        "dependencies": {
+          "BouncyCastle": "1.8.3.1",
+          "Google.Protobuf": "3.6.1",
+          "SSH.NET": "2016.1.0"
+        },
+        "frameworkAssemblies": [
+          "Microsoft.CSharp",
+          "System",
+          "System.ComponentModel",
+          "System.ComponentModel.DataAnnotations",
+          "System.Configuration",
+          "System.Configuration.Install",
+          "System.Data",
+          "System.Drawing",
+          "System.Drawing.Design",
+          "System.Management",
+          "System.Transactions",
+          "System.Xml"
+        ],
+        "compile": {
+          "lib/net48/MySql.Data.dll": {},
+          "lib/net48/Ubiety.Dns.Core.dll": {}
+        },
+        "runtime": {
+          "lib/net48/MySql.Data.dll": {},
+          "lib/net48/Ubiety.Dns.Core.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        }
+      },
+      "NLog/4.7.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "Microsoft.CSharp",
+          "System",
+          "System.Configuration",
+          "System.Core",
+          "System.Data",
+          "System.IO.Compression",
+          "System.Runtime.Serialization",
+          "System.ServiceModel",
+          "System.Transactions",
+          "System.Xml"
+        ],
+        "compile": {
+          "lib/net45/NLog.dll": {}
+        },
+        "runtime": {
+          "lib/net45/NLog.dll": {}
+        }
+      },
+      "NVelocity/1.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/NVelocity.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/NVelocity.dll": {}
+        }
+      },
+      "Pipelines.Sockets.Unofficial/1.0.7": {
+        "type": "package",
+        "dependencies": {
+          "System.Buffers": "4.4.0",
+          "System.IO.Pipelines": "4.5.1"
+        },
+        "compile": {
+          "lib/net472/Pipelines.Sockets.Unofficial.dll": {}
+        },
+        "runtime": {
+          "lib/net472/Pipelines.Sockets.Unofficial.dll": {}
+        }
+      },
+      "Portable.BouncyCastle/1.8.5": {
+        "type": "package",
+        "compile": {
+          "lib/net40/BouncyCastle.Crypto.dll": {}
+        },
+        "runtime": {
+          "lib/net40/BouncyCastle.Crypto.dll": {}
+        }
+      },
+      "SSH.NET/2016.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Renci.SshNet.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Renci.SshNet.dll": {}
+        }
+      },
+      "StackExchange.Redis/2.0.519": {
+        "type": "package",
+        "dependencies": {
+          "Pipelines.Sockets.Unofficial": "1.0.7",
+          "System.Diagnostics.PerformanceCounter": "4.5.0",
+          "System.IO.Compression": "4.3.0",
+          "System.IO.Pipelines": "4.5.1",
+          "System.Threading.Channels": "4.5.0"
+        },
+        "frameworkAssemblies": [
+          "System.IO.Compression"
+        ],
+        "compile": {
+          "lib/net472/StackExchange.Redis.dll": {}
+        },
+        "runtime": {
+          "lib/net472/StackExchange.Redis.dll": {}
+        }
+      },
+      "StackExchange.Redis.Extensions.Core/4.0.5": {
+        "type": "package",
+        "dependencies": {
+          "StackExchange.Redis": "2.0.513"
+        },
+        "frameworkAssemblies": [
+          "System.IO.Compression"
+        ],
+        "compile": {
+          "lib/net472/StackExchange.Redis.Extensions.Core.dll": {}
+        },
+        "runtime": {
+          "lib/net472/StackExchange.Redis.Extensions.Core.dll": {}
+        }
+      },
+      "StackExchange.Redis.Extensions.LegacyConfiguration/4.0.5": {
+        "type": "package",
+        "dependencies": {
+          "StackExchange.Redis.Extensions.Core": "4.0.5"
+        },
+        "compile": {
+          "lib/net461/StackExchange.Redis.Extensions.LegacyConfiguration.dll": {}
+        },
+        "runtime": {
+          "lib/net461/StackExchange.Redis.Extensions.LegacyConfiguration.dll": {}
+        }
+      },
+      "System.Buffers/4.5.1": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net45/System.Buffers.dll": {}
+        },
+        "runtime": {
+          "lib/net461/System.Buffers.dll": {}
+        }
+      },
+      "System.Diagnostics.PerformanceCounter/4.5.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net461/System.Diagnostics.PerformanceCounter.dll": {}
+        },
+        "runtime": {
+          "lib/net461/System.Diagnostics.PerformanceCounter.dll": {}
+        }
+      },
+      "System.IO/4.3.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net462/System.IO.dll": {}
+        },
+        "runtime": {
+          "lib/net462/System.IO.dll": {}
+        }
+      },
+      "System.IO.Compression/4.3.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net46/System.IO.Compression.dll": {}
+        },
+        "runtime": {
+          "lib/net46/System.IO.Compression.dll": {}
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/netstandard1.3/System.IO.Compression.dll": {
+            "assetType": "runtime",
+            "rid": "unix"
+          },
+          "runtimes/win/lib/net46/System.IO.Compression.dll": {
+            "assetType": "runtime",
+            "rid": "win"
+          }
+        }
+      },
+      "System.IO.Pipelines/4.5.1": {
+        "type": "package",
+        "dependencies": {
+          "System.Buffers": "4.4.0",
+          "System.Memory": "4.5.1",
+          "System.Threading.Tasks.Extensions": "4.5.1"
+        },
+        "compile": {
+          "ref/netstandard1.3/System.IO.Pipelines.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.IO.Pipelines.dll": {}
+        }
+      },
+      "System.Memory/4.5.3": {
+        "type": "package",
+        "dependencies": {
+          "System.Buffers": "4.4.0",
+          "System.Numerics.Vectors": "4.4.0",
+          "System.Runtime.CompilerServices.Unsafe": "4.5.2"
+        },
+        "compile": {
+          "lib/netstandard2.0/System.Memory.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Memory.dll": {}
+        }
+      },
+      "System.Numerics.Vectors/4.4.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Numerics",
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net46/System.Numerics.Vectors.dll": {}
+        },
+        "runtime": {
+          "lib/net46/System.Numerics.Vectors.dll": {}
+        }
+      },
+      "System.Runtime/4.3.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "System.ComponentModel.Composition",
+          "System.Core",
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net462/System.Runtime.dll": {}
+        },
+        "runtime": {
+          "lib/net462/System.Runtime.dll": {}
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/4.5.2": {
+        "type": "package",
+        "compile": {
+          "ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll": {}
+        }
+      },
+      "System.Security.Cryptography.Algorithms/4.3.0": {
+        "type": "package",
+        "dependencies": {
+          "System.IO": "4.3.0",
+          "System.Runtime": "4.3.0",
+          "System.Security.Cryptography.Encoding": "4.3.0",
+          "System.Security.Cryptography.Primitives": "4.3.0"
+        },
+        "frameworkAssemblies": [
+          "System.Core",
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net463/System.Security.Cryptography.Algorithms.dll": {}
+        },
+        "runtime": {
+          "lib/net463/System.Security.Cryptography.Algorithms.dll": {}
+        },
+        "runtimeTargets": {
+          "runtimes/osx/lib/netstandard1.6/System.Security.Cryptography.Algorithms.dll": {
+            "assetType": "runtime",
+            "rid": "osx"
+          },
+          "runtimes/unix/lib/netstandard1.6/System.Security.Cryptography.Algorithms.dll": {
+            "assetType": "runtime",
+            "rid": "unix"
+          },
+          "runtimes/win/lib/net463/System.Security.Cryptography.Algorithms.dll": {
+            "assetType": "runtime",
+            "rid": "win"
+          }
+        }
+      },
+      "System.Security.Cryptography.Encoding/4.3.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net46/System.Security.Cryptography.Encoding.dll": {}
+        },
+        "runtime": {
+          "lib/net46/System.Security.Cryptography.Encoding.dll": {}
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/netstandard1.3/System.Security.Cryptography.Encoding.dll": {
+            "assetType": "runtime",
+            "rid": "unix"
+          },
+          "runtimes/win/lib/net46/System.Security.Cryptography.Encoding.dll": {
+            "assetType": "runtime",
+            "rid": "win"
+          }
+        }
+      },
+      "System.Security.Cryptography.Primitives/4.3.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net46/System.Security.Cryptography.Primitives.dll": {}
+        },
+        "runtime": {
+          "lib/net46/System.Security.Cryptography.Primitives.dll": {}
+        }
+      },
+      "System.Security.Cryptography.X509Certificates/4.3.2": {
+        "type": "package",
+        "dependencies": {
+          "System.Security.Cryptography.Algorithms": "4.3.0",
+          "System.Security.Cryptography.Encoding": "4.3.0"
+        },
+        "frameworkAssemblies": [
+          "System",
+          "System.Core",
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net461/System.Security.Cryptography.X509Certificates.dll": {}
+        },
+        "runtime": {
+          "lib/net461/System.Security.Cryptography.X509Certificates.dll": {}
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/netstandard1.6/System.Security.Cryptography.X509Certificates.dll": {
+            "assetType": "runtime",
+            "rid": "unix"
+          },
+          "runtimes/win/lib/net461/System.Security.Cryptography.X509Certificates.dll": {
+            "assetType": "runtime",
+            "rid": "win"
+          }
+        }
+      },
+      "System.Threading.Channels/4.5.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Threading.Tasks.Extensions": "4.5.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/System.Threading.Channels.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Threading.Channels.dll": {}
+        }
+      },
+      "System.Threading.Tasks.Extensions/4.5.2": {
+        "type": "package",
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "4.5.2"
+        },
+        "compile": {
+          "lib/netstandard2.0/System.Threading.Tasks.Extensions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Threading.Tasks.Extensions.dll": {}
+        }
+      },
+      "twitterizer/2.4.2.2": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "compile": {
+          "lib/net48/Twitterizer2.dll": {}
+        },
+        "runtime": {
+          "lib/net48/Twitterizer2.dll": {}
+        }
+      },
+      "Ubiety.Dns.Core/2.4.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Ubiety.Dns.Core.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Ubiety.Dns.Core.dll": {}
+        }
+      },
+      "ASC.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.8",
+        "dependencies": {
+          "ARSoft.Tools.Net": "2.2.9",
+          "Autofac": "5.1.2",
+          "HtmlAgilityPack": "1.6.0.1",
+          "Microsoft.AspNetCore.Cryptography.KeyDerivation": "3.1.4",
+          "MySql.Data": "8.0.19",
+          "NLog": "4.7.0",
+          "NVelocity": "1.2.0",
+          "Newtonsoft.Json": "12.0.3",
+          "StackExchange.Redis": "2.0.519",
+          "StackExchange.Redis.Extensions.LegacyConfiguration": "4.0.5",
+          "System.Buffers": "4.5.1",
+          "System.Memory": "4.5.3",
+          "Ubiety.Dns.Core": "2.4.1",
+          "log4net": "2.0.8"
+        },
+        "compile": {
+          "bin/placeholder/ASC.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ASC.Common.dll": {}
+        }
+      },
+      "ASC.Core.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.8",
+        "dependencies": {
+          "ASC.Common": "1.0.0",
+          "AWSSDK.CloudFront": "3.3.101.126",
+          "AWSSDK.S3": "3.3.110.50",
+          "AWSSDK.SimpleEmail": "3.3.101.130",
+          "Autofac": "5.1.2",
+          "MailKit": "2.5.2",
+          "Newtonsoft.Json": "12.0.3",
+          "System.Security.Cryptography.X509Certificates": "4.3.2"
+        },
+        "compile": {
+          "bin/placeholder/ASC.Core.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ASC.Core.Common.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win": {
+      "ARSoft.Tools.Net/2.2.9": {
+        "type": "package",
+        "dependencies": {
+          "BouncyCastle": "1.8.1"
+        },
+        "compile": {
+          "lib/net45/ARSoft.Tools.Net.dll": {}
+        },
+        "runtime": {
+          "lib/net45/ARSoft.Tools.Net.dll": {}
+        }
+      },
+      "Autofac/5.1.2": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Bcl.AsyncInterfaces": "1.1.0"
+        },
+        "frameworkAssemblies": [
+          "System.ComponentModel.Composition"
+        ],
+        "compile": {
+          "lib/net461/Autofac.dll": {}
+        },
+        "runtime": {
+          "lib/net461/Autofac.dll": {}
+        }
+      },
+      "AWSSDK.CloudFront/3.3.101.126": {
+        "type": "package",
+        "dependencies": {
+          "AWSSDK.Core": "[3.3.106.3, 3.4.0)"
+        },
+        "compile": {
+          "lib/net45/AWSSDK.CloudFront.dll": {}
+        },
+        "runtime": {
+          "lib/net45/AWSSDK.CloudFront.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.3.106.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/AWSSDK.Core.dll": {}
+        },
+        "runtime": {
+          "lib/net45/AWSSDK.Core.dll": {}
+        }
+      },
+      "AWSSDK.S3/3.3.110.50": {
+        "type": "package",
+        "dependencies": {
+          "AWSSDK.Core": "[3.3.106.3, 3.4.0)"
+        },
+        "compile": {
+          "lib/net45/AWSSDK.S3.dll": {}
+        },
+        "runtime": {
+          "lib/net45/AWSSDK.S3.dll": {}
+        }
+      },
+      "AWSSDK.SimpleEmail/3.3.101.130": {
+        "type": "package",
+        "dependencies": {
+          "AWSSDK.Core": "[3.3.106.3, 3.4.0)"
+        },
+        "compile": {
+          "lib/net45/AWSSDK.SimpleEmail.dll": {}
+        },
+        "runtime": {
+          "lib/net45/AWSSDK.SimpleEmail.dll": {}
+        }
+      },
+      "BouncyCastle/1.8.3.1": {
+        "type": "package",
+        "compile": {
+          "lib/BouncyCastle.Crypto.dll": {}
+        },
+        "runtime": {
+          "lib/BouncyCastle.Crypto.dll": {}
+        }
+      },
+      "DotNetOpenAuth.Ultimate/4.1.0.12182": {
+        "type": "package",
+        "compile": {
+          "lib/net45-full/DotNetOpenAuth.dll": {}
+        },
+        "runtime": {
+          "lib/net45-full/DotNetOpenAuth.dll": {}
+        }
+      },
+      "Google.Protobuf/3.6.1": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Google.Protobuf.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Google.Protobuf.dll": {}
+        }
+      },
+      "HtmlAgilityPack/1.6.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net462/HtmlAgilityPack.dll": {}
+        },
+        "runtime": {
+          "lib/net462/HtmlAgilityPack.dll": {}
+        }
+      },
+      "JWT/1.3.4": {
+        "type": "package",
+        "compile": {
+          "lib/3.5/JWT.dll": {}
+        },
+        "runtime": {
+          "lib/3.5/JWT.dll": {}
+        }
+      },
+      "log4net/2.0.8": {
+        "type": "package",
+        "compile": {
+          "lib/net45-full/log4net.dll": {}
+        },
+        "runtime": {
+          "lib/net45-full/log4net.dll": {}
+        }
+      },
+      "MailKit/2.5.2": {
+        "type": "package",
+        "dependencies": {
+          "MimeKit": "2.5.2"
+        },
+        "frameworkAssemblies": [
+          "System",
+          "System.Core",
+          "System.Data",
+          "System.Net.Http"
+        ],
+        "compile": {
+          "lib/net48/MailKit.dll": {}
+        },
+        "runtime": {
+          "lib/net48/MailKit.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.Cryptography.Internal/3.1.4": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Cryptography.Internal.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Cryptography.Internal.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.Cryptography.KeyDerivation/3.1.4": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Cryptography.Internal": "3.1.4"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll": {}
+        }
+      },
+      "Microsoft.Bcl.AsyncInterfaces/1.1.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Threading.Tasks.Extensions": "4.5.2"
+        },
+        "frameworkAssemblies": [
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net461/Microsoft.Bcl.AsyncInterfaces.dll": {}
+        },
+        "runtime": {
+          "lib/net461/Microsoft.Bcl.AsyncInterfaces.dll": {}
+        }
+      },
+      "MimeKit/2.5.2": {
+        "type": "package",
+        "dependencies": {
+          "Portable.BouncyCastle": "1.8.5"
+        },
+        "frameworkAssemblies": [
+          "System",
+          "System.Core",
+          "System.Data",
+          "System.Net.Http",
+          "System.Security"
+        ],
+        "compile": {
+          "lib/net48/MimeKit.dll": {}
+        },
+        "runtime": {
+          "lib/net48/MimeKit.dll": {}
+        }
+      },
+      "MySql.Data/8.0.19": {
+        "type": "package",
+        "dependencies": {
+          "BouncyCastle": "1.8.3.1",
+          "Google.Protobuf": "3.6.1",
+          "SSH.NET": "2016.1.0"
+        },
+        "frameworkAssemblies": [
+          "Microsoft.CSharp",
+          "System",
+          "System.ComponentModel",
+          "System.ComponentModel.DataAnnotations",
+          "System.Configuration",
+          "System.Configuration.Install",
+          "System.Data",
+          "System.Drawing",
+          "System.Drawing.Design",
+          "System.Management",
+          "System.Transactions",
+          "System.Xml"
+        ],
+        "compile": {
+          "lib/net48/MySql.Data.dll": {},
+          "lib/net48/Ubiety.Dns.Core.dll": {}
+        },
+        "runtime": {
+          "lib/net48/MySql.Data.dll": {},
+          "lib/net48/Ubiety.Dns.Core.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        }
+      },
+      "NLog/4.7.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "Microsoft.CSharp",
+          "System",
+          "System.Configuration",
+          "System.Core",
+          "System.Data",
+          "System.IO.Compression",
+          "System.Runtime.Serialization",
+          "System.ServiceModel",
+          "System.Transactions",
+          "System.Xml"
+        ],
+        "compile": {
+          "lib/net45/NLog.dll": {}
+        },
+        "runtime": {
+          "lib/net45/NLog.dll": {}
+        }
+      },
+      "NVelocity/1.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/NVelocity.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/NVelocity.dll": {}
+        }
+      },
+      "Pipelines.Sockets.Unofficial/1.0.7": {
+        "type": "package",
+        "dependencies": {
+          "System.Buffers": "4.4.0",
+          "System.IO.Pipelines": "4.5.1"
+        },
+        "compile": {
+          "lib/net472/Pipelines.Sockets.Unofficial.dll": {}
+        },
+        "runtime": {
+          "lib/net472/Pipelines.Sockets.Unofficial.dll": {}
+        }
+      },
+      "Portable.BouncyCastle/1.8.5": {
+        "type": "package",
+        "compile": {
+          "lib/net40/BouncyCastle.Crypto.dll": {}
+        },
+        "runtime": {
+          "lib/net40/BouncyCastle.Crypto.dll": {}
+        }
+      },
+      "SSH.NET/2016.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Renci.SshNet.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Renci.SshNet.dll": {}
+        }
+      },
+      "StackExchange.Redis/2.0.519": {
+        "type": "package",
+        "dependencies": {
+          "Pipelines.Sockets.Unofficial": "1.0.7",
+          "System.Diagnostics.PerformanceCounter": "4.5.0",
+          "System.IO.Compression": "4.3.0",
+          "System.IO.Pipelines": "4.5.1",
+          "System.Threading.Channels": "4.5.0"
+        },
+        "frameworkAssemblies": [
+          "System.IO.Compression"
+        ],
+        "compile": {
+          "lib/net472/StackExchange.Redis.dll": {}
+        },
+        "runtime": {
+          "lib/net472/StackExchange.Redis.dll": {}
+        }
+      },
+      "StackExchange.Redis.Extensions.Core/4.0.5": {
+        "type": "package",
+        "dependencies": {
+          "StackExchange.Redis": "2.0.513"
+        },
+        "frameworkAssemblies": [
+          "System.IO.Compression"
+        ],
+        "compile": {
+          "lib/net472/StackExchange.Redis.Extensions.Core.dll": {}
+        },
+        "runtime": {
+          "lib/net472/StackExchange.Redis.Extensions.Core.dll": {}
+        }
+      },
+      "StackExchange.Redis.Extensions.LegacyConfiguration/4.0.5": {
+        "type": "package",
+        "dependencies": {
+          "StackExchange.Redis.Extensions.Core": "4.0.5"
+        },
+        "compile": {
+          "lib/net461/StackExchange.Redis.Extensions.LegacyConfiguration.dll": {}
+        },
+        "runtime": {
+          "lib/net461/StackExchange.Redis.Extensions.LegacyConfiguration.dll": {}
+        }
+      },
+      "System.Buffers/4.5.1": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net45/System.Buffers.dll": {}
+        },
+        "runtime": {
+          "lib/net461/System.Buffers.dll": {}
+        }
+      },
+      "System.Diagnostics.PerformanceCounter/4.5.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net461/System.Diagnostics.PerformanceCounter.dll": {}
+        },
+        "runtime": {
+          "lib/net461/System.Diagnostics.PerformanceCounter.dll": {}
+        }
+      },
+      "System.IO/4.3.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net462/System.IO.dll": {}
+        },
+        "runtime": {
+          "lib/net462/System.IO.dll": {}
+        }
+      },
+      "System.IO.Compression/4.3.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net46/System.IO.Compression.dll": {}
+        },
+        "runtime": {
+          "runtimes/win/lib/net46/System.IO.Compression.dll": {}
+        }
+      },
+      "System.IO.Pipelines/4.5.1": {
+        "type": "package",
+        "dependencies": {
+          "System.Buffers": "4.4.0",
+          "System.Memory": "4.5.1",
+          "System.Threading.Tasks.Extensions": "4.5.1"
+        },
+        "compile": {
+          "ref/netstandard1.3/System.IO.Pipelines.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.IO.Pipelines.dll": {}
+        }
+      },
+      "System.Memory/4.5.3": {
+        "type": "package",
+        "dependencies": {
+          "System.Buffers": "4.4.0",
+          "System.Numerics.Vectors": "4.4.0",
+          "System.Runtime.CompilerServices.Unsafe": "4.5.2"
+        },
+        "compile": {
+          "lib/netstandard2.0/System.Memory.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Memory.dll": {}
+        }
+      },
+      "System.Numerics.Vectors/4.4.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Numerics",
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net46/System.Numerics.Vectors.dll": {}
+        },
+        "runtime": {
+          "lib/net46/System.Numerics.Vectors.dll": {}
+        }
+      },
+      "System.Runtime/4.3.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "System.ComponentModel.Composition",
+          "System.Core",
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net462/System.Runtime.dll": {}
+        },
+        "runtime": {
+          "lib/net462/System.Runtime.dll": {}
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/4.5.2": {
+        "type": "package",
+        "compile": {
+          "ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll": {}
+        }
+      },
+      "System.Security.Cryptography.Algorithms/4.3.0": {
+        "type": "package",
+        "dependencies": {
+          "System.IO": "4.3.0",
+          "System.Runtime": "4.3.0",
+          "System.Security.Cryptography.Encoding": "4.3.0",
+          "System.Security.Cryptography.Primitives": "4.3.0"
+        },
+        "frameworkAssemblies": [
+          "System.Core",
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net463/System.Security.Cryptography.Algorithms.dll": {}
+        },
+        "runtime": {
+          "runtimes/win/lib/net463/System.Security.Cryptography.Algorithms.dll": {}
+        }
+      },
+      "System.Security.Cryptography.Encoding/4.3.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net46/System.Security.Cryptography.Encoding.dll": {}
+        },
+        "runtime": {
+          "runtimes/win/lib/net46/System.Security.Cryptography.Encoding.dll": {}
+        }
+      },
+      "System.Security.Cryptography.Primitives/4.3.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net46/System.Security.Cryptography.Primitives.dll": {}
+        },
+        "runtime": {
+          "lib/net46/System.Security.Cryptography.Primitives.dll": {}
+        }
+      },
+      "System.Security.Cryptography.X509Certificates/4.3.2": {
+        "type": "package",
+        "dependencies": {
+          "System.Security.Cryptography.Algorithms": "4.3.0",
+          "System.Security.Cryptography.Encoding": "4.3.0"
+        },
+        "frameworkAssemblies": [
+          "System",
+          "System.Core",
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net461/System.Security.Cryptography.X509Certificates.dll": {}
+        },
+        "runtime": {
+          "runtimes/win/lib/net461/System.Security.Cryptography.X509Certificates.dll": {}
+        }
+      },
+      "System.Threading.Channels/4.5.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Threading.Tasks.Extensions": "4.5.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/System.Threading.Channels.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Threading.Channels.dll": {}
+        }
+      },
+      "System.Threading.Tasks.Extensions/4.5.2": {
+        "type": "package",
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "4.5.2"
+        },
+        "compile": {
+          "lib/netstandard2.0/System.Threading.Tasks.Extensions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Threading.Tasks.Extensions.dll": {}
+        }
+      },
+      "twitterizer/2.4.2.2": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "compile": {
+          "lib/net48/Twitterizer2.dll": {}
+        },
+        "runtime": {
+          "lib/net48/Twitterizer2.dll": {}
+        }
+      },
+      "Ubiety.Dns.Core/2.4.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Ubiety.Dns.Core.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Ubiety.Dns.Core.dll": {}
+        }
+      },
+      "ASC.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.8",
+        "dependencies": {
+          "ARSoft.Tools.Net": "2.2.9",
+          "Autofac": "5.1.2",
+          "HtmlAgilityPack": "1.6.0.1",
+          "Microsoft.AspNetCore.Cryptography.KeyDerivation": "3.1.4",
+          "MySql.Data": "8.0.19",
+          "NLog": "4.7.0",
+          "NVelocity": "1.2.0",
+          "Newtonsoft.Json": "12.0.3",
+          "StackExchange.Redis": "2.0.519",
+          "StackExchange.Redis.Extensions.LegacyConfiguration": "4.0.5",
+          "System.Buffers": "4.5.1",
+          "System.Memory": "4.5.3",
+          "Ubiety.Dns.Core": "2.4.1",
+          "log4net": "2.0.8"
+        },
+        "compile": {
+          "bin/placeholder/ASC.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ASC.Common.dll": {}
+        }
+      },
+      "ASC.Core.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.8",
+        "dependencies": {
+          "ASC.Common": "1.0.0",
+          "AWSSDK.CloudFront": "3.3.101.126",
+          "AWSSDK.S3": "3.3.110.50",
+          "AWSSDK.SimpleEmail": "3.3.101.130",
+          "Autofac": "5.1.2",
+          "MailKit": "2.5.2",
+          "Newtonsoft.Json": "12.0.3",
+          "System.Security.Cryptography.X509Certificates": "4.3.2"
+        },
+        "compile": {
+          "bin/placeholder/ASC.Core.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ASC.Core.Common.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win-x64": {
+      "ARSoft.Tools.Net/2.2.9": {
+        "type": "package",
+        "dependencies": {
+          "BouncyCastle": "1.8.1"
+        },
+        "compile": {
+          "lib/net45/ARSoft.Tools.Net.dll": {}
+        },
+        "runtime": {
+          "lib/net45/ARSoft.Tools.Net.dll": {}
+        }
+      },
+      "Autofac/5.1.2": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Bcl.AsyncInterfaces": "1.1.0"
+        },
+        "frameworkAssemblies": [
+          "System.ComponentModel.Composition"
+        ],
+        "compile": {
+          "lib/net461/Autofac.dll": {}
+        },
+        "runtime": {
+          "lib/net461/Autofac.dll": {}
+        }
+      },
+      "AWSSDK.CloudFront/3.3.101.126": {
+        "type": "package",
+        "dependencies": {
+          "AWSSDK.Core": "[3.3.106.3, 3.4.0)"
+        },
+        "compile": {
+          "lib/net45/AWSSDK.CloudFront.dll": {}
+        },
+        "runtime": {
+          "lib/net45/AWSSDK.CloudFront.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.3.106.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/AWSSDK.Core.dll": {}
+        },
+        "runtime": {
+          "lib/net45/AWSSDK.Core.dll": {}
+        }
+      },
+      "AWSSDK.S3/3.3.110.50": {
+        "type": "package",
+        "dependencies": {
+          "AWSSDK.Core": "[3.3.106.3, 3.4.0)"
+        },
+        "compile": {
+          "lib/net45/AWSSDK.S3.dll": {}
+        },
+        "runtime": {
+          "lib/net45/AWSSDK.S3.dll": {}
+        }
+      },
+      "AWSSDK.SimpleEmail/3.3.101.130": {
+        "type": "package",
+        "dependencies": {
+          "AWSSDK.Core": "[3.3.106.3, 3.4.0)"
+        },
+        "compile": {
+          "lib/net45/AWSSDK.SimpleEmail.dll": {}
+        },
+        "runtime": {
+          "lib/net45/AWSSDK.SimpleEmail.dll": {}
+        }
+      },
+      "BouncyCastle/1.8.3.1": {
+        "type": "package",
+        "compile": {
+          "lib/BouncyCastle.Crypto.dll": {}
+        },
+        "runtime": {
+          "lib/BouncyCastle.Crypto.dll": {}
+        }
+      },
+      "DotNetOpenAuth.Ultimate/4.1.0.12182": {
+        "type": "package",
+        "compile": {
+          "lib/net45-full/DotNetOpenAuth.dll": {}
+        },
+        "runtime": {
+          "lib/net45-full/DotNetOpenAuth.dll": {}
+        }
+      },
+      "Google.Protobuf/3.6.1": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Google.Protobuf.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Google.Protobuf.dll": {}
+        }
+      },
+      "HtmlAgilityPack/1.6.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net462/HtmlAgilityPack.dll": {}
+        },
+        "runtime": {
+          "lib/net462/HtmlAgilityPack.dll": {}
+        }
+      },
+      "JWT/1.3.4": {
+        "type": "package",
+        "compile": {
+          "lib/3.5/JWT.dll": {}
+        },
+        "runtime": {
+          "lib/3.5/JWT.dll": {}
+        }
+      },
+      "log4net/2.0.8": {
+        "type": "package",
+        "compile": {
+          "lib/net45-full/log4net.dll": {}
+        },
+        "runtime": {
+          "lib/net45-full/log4net.dll": {}
+        }
+      },
+      "MailKit/2.5.2": {
+        "type": "package",
+        "dependencies": {
+          "MimeKit": "2.5.2"
+        },
+        "frameworkAssemblies": [
+          "System",
+          "System.Core",
+          "System.Data",
+          "System.Net.Http"
+        ],
+        "compile": {
+          "lib/net48/MailKit.dll": {}
+        },
+        "runtime": {
+          "lib/net48/MailKit.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.Cryptography.Internal/3.1.4": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Cryptography.Internal.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Cryptography.Internal.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.Cryptography.KeyDerivation/3.1.4": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Cryptography.Internal": "3.1.4"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll": {}
+        }
+      },
+      "Microsoft.Bcl.AsyncInterfaces/1.1.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Threading.Tasks.Extensions": "4.5.2"
+        },
+        "frameworkAssemblies": [
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net461/Microsoft.Bcl.AsyncInterfaces.dll": {}
+        },
+        "runtime": {
+          "lib/net461/Microsoft.Bcl.AsyncInterfaces.dll": {}
+        }
+      },
+      "MimeKit/2.5.2": {
+        "type": "package",
+        "dependencies": {
+          "Portable.BouncyCastle": "1.8.5"
+        },
+        "frameworkAssemblies": [
+          "System",
+          "System.Core",
+          "System.Data",
+          "System.Net.Http",
+          "System.Security"
+        ],
+        "compile": {
+          "lib/net48/MimeKit.dll": {}
+        },
+        "runtime": {
+          "lib/net48/MimeKit.dll": {}
+        }
+      },
+      "MySql.Data/8.0.19": {
+        "type": "package",
+        "dependencies": {
+          "BouncyCastle": "1.8.3.1",
+          "Google.Protobuf": "3.6.1",
+          "SSH.NET": "2016.1.0"
+        },
+        "frameworkAssemblies": [
+          "Microsoft.CSharp",
+          "System",
+          "System.ComponentModel",
+          "System.ComponentModel.DataAnnotations",
+          "System.Configuration",
+          "System.Configuration.Install",
+          "System.Data",
+          "System.Drawing",
+          "System.Drawing.Design",
+          "System.Management",
+          "System.Transactions",
+          "System.Xml"
+        ],
+        "compile": {
+          "lib/net48/MySql.Data.dll": {},
+          "lib/net48/Ubiety.Dns.Core.dll": {}
+        },
+        "runtime": {
+          "lib/net48/MySql.Data.dll": {},
+          "lib/net48/Ubiety.Dns.Core.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        }
+      },
+      "NLog/4.7.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "Microsoft.CSharp",
+          "System",
+          "System.Configuration",
+          "System.Core",
+          "System.Data",
+          "System.IO.Compression",
+          "System.Runtime.Serialization",
+          "System.ServiceModel",
+          "System.Transactions",
+          "System.Xml"
+        ],
+        "compile": {
+          "lib/net45/NLog.dll": {}
+        },
+        "runtime": {
+          "lib/net45/NLog.dll": {}
+        }
+      },
+      "NVelocity/1.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/NVelocity.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/NVelocity.dll": {}
+        }
+      },
+      "Pipelines.Sockets.Unofficial/1.0.7": {
+        "type": "package",
+        "dependencies": {
+          "System.Buffers": "4.4.0",
+          "System.IO.Pipelines": "4.5.1"
+        },
+        "compile": {
+          "lib/net472/Pipelines.Sockets.Unofficial.dll": {}
+        },
+        "runtime": {
+          "lib/net472/Pipelines.Sockets.Unofficial.dll": {}
+        }
+      },
+      "Portable.BouncyCastle/1.8.5": {
+        "type": "package",
+        "compile": {
+          "lib/net40/BouncyCastle.Crypto.dll": {}
+        },
+        "runtime": {
+          "lib/net40/BouncyCastle.Crypto.dll": {}
+        }
+      },
+      "SSH.NET/2016.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Renci.SshNet.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Renci.SshNet.dll": {}
+        }
+      },
+      "StackExchange.Redis/2.0.519": {
+        "type": "package",
+        "dependencies": {
+          "Pipelines.Sockets.Unofficial": "1.0.7",
+          "System.Diagnostics.PerformanceCounter": "4.5.0",
+          "System.IO.Compression": "4.3.0",
+          "System.IO.Pipelines": "4.5.1",
+          "System.Threading.Channels": "4.5.0"
+        },
+        "frameworkAssemblies": [
+          "System.IO.Compression"
+        ],
+        "compile": {
+          "lib/net472/StackExchange.Redis.dll": {}
+        },
+        "runtime": {
+          "lib/net472/StackExchange.Redis.dll": {}
+        }
+      },
+      "StackExchange.Redis.Extensions.Core/4.0.5": {
+        "type": "package",
+        "dependencies": {
+          "StackExchange.Redis": "2.0.513"
+        },
+        "frameworkAssemblies": [
+          "System.IO.Compression"
+        ],
+        "compile": {
+          "lib/net472/StackExchange.Redis.Extensions.Core.dll": {}
+        },
+        "runtime": {
+          "lib/net472/StackExchange.Redis.Extensions.Core.dll": {}
+        }
+      },
+      "StackExchange.Redis.Extensions.LegacyConfiguration/4.0.5": {
+        "type": "package",
+        "dependencies": {
+          "StackExchange.Redis.Extensions.Core": "4.0.5"
+        },
+        "compile": {
+          "lib/net461/StackExchange.Redis.Extensions.LegacyConfiguration.dll": {}
+        },
+        "runtime": {
+          "lib/net461/StackExchange.Redis.Extensions.LegacyConfiguration.dll": {}
+        }
+      },
+      "System.Buffers/4.5.1": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net45/System.Buffers.dll": {}
+        },
+        "runtime": {
+          "lib/net461/System.Buffers.dll": {}
+        }
+      },
+      "System.Diagnostics.PerformanceCounter/4.5.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net461/System.Diagnostics.PerformanceCounter.dll": {}
+        },
+        "runtime": {
+          "lib/net461/System.Diagnostics.PerformanceCounter.dll": {}
+        }
+      },
+      "System.IO/4.3.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net462/System.IO.dll": {}
+        },
+        "runtime": {
+          "lib/net462/System.IO.dll": {}
+        }
+      },
+      "System.IO.Compression/4.3.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net46/System.IO.Compression.dll": {}
+        },
+        "runtime": {
+          "lib/net46/System.IO.Compression.dll": {}
+        }
+      },
+      "System.IO.Pipelines/4.5.1": {
+        "type": "package",
+        "dependencies": {
+          "System.Buffers": "4.4.0",
+          "System.Memory": "4.5.1",
+          "System.Threading.Tasks.Extensions": "4.5.1"
+        },
+        "compile": {
+          "ref/netstandard1.3/System.IO.Pipelines.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.IO.Pipelines.dll": {}
+        }
+      },
+      "System.Memory/4.5.3": {
+        "type": "package",
+        "dependencies": {
+          "System.Buffers": "4.4.0",
+          "System.Numerics.Vectors": "4.4.0",
+          "System.Runtime.CompilerServices.Unsafe": "4.5.2"
+        },
+        "compile": {
+          "lib/netstandard2.0/System.Memory.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Memory.dll": {}
+        }
+      },
+      "System.Numerics.Vectors/4.4.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Numerics",
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net46/System.Numerics.Vectors.dll": {}
+        },
+        "runtime": {
+          "lib/net46/System.Numerics.Vectors.dll": {}
+        }
+      },
+      "System.Runtime/4.3.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "System.ComponentModel.Composition",
+          "System.Core",
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net462/System.Runtime.dll": {}
+        },
+        "runtime": {
+          "lib/net462/System.Runtime.dll": {}
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/4.5.2": {
+        "type": "package",
+        "compile": {
+          "ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll": {}
+        }
+      },
+      "System.Security.Cryptography.Algorithms/4.3.0": {
+        "type": "package",
+        "dependencies": {
+          "System.IO": "4.3.0",
+          "System.Runtime": "4.3.0",
+          "System.Security.Cryptography.Encoding": "4.3.0",
+          "System.Security.Cryptography.Primitives": "4.3.0"
+        },
+        "frameworkAssemblies": [
+          "System.Core",
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net463/System.Security.Cryptography.Algorithms.dll": {}
+        },
+        "runtime": {
+          "lib/net463/System.Security.Cryptography.Algorithms.dll": {}
+        }
+      },
+      "System.Security.Cryptography.Encoding/4.3.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net46/System.Security.Cryptography.Encoding.dll": {}
+        },
+        "runtime": {
+          "lib/net46/System.Security.Cryptography.Encoding.dll": {}
+        }
+      },
+      "System.Security.Cryptography.Primitives/4.3.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net46/System.Security.Cryptography.Primitives.dll": {}
+        },
+        "runtime": {
+          "lib/net46/System.Security.Cryptography.Primitives.dll": {}
+        }
+      },
+      "System.Security.Cryptography.X509Certificates/4.3.2": {
+        "type": "package",
+        "dependencies": {
+          "System.Security.Cryptography.Algorithms": "4.3.0",
+          "System.Security.Cryptography.Encoding": "4.3.0"
+        },
+        "frameworkAssemblies": [
+          "System",
+          "System.Core",
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net461/System.Security.Cryptography.X509Certificates.dll": {}
+        },
+        "runtime": {
+          "lib/net461/System.Security.Cryptography.X509Certificates.dll": {}
+        }
+      },
+      "System.Threading.Channels/4.5.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Threading.Tasks.Extensions": "4.5.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/System.Threading.Channels.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Threading.Channels.dll": {}
+        }
+      },
+      "System.Threading.Tasks.Extensions/4.5.2": {
+        "type": "package",
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "4.5.2"
+        },
+        "compile": {
+          "lib/netstandard2.0/System.Threading.Tasks.Extensions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Threading.Tasks.Extensions.dll": {}
+        }
+      },
+      "twitterizer/2.4.2.2": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "compile": {
+          "lib/net48/Twitterizer2.dll": {}
+        },
+        "runtime": {
+          "lib/net48/Twitterizer2.dll": {}
+        }
+      },
+      "Ubiety.Dns.Core/2.4.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Ubiety.Dns.Core.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Ubiety.Dns.Core.dll": {}
+        }
+      },
+      "ASC.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.8",
+        "dependencies": {
+          "ARSoft.Tools.Net": "2.2.9",
+          "Autofac": "5.1.2",
+          "HtmlAgilityPack": "1.6.0.1",
+          "Microsoft.AspNetCore.Cryptography.KeyDerivation": "3.1.4",
+          "MySql.Data": "8.0.19",
+          "NLog": "4.7.0",
+          "NVelocity": "1.2.0",
+          "Newtonsoft.Json": "12.0.3",
+          "StackExchange.Redis": "2.0.519",
+          "StackExchange.Redis.Extensions.LegacyConfiguration": "4.0.5",
+          "System.Buffers": "4.5.1",
+          "System.Memory": "4.5.3",
+          "Ubiety.Dns.Core": "2.4.1",
+          "log4net": "2.0.8"
+        },
+        "compile": {
+          "bin/placeholder/ASC.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ASC.Common.dll": {}
+        }
+      },
+      "ASC.Core.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.8",
+        "dependencies": {
+          "ASC.Common": "1.0.0",
+          "AWSSDK.CloudFront": "3.3.101.126",
+          "AWSSDK.S3": "3.3.110.50",
+          "AWSSDK.SimpleEmail": "3.3.101.130",
+          "Autofac": "5.1.2",
+          "MailKit": "2.5.2",
+          "Newtonsoft.Json": "12.0.3",
+          "System.Security.Cryptography.X509Certificates": "4.3.2"
+        },
+        "compile": {
+          "bin/placeholder/ASC.Core.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ASC.Core.Common.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win-x86": {
+      "ARSoft.Tools.Net/2.2.9": {
+        "type": "package",
+        "dependencies": {
+          "BouncyCastle": "1.8.1"
+        },
+        "compile": {
+          "lib/net45/ARSoft.Tools.Net.dll": {}
+        },
+        "runtime": {
+          "lib/net45/ARSoft.Tools.Net.dll": {}
+        }
+      },
+      "Autofac/5.1.2": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Bcl.AsyncInterfaces": "1.1.0"
+        },
+        "frameworkAssemblies": [
+          "System.ComponentModel.Composition"
+        ],
+        "compile": {
+          "lib/net461/Autofac.dll": {}
+        },
+        "runtime": {
+          "lib/net461/Autofac.dll": {}
+        }
+      },
+      "AWSSDK.CloudFront/3.3.101.126": {
+        "type": "package",
+        "dependencies": {
+          "AWSSDK.Core": "[3.3.106.3, 3.4.0)"
+        },
+        "compile": {
+          "lib/net45/AWSSDK.CloudFront.dll": {}
+        },
+        "runtime": {
+          "lib/net45/AWSSDK.CloudFront.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.3.106.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/AWSSDK.Core.dll": {}
+        },
+        "runtime": {
+          "lib/net45/AWSSDK.Core.dll": {}
+        }
+      },
+      "AWSSDK.S3/3.3.110.50": {
+        "type": "package",
+        "dependencies": {
+          "AWSSDK.Core": "[3.3.106.3, 3.4.0)"
+        },
+        "compile": {
+          "lib/net45/AWSSDK.S3.dll": {}
+        },
+        "runtime": {
+          "lib/net45/AWSSDK.S3.dll": {}
+        }
+      },
+      "AWSSDK.SimpleEmail/3.3.101.130": {
+        "type": "package",
+        "dependencies": {
+          "AWSSDK.Core": "[3.3.106.3, 3.4.0)"
+        },
+        "compile": {
+          "lib/net45/AWSSDK.SimpleEmail.dll": {}
+        },
+        "runtime": {
+          "lib/net45/AWSSDK.SimpleEmail.dll": {}
+        }
+      },
+      "BouncyCastle/1.8.3.1": {
+        "type": "package",
+        "compile": {
+          "lib/BouncyCastle.Crypto.dll": {}
+        },
+        "runtime": {
+          "lib/BouncyCastle.Crypto.dll": {}
+        }
+      },
+      "DotNetOpenAuth.Ultimate/4.1.0.12182": {
+        "type": "package",
+        "compile": {
+          "lib/net45-full/DotNetOpenAuth.dll": {}
+        },
+        "runtime": {
+          "lib/net45-full/DotNetOpenAuth.dll": {}
+        }
+      },
+      "Google.Protobuf/3.6.1": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Google.Protobuf.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Google.Protobuf.dll": {}
+        }
+      },
+      "HtmlAgilityPack/1.6.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/net462/HtmlAgilityPack.dll": {}
+        },
+        "runtime": {
+          "lib/net462/HtmlAgilityPack.dll": {}
+        }
+      },
+      "JWT/1.3.4": {
+        "type": "package",
+        "compile": {
+          "lib/3.5/JWT.dll": {}
+        },
+        "runtime": {
+          "lib/3.5/JWT.dll": {}
+        }
+      },
+      "log4net/2.0.8": {
+        "type": "package",
+        "compile": {
+          "lib/net45-full/log4net.dll": {}
+        },
+        "runtime": {
+          "lib/net45-full/log4net.dll": {}
+        }
+      },
+      "MailKit/2.5.2": {
+        "type": "package",
+        "dependencies": {
+          "MimeKit": "2.5.2"
+        },
+        "frameworkAssemblies": [
+          "System",
+          "System.Core",
+          "System.Data",
+          "System.Net.Http"
+        ],
+        "compile": {
+          "lib/net48/MailKit.dll": {}
+        },
+        "runtime": {
+          "lib/net48/MailKit.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.Cryptography.Internal/3.1.4": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Cryptography.Internal.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Cryptography.Internal.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.Cryptography.KeyDerivation/3.1.4": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Cryptography.Internal": "3.1.4"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll": {}
+        }
+      },
+      "Microsoft.Bcl.AsyncInterfaces/1.1.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Threading.Tasks.Extensions": "4.5.2"
+        },
+        "frameworkAssemblies": [
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net461/Microsoft.Bcl.AsyncInterfaces.dll": {}
+        },
+        "runtime": {
+          "lib/net461/Microsoft.Bcl.AsyncInterfaces.dll": {}
+        }
+      },
+      "MimeKit/2.5.2": {
+        "type": "package",
+        "dependencies": {
+          "Portable.BouncyCastle": "1.8.5"
+        },
+        "frameworkAssemblies": [
+          "System",
+          "System.Core",
+          "System.Data",
+          "System.Net.Http",
+          "System.Security"
+        ],
+        "compile": {
+          "lib/net48/MimeKit.dll": {}
+        },
+        "runtime": {
+          "lib/net48/MimeKit.dll": {}
+        }
+      },
+      "MySql.Data/8.0.19": {
+        "type": "package",
+        "dependencies": {
+          "BouncyCastle": "1.8.3.1",
+          "Google.Protobuf": "3.6.1",
+          "SSH.NET": "2016.1.0"
+        },
+        "frameworkAssemblies": [
+          "Microsoft.CSharp",
+          "System",
+          "System.ComponentModel",
+          "System.ComponentModel.DataAnnotations",
+          "System.Configuration",
+          "System.Configuration.Install",
+          "System.Data",
+          "System.Drawing",
+          "System.Drawing.Design",
+          "System.Management",
+          "System.Transactions",
+          "System.Xml"
+        ],
+        "compile": {
+          "lib/net48/MySql.Data.dll": {},
+          "lib/net48/Ubiety.Dns.Core.dll": {}
+        },
+        "runtime": {
+          "lib/net48/MySql.Data.dll": {},
+          "lib/net48/Ubiety.Dns.Core.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        }
+      },
+      "NLog/4.7.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "Microsoft.CSharp",
+          "System",
+          "System.Configuration",
+          "System.Core",
+          "System.Data",
+          "System.IO.Compression",
+          "System.Runtime.Serialization",
+          "System.ServiceModel",
+          "System.Transactions",
+          "System.Xml"
+        ],
+        "compile": {
+          "lib/net45/NLog.dll": {}
+        },
+        "runtime": {
+          "lib/net45/NLog.dll": {}
+        }
+      },
+      "NVelocity/1.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/NVelocity.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/NVelocity.dll": {}
+        }
+      },
+      "Pipelines.Sockets.Unofficial/1.0.7": {
+        "type": "package",
+        "dependencies": {
+          "System.Buffers": "4.4.0",
+          "System.IO.Pipelines": "4.5.1"
+        },
+        "compile": {
+          "lib/net472/Pipelines.Sockets.Unofficial.dll": {}
+        },
+        "runtime": {
+          "lib/net472/Pipelines.Sockets.Unofficial.dll": {}
+        }
+      },
+      "Portable.BouncyCastle/1.8.5": {
+        "type": "package",
+        "compile": {
+          "lib/net40/BouncyCastle.Crypto.dll": {}
+        },
+        "runtime": {
+          "lib/net40/BouncyCastle.Crypto.dll": {}
+        }
+      },
+      "SSH.NET/2016.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/net40/Renci.SshNet.dll": {}
+        },
+        "runtime": {
+          "lib/net40/Renci.SshNet.dll": {}
+        }
+      },
+      "StackExchange.Redis/2.0.519": {
+        "type": "package",
+        "dependencies": {
+          "Pipelines.Sockets.Unofficial": "1.0.7",
+          "System.Diagnostics.PerformanceCounter": "4.5.0",
+          "System.IO.Compression": "4.3.0",
+          "System.IO.Pipelines": "4.5.1",
+          "System.Threading.Channels": "4.5.0"
+        },
+        "frameworkAssemblies": [
+          "System.IO.Compression"
+        ],
+        "compile": {
+          "lib/net472/StackExchange.Redis.dll": {}
+        },
+        "runtime": {
+          "lib/net472/StackExchange.Redis.dll": {}
+        }
+      },
+      "StackExchange.Redis.Extensions.Core/4.0.5": {
+        "type": "package",
+        "dependencies": {
+          "StackExchange.Redis": "2.0.513"
+        },
+        "frameworkAssemblies": [
+          "System.IO.Compression"
+        ],
+        "compile": {
+          "lib/net472/StackExchange.Redis.Extensions.Core.dll": {}
+        },
+        "runtime": {
+          "lib/net472/StackExchange.Redis.Extensions.Core.dll": {}
+        }
+      },
+      "StackExchange.Redis.Extensions.LegacyConfiguration/4.0.5": {
+        "type": "package",
+        "dependencies": {
+          "StackExchange.Redis.Extensions.Core": "4.0.5"
+        },
+        "compile": {
+          "lib/net461/StackExchange.Redis.Extensions.LegacyConfiguration.dll": {}
+        },
+        "runtime": {
+          "lib/net461/StackExchange.Redis.Extensions.LegacyConfiguration.dll": {}
+        }
+      },
+      "System.Buffers/4.5.1": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net45/System.Buffers.dll": {}
+        },
+        "runtime": {
+          "lib/net461/System.Buffers.dll": {}
+        }
+      },
+      "System.Diagnostics.PerformanceCounter/4.5.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net461/System.Diagnostics.PerformanceCounter.dll": {}
+        },
+        "runtime": {
+          "lib/net461/System.Diagnostics.PerformanceCounter.dll": {}
+        }
+      },
+      "System.IO/4.3.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net462/System.IO.dll": {}
+        },
+        "runtime": {
+          "lib/net462/System.IO.dll": {}
+        }
+      },
+      "System.IO.Compression/4.3.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net46/System.IO.Compression.dll": {}
+        },
+        "runtime": {
+          "lib/net46/System.IO.Compression.dll": {}
+        }
+      },
+      "System.IO.Pipelines/4.5.1": {
+        "type": "package",
+        "dependencies": {
+          "System.Buffers": "4.4.0",
+          "System.Memory": "4.5.1",
+          "System.Threading.Tasks.Extensions": "4.5.1"
+        },
+        "compile": {
+          "ref/netstandard1.3/System.IO.Pipelines.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.IO.Pipelines.dll": {}
+        }
+      },
+      "System.Memory/4.5.3": {
+        "type": "package",
+        "dependencies": {
+          "System.Buffers": "4.4.0",
+          "System.Numerics.Vectors": "4.4.0",
+          "System.Runtime.CompilerServices.Unsafe": "4.5.2"
+        },
+        "compile": {
+          "lib/netstandard2.0/System.Memory.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Memory.dll": {}
+        }
+      },
+      "System.Numerics.Vectors/4.4.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System.Numerics",
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net46/System.Numerics.Vectors.dll": {}
+        },
+        "runtime": {
+          "lib/net46/System.Numerics.Vectors.dll": {}
+        }
+      },
+      "System.Runtime/4.3.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "System.ComponentModel.Composition",
+          "System.Core",
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net462/System.Runtime.dll": {}
+        },
+        "runtime": {
+          "lib/net462/System.Runtime.dll": {}
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/4.5.2": {
+        "type": "package",
+        "compile": {
+          "ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll": {}
+        }
+      },
+      "System.Security.Cryptography.Algorithms/4.3.0": {
+        "type": "package",
+        "dependencies": {
+          "System.IO": "4.3.0",
+          "System.Runtime": "4.3.0",
+          "System.Security.Cryptography.Encoding": "4.3.0",
+          "System.Security.Cryptography.Primitives": "4.3.0"
+        },
+        "frameworkAssemblies": [
+          "System.Core",
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net463/System.Security.Cryptography.Algorithms.dll": {}
+        },
+        "runtime": {
+          "lib/net463/System.Security.Cryptography.Algorithms.dll": {}
+        }
+      },
+      "System.Security.Cryptography.Encoding/4.3.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "System",
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net46/System.Security.Cryptography.Encoding.dll": {}
+        },
+        "runtime": {
+          "lib/net46/System.Security.Cryptography.Encoding.dll": {}
+        }
+      },
+      "System.Security.Cryptography.Primitives/4.3.0": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net46/System.Security.Cryptography.Primitives.dll": {}
+        },
+        "runtime": {
+          "lib/net46/System.Security.Cryptography.Primitives.dll": {}
+        }
+      },
+      "System.Security.Cryptography.X509Certificates/4.3.2": {
+        "type": "package",
+        "dependencies": {
+          "System.Security.Cryptography.Algorithms": "4.3.0",
+          "System.Security.Cryptography.Encoding": "4.3.0"
+        },
+        "frameworkAssemblies": [
+          "System",
+          "System.Core",
+          "mscorlib"
+        ],
+        "compile": {
+          "ref/net461/System.Security.Cryptography.X509Certificates.dll": {}
+        },
+        "runtime": {
+          "lib/net461/System.Security.Cryptography.X509Certificates.dll": {}
+        }
+      },
+      "System.Threading.Channels/4.5.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Threading.Tasks.Extensions": "4.5.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/System.Threading.Channels.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Threading.Channels.dll": {}
+        }
+      },
+      "System.Threading.Tasks.Extensions/4.5.2": {
+        "type": "package",
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "4.5.2"
+        },
+        "compile": {
+          "lib/netstandard2.0/System.Threading.Tasks.Extensions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Threading.Tasks.Extensions.dll": {}
+        }
+      },
+      "twitterizer/2.4.2.2": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "compile": {
+          "lib/net48/Twitterizer2.dll": {}
+        },
+        "runtime": {
+          "lib/net48/Twitterizer2.dll": {}
+        }
+      },
+      "Ubiety.Dns.Core/2.4.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Ubiety.Dns.Core.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Ubiety.Dns.Core.dll": {}
+        }
+      },
+      "ASC.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.8",
+        "dependencies": {
+          "ARSoft.Tools.Net": "2.2.9",
+          "Autofac": "5.1.2",
+          "HtmlAgilityPack": "1.6.0.1",
+          "Microsoft.AspNetCore.Cryptography.KeyDerivation": "3.1.4",
+          "MySql.Data": "8.0.19",
+          "NLog": "4.7.0",
+          "NVelocity": "1.2.0",
+          "Newtonsoft.Json": "12.0.3",
+          "StackExchange.Redis": "2.0.519",
+          "StackExchange.Redis.Extensions.LegacyConfiguration": "4.0.5",
+          "System.Buffers": "4.5.1",
+          "System.Memory": "4.5.3",
+          "Ubiety.Dns.Core": "2.4.1",
+          "log4net": "2.0.8"
+        },
+        "compile": {
+          "bin/placeholder/ASC.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ASC.Common.dll": {}
+        }
+      },
+      "ASC.Core.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.8",
+        "dependencies": {
+          "ASC.Common": "1.0.0",
+          "AWSSDK.CloudFront": "3.3.101.126",
+          "AWSSDK.S3": "3.3.110.50",
+          "AWSSDK.SimpleEmail": "3.3.101.130",
+          "Autofac": "5.1.2",
+          "MailKit": "2.5.2",
+          "Newtonsoft.Json": "12.0.3",
+          "System.Security.Cryptography.X509Certificates": "4.3.2"
+        },
+        "compile": {
+          "bin/placeholder/ASC.Core.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ASC.Core.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ARSoft.Tools.Net/2.2.9": {
+      "sha512": "HeX2qDoGagp0xj3ru808WwEoG1Z3E2IUhG8T9jN2aHIyW4NkurWBt83BI4O4Y6EK6jiTFpj/RFQBg8+2yL0Lfw==",
+      "type": "package",
+      "path": "arsoft.tools.net/2.2.9",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "NOTICE",
+        "arsoft.tools.net.2.2.9.nupkg.sha512",
+        "arsoft.tools.net.nuspec",
+        "lib/net45/ARSoft.Tools.Net.dll",
+        "lib/net45/ARSoft.Tools.Net.xml"
+      ]
+    },
+    "Autofac/5.1.2": {
+      "sha512": "iGEx5Cm6Uor6/bZkgCHHjJO8cEQvDSOxgzNmHGJgGOnLDCe0b8NpOlhotsqx8dFvBDCsEX/V3YGRR30sRQLsxw==",
+      "type": "package",
+      "path": "autofac/5.1.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "autofac.5.1.2.nupkg.sha512",
+        "autofac.nuspec",
+        "icon.png",
+        "lib/net461/Autofac.dll",
+        "lib/net461/Autofac.pdb",
+        "lib/net461/Autofac.xml",
+        "lib/netstandard2.0/Autofac.dll",
+        "lib/netstandard2.0/Autofac.pdb",
+        "lib/netstandard2.0/Autofac.xml",
+        "lib/netstandard2.1/Autofac.dll",
+        "lib/netstandard2.1/Autofac.pdb",
+        "lib/netstandard2.1/Autofac.xml"
+      ]
+    },
+    "AWSSDK.CloudFront/3.3.101.126": {
+      "sha512": "xsY5jmEZ78ZB3xINz2bR/sw+nuT/PJYnFzRaCmdZrWoWi+WOf2RF7W/FNf/dLXBczdNxqCGCr7TbD5FiZnvrbA==",
+      "type": "package",
+      "path": "awssdk.cloudfront/3.3.101.126",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "analyzers/dotnet/cs/AWSSDK.CloudFront.CodeAnalysis.dll",
+        "awssdk.cloudfront.3.3.101.126.nupkg.sha512",
+        "awssdk.cloudfront.nuspec",
+        "lib/MonoAndroid10/AWSSDK.CloudFront.XML",
+        "lib/MonoAndroid10/AWSSDK.CloudFront.dll",
+        "lib/MonoTouch10/AWSSDK.CloudFront.XML",
+        "lib/MonoTouch10/AWSSDK.CloudFront.dll",
+        "lib/MonoTouch10/AWSSDK.CloudFront.pdb",
+        "lib/Xamarin.iOS10/AWSSDK.CloudFront.XML",
+        "lib/Xamarin.iOS10/AWSSDK.CloudFront.dll",
+        "lib/net35/AWSSDK.CloudFront.dll",
+        "lib/net35/AWSSDK.CloudFront.pdb",
+        "lib/net35/AWSSDK.CloudFront.xml",
+        "lib/net45/AWSSDK.CloudFront.dll",
+        "lib/net45/AWSSDK.CloudFront.pdb",
+        "lib/net45/AWSSDK.CloudFront.xml",
+        "lib/netstandard1.3/AWSSDK.CloudFront.dll",
+        "lib/netstandard1.3/AWSSDK.CloudFront.pdb",
+        "lib/netstandard1.3/AWSSDK.CloudFront.xml",
+        "lib/netstandard2.0/AWSSDK.CloudFront.dll",
+        "lib/netstandard2.0/AWSSDK.CloudFront.pdb",
+        "lib/netstandard2.0/AWSSDK.CloudFront.xml",
+        "lib/portable-net45+win8+wpa81+wp8/AWSSDK.CloudFront.XML",
+        "lib/portable-net45+win8+wpa81+wp8/AWSSDK.CloudFront.dll",
+        "lib/portable-net45+win8+wpa81+wp8/AWSSDK.CloudFront.pdb",
+        "lib/uap/AWSSDK.CloudFront.XML",
+        "lib/uap/AWSSDK.CloudFront.dll",
+        "lib/uap/AWSSDK.CloudFront.pdb",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
+      ]
+    },
+    "AWSSDK.Core/3.3.106.3": {
+      "sha512": "eFmqSDbnaqAlGHLNsHYwDON3UiTmiGtQfIvfe39jp6fAD1bE/+J2jtZ76/KRpBLvus8KoWUcSqntzBUYvbTStg==",
+      "type": "package",
+      "path": "awssdk.core/3.3.106.3",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "awssdk.core.3.3.106.3.nupkg.sha512",
+        "awssdk.core.nuspec",
+        "lib/MonoAndroid10/AWSSDK.Core.XML",
+        "lib/MonoAndroid10/AWSSDK.Core.dll",
+        "lib/MonoAndroid10/AWSSDK.Core.pdb",
+        "lib/MonoTouch10/AWSSDK.Core.XML",
+        "lib/MonoTouch10/AWSSDK.Core.dll",
+        "lib/Xamarin.Mac20/AWSSDK.Core.XML",
+        "lib/Xamarin.Mac20/AWSSDK.Core.dll",
+        "lib/Xamarin.iOS10/AWSSDK.Core.XML",
+        "lib/Xamarin.iOS10/AWSSDK.Core.dll",
+        "lib/net35/AWSSDK.Core.dll",
+        "lib/net35/AWSSDK.Core.pdb",
+        "lib/net35/AWSSDK.Core.xml",
+        "lib/net45/AWSSDK.Core.dll",
+        "lib/net45/AWSSDK.Core.pdb",
+        "lib/net45/AWSSDK.Core.xml",
+        "lib/netstandard1.3/AWSSDK.Core.dll",
+        "lib/netstandard1.3/AWSSDK.Core.pdb",
+        "lib/netstandard1.3/AWSSDK.Core.xml",
+        "lib/netstandard2.0/AWSSDK.Core.dll",
+        "lib/netstandard2.0/AWSSDK.Core.pdb",
+        "lib/netstandard2.0/AWSSDK.Core.xml",
+        "lib/portable-net45+win8+wpa81+wp8/AWSSDK.Core.XML",
+        "lib/portable-net45+win8+wpa81+wp8/AWSSDK.Core.dll",
+        "lib/portable-net45+win8+wpa81+wp8/AWSSDK.Core.pdb",
+        "lib/uap/AWSSDK.Core.XML",
+        "lib/uap/AWSSDK.Core.dll",
+        "lib/uap/AWSSDK.Core.pdb",
+        "lib/win8/AWSSDK.Core.XML",
+        "lib/win8/AWSSDK.Core.dll",
+        "lib/win8/AWSSDK.Core.pdb",
+        "lib/wp8/AWSSDK.Core.XML",
+        "lib/wp8/AWSSDK.Core.dll",
+        "lib/wp8/AWSSDK.Core.pdb",
+        "lib/wpa81/AWSSDK.Core.XML",
+        "lib/wpa81/AWSSDK.Core.dll",
+        "lib/wpa81/AWSSDK.Core.pdb",
+        "tools/account-management.ps1"
+      ]
+    },
+    "AWSSDK.S3/3.3.110.50": {
+      "sha512": "H0tu/MdUG7jhDieqzsiMPIeV4B99tIaUvQn/UOkS6iZtGjnXFFzlswyB40tDsm2E1hcePMvcs5iHU1DyNMEmAw==",
+      "type": "package",
+      "path": "awssdk.s3/3.3.110.50",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "analyzers/dotnet/cs/AWSSDK.S3.CodeAnalysis.dll",
+        "awssdk.s3.3.3.110.50.nupkg.sha512",
+        "awssdk.s3.nuspec",
+        "lib/MonoAndroid10/AWSSDK.S3.XML",
+        "lib/MonoAndroid10/AWSSDK.S3.dll",
+        "lib/MonoTouch10/AWSSDK.S3.XML",
+        "lib/MonoTouch10/AWSSDK.S3.dll",
+        "lib/MonoTouch10/AWSSDK.S3.pdb",
+        "lib/Xamarin.iOS10/AWSSDK.S3.XML",
+        "lib/Xamarin.iOS10/AWSSDK.S3.dll",
+        "lib/net35/AWSSDK.S3.dll",
+        "lib/net35/AWSSDK.S3.pdb",
+        "lib/net35/AWSSDK.S3.xml",
+        "lib/net45/AWSSDK.S3.dll",
+        "lib/net45/AWSSDK.S3.pdb",
+        "lib/net45/AWSSDK.S3.xml",
+        "lib/netstandard1.3/AWSSDK.S3.dll",
+        "lib/netstandard1.3/AWSSDK.S3.pdb",
+        "lib/netstandard1.3/AWSSDK.S3.xml",
+        "lib/netstandard2.0/AWSSDK.S3.dll",
+        "lib/netstandard2.0/AWSSDK.S3.pdb",
+        "lib/netstandard2.0/AWSSDK.S3.xml",
+        "lib/portable-net45+win8+wpa81+wp8/AWSSDK.S3.XML",
+        "lib/portable-net45+win8+wpa81+wp8/AWSSDK.S3.dll",
+        "lib/portable-net45+win8+wpa81+wp8/AWSSDK.S3.pdb",
+        "lib/uap/AWSSDK.S3.XML",
+        "lib/uap/AWSSDK.S3.dll",
+        "lib/uap/AWSSDK.S3.pdb",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
+      ]
+    },
+    "AWSSDK.SimpleEmail/3.3.101.130": {
+      "sha512": "mmjMmCPNMCKX9NYNt+7XiDB+wwFJ5ma2/E32qLMmENASEAwwmyaBGAfFd4NbYgnm0VH0gIY2azLXeurOsbkvqQ==",
+      "type": "package",
+      "path": "awssdk.simpleemail/3.3.101.130",
+      "hasTools": true,
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "analyzers/dotnet/cs/AWSSDK.SimpleEmail.CodeAnalysis.dll",
+        "awssdk.simpleemail.3.3.101.130.nupkg.sha512",
+        "awssdk.simpleemail.nuspec",
+        "lib/MonoAndroid10/AWSSDK.SimpleEmail.XML",
+        "lib/MonoAndroid10/AWSSDK.SimpleEmail.dll",
+        "lib/MonoTouch10/AWSSDK.SimpleEmail.XML",
+        "lib/MonoTouch10/AWSSDK.SimpleEmail.dll",
+        "lib/MonoTouch10/AWSSDK.SimpleEmail.pdb",
+        "lib/Xamarin.iOS10/AWSSDK.SimpleEmail.XML",
+        "lib/Xamarin.iOS10/AWSSDK.SimpleEmail.dll",
+        "lib/net35/AWSSDK.SimpleEmail.dll",
+        "lib/net35/AWSSDK.SimpleEmail.pdb",
+        "lib/net35/AWSSDK.SimpleEmail.xml",
+        "lib/net45/AWSSDK.SimpleEmail.dll",
+        "lib/net45/AWSSDK.SimpleEmail.pdb",
+        "lib/net45/AWSSDK.SimpleEmail.xml",
+        "lib/netstandard1.3/AWSSDK.SimpleEmail.dll",
+        "lib/netstandard1.3/AWSSDK.SimpleEmail.pdb",
+        "lib/netstandard1.3/AWSSDK.SimpleEmail.xml",
+        "lib/netstandard2.0/AWSSDK.SimpleEmail.dll",
+        "lib/netstandard2.0/AWSSDK.SimpleEmail.pdb",
+        "lib/netstandard2.0/AWSSDK.SimpleEmail.xml",
+        "lib/portable-net45+win8+wpa81+wp8/AWSSDK.SimpleEmail.XML",
+        "lib/portable-net45+win8+wpa81+wp8/AWSSDK.SimpleEmail.dll",
+        "lib/portable-net45+win8+wpa81+wp8/AWSSDK.SimpleEmail.pdb",
+        "lib/uap/AWSSDK.SimpleEmail.XML",
+        "lib/uap/AWSSDK.SimpleEmail.dll",
+        "lib/uap/AWSSDK.SimpleEmail.pdb",
+        "tools/install.ps1",
+        "tools/uninstall.ps1"
+      ]
+    },
+    "BouncyCastle/1.8.3.1": {
+      "sha512": "YReOMI3d7GN7pTeLm5m//55Mhw8W23YB+/3DJj8uWZr2z0IuFvEM0KznogeXWDDfZXy0OoEgxySidFcH1xB9fw==",
+      "type": "package",
+      "path": "bouncycastle/1.8.3.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "bouncycastle.1.8.3.1.nupkg.sha512",
+        "bouncycastle.nuspec",
+        "lib/BouncyCastle.Crypto.dll"
+      ]
+    },
+    "DotNetOpenAuth.Ultimate/4.1.0.12182": {
+      "sha512": "secdn1rSn34ml26zKrNsUkuE4Jul++EWQw8kH6lmGfKsxxa3FsUNIx7O7xlnRbp500SW71NkshlU+fzsSBVr6w==",
+      "type": "package",
+      "path": "dotnetopenauth.ultimate/4.1.0.12182",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "content/web.config.transform",
+        "dotnetopenauth.ultimate.4.1.0.12182.nupkg.sha512",
+        "dotnetopenauth.ultimate.nuspec",
+        "lib/net35-full/DotNetOpenAuth.dll",
+        "lib/net35-full/DotNetOpenAuth.xml",
+        "lib/net40-full/DotNetOpenAuth.dll",
+        "lib/net40-full/DotNetOpenAuth.xml",
+        "lib/net45-full/DotNetOpenAuth.dll",
+        "lib/net45-full/DotNetOpenAuth.xml"
+      ]
+    },
+    "Google.Protobuf/3.6.1": {
+      "sha512": "741fGeDQjixBJaU2j+0CbrmZXsNJkTn/hWbOh4fLVXndHsCclJmWznCPWrJmPoZKvajBvAz3e8ECJOUvRtwjNQ==",
+      "type": "package",
+      "path": "google.protobuf/3.6.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "google.protobuf.3.6.1.nupkg.sha512",
+        "google.protobuf.nuspec",
+        "lib/net45/Google.Protobuf.dll",
+        "lib/net45/Google.Protobuf.xml",
+        "lib/netstandard1.0/Google.Protobuf.dll",
+        "lib/netstandard1.0/Google.Protobuf.xml"
+      ]
+    },
+    "HtmlAgilityPack/1.6.0.1": {
+      "sha512": "odsXuM/uhoxjlbORoRVZzJorSXZHNHa94LieYPkxzytCU51Cd+dQtuLCUtSZd1Gqtk4rzqZFEQLj1rLrtAV3qQ==",
+      "type": "package",
+      "path": "htmlagilitypack/1.6.0.1",
+      "files": [
+        ".nupkg.metadata",
+        "htmlagilitypack.1.6.0.1.nupkg.sha512",
+        "htmlagilitypack.nuspec",
+        "lib/net462/HtmlAgilityPack.dll",
+        "lib/net462/HtmlAgilityPack.xml"
+      ]
+    },
+    "JWT/1.3.4": {
+      "sha512": "VpI1B55ailrHQPrk4EpjjMACuEKA4LZUGXRhvCye3InhACTWcIx8DaQXOgaaLl78yDreb69OZUB7SC96IGdZhA==",
+      "type": "package",
+      "path": "jwt/1.3.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "jwt.1.3.4.nupkg.sha512",
+        "jwt.nuspec",
+        "lib/3.5/JWT.dll"
+      ]
+    },
+    "log4net/2.0.8": {
+      "sha512": "N41MQGHZImiCfn0cUuSBjZxrcNfIQCuCgQP0rpgB3J/NWponEh3lc1LxJEuIsPAR9Oc1jVvfkNNFCY1C5hf9LA==",
+      "type": "package",
+      "path": "log4net/2.0.8",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net20-full/log4net.dll",
+        "lib/net20-full/log4net.xml",
+        "lib/net35-client/log4net.dll",
+        "lib/net35-client/log4net.xml",
+        "lib/net35-full/log4net.dll",
+        "lib/net35-full/log4net.xml",
+        "lib/net40-client/log4net.dll",
+        "lib/net40-client/log4net.xml",
+        "lib/net40-full/log4net.dll",
+        "lib/net40-full/log4net.xml",
+        "lib/net45-full/log4net.dll",
+        "lib/net45-full/log4net.xml",
+        "lib/netstandard1.3/log4net.dll",
+        "log4net.2.0.8.nupkg.sha512",
+        "log4net.nuspec"
+      ]
+    },
+    "MailKit/2.5.2": {
+      "sha512": "ZzArgcfBKOPCJNoQOM0/K84gyJj+aXUMAtK9Jqz5gfV2c4eP0XVzuwQltOt90rRj9xpTbZfe8P4S/VEdxcJMzA==",
+      "type": "package",
+      "path": "mailkit/2.5.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "icons/mailkit-50.png",
+        "lib/monoandroid/MailKit.dll",
+        "lib/monoandroid/MailKit.xml",
+        "lib/net45/MailKit.dll",
+        "lib/net45/MailKit.xml",
+        "lib/net46/MailKit.dll",
+        "lib/net46/MailKit.xml",
+        "lib/net47/MailKit.dll",
+        "lib/net47/MailKit.xml",
+        "lib/net48/MailKit.dll",
+        "lib/net48/MailKit.xml",
+        "lib/netstandard1.3/MailKit.dll",
+        "lib/netstandard1.3/MailKit.xml",
+        "lib/netstandard1.6/MailKit.dll",
+        "lib/netstandard1.6/MailKit.xml",
+        "lib/netstandard2.0/MailKit.dll",
+        "lib/netstandard2.0/MailKit.xml",
+        "lib/xamarinios/MailKit.dll",
+        "lib/xamarinios/MailKit.xml",
+        "mailkit.2.5.2.nupkg.sha512",
+        "mailkit.nuspec"
+      ]
+    },
+    "Microsoft.AspNetCore.Cryptography.Internal/3.1.4": {
+      "sha512": "P6o80rVMEDv7zQQmIDoeoXHAXfS+bj2iwh5iURfd1EKrojxqVJW3zTYld2nleryT7BBlL7J0aT54tyLZyj8YRg==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.cryptography.internal/3.1.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.Internal.dll",
+        "lib/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.Internal.xml",
+        "lib/netstandard2.0/Microsoft.AspNetCore.Cryptography.Internal.dll",
+        "lib/netstandard2.0/Microsoft.AspNetCore.Cryptography.Internal.xml",
+        "microsoft.aspnetcore.cryptography.internal.3.1.4.nupkg.sha512",
+        "microsoft.aspnetcore.cryptography.internal.nuspec"
+      ]
+    },
+    "Microsoft.AspNetCore.Cryptography.KeyDerivation/3.1.4": {
+      "sha512": "z5HVARsR7LIGmXVnFlOlw+VCk5TN1y4T/HyiVdenyWGkKAmW5GOVQokfCqd4Y++dMkGQwcRa62KpjwIUwecgZg==",
+      "type": "package",
+      "path": "microsoft.aspnetcore.cryptography.keyderivation/3.1.4",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/netcoreapp2.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll",
+        "lib/netcoreapp2.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.xml",
+        "lib/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll",
+        "lib/netcoreapp3.1/Microsoft.AspNetCore.Cryptography.KeyDerivation.xml",
+        "lib/netstandard2.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll",
+        "lib/netstandard2.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.xml",
+        "microsoft.aspnetcore.cryptography.keyderivation.3.1.4.nupkg.sha512",
+        "microsoft.aspnetcore.cryptography.keyderivation.nuspec"
+      ]
+    },
+    "Microsoft.Bcl.AsyncInterfaces/1.1.0": {
+      "sha512": "1Am6l4Vpn3/K32daEqZI+FFr96OlZkgwK2LcT3pZ2zWubR5zTPW3/FkO1Rat9kb7oQOa4rxgl9LJHc5tspCWfg==",
+      "type": "package",
+      "path": "microsoft.bcl.asyncinterfaces/1.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/Microsoft.Bcl.AsyncInterfaces.dll",
+        "lib/net461/Microsoft.Bcl.AsyncInterfaces.xml",
+        "lib/netstandard2.0/Microsoft.Bcl.AsyncInterfaces.dll",
+        "lib/netstandard2.0/Microsoft.Bcl.AsyncInterfaces.xml",
+        "lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll",
+        "lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.xml",
+        "microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
+        "microsoft.bcl.asyncinterfaces.nuspec",
+        "ref/net461/Microsoft.Bcl.AsyncInterfaces.dll",
+        "ref/netstandard2.0/Microsoft.Bcl.AsyncInterfaces.dll",
+        "ref/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "MimeKit/2.5.2": {
+      "sha512": "NtkzJS91ybVpWLIP3BIDXGbLcayetWLTCxbPxtvCRRimzDuAo753+xLGKrV4j6ix1IrugNNXRHOTQXfoXLwNHA==",
+      "type": "package",
+      "path": "mimekit/2.5.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "icons/mimekit-50.png",
+        "lib/monoandroid/BouncyCastle.dll",
+        "lib/monoandroid/MimeKit.dll",
+        "lib/monoandroid/MimeKit.xml",
+        "lib/net45/MimeKit.dll",
+        "lib/net45/MimeKit.xml",
+        "lib/net46/MimeKit.dll",
+        "lib/net46/MimeKit.xml",
+        "lib/net47/MimeKit.dll",
+        "lib/net47/MimeKit.xml",
+        "lib/net48/MimeKit.dll",
+        "lib/net48/MimeKit.xml",
+        "lib/netstandard1.3/MimeKit.dll",
+        "lib/netstandard1.3/MimeKit.xml",
+        "lib/netstandard1.6/MimeKit.dll",
+        "lib/netstandard1.6/MimeKit.xml",
+        "lib/netstandard2.0/MimeKit.dll",
+        "lib/netstandard2.0/MimeKit.xml",
+        "lib/xamarinios/BouncyCastle.dll",
+        "lib/xamarinios/MimeKit.dll",
+        "lib/xamarinios/MimeKit.xml",
+        "mimekit.2.5.2.nupkg.sha512",
+        "mimekit.nuspec"
+      ]
+    },
+    "MySql.Data/8.0.19": {
+      "sha512": "zPFSg8rW3PcFIn27d0lEHQ/XWQhBzGIgKYQYFZN8aHLlpen5D6nz3/wb54V9ZRH3zkWlIWQ7FfxqbQdl3vizjQ==",
+      "type": "package",
+      "path": "mysql.data/8.0.19",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net452/MySql.Data.dll",
+        "lib/net452/MySql.Data.xml",
+        "lib/net452/Ubiety.Dns.Core.dll",
+        "lib/net48/MySql.Data.dll",
+        "lib/net48/MySql.Data.xml",
+        "lib/net48/Ubiety.Dns.Core.dll",
+        "lib/netstandard2.0/MySql.Data.dll",
+        "lib/netstandard2.0/MySql.Data.xml",
+        "lib/netstandard2.0/Ubiety.Dns.Core.dll",
+        "lib/netstandard2.1/MySql.Data.dll",
+        "lib/netstandard2.1/MySql.Data.xml",
+        "lib/netstandard2.1/Ubiety.Dns.Core.dll",
+        "mysql.data.8.0.19.nupkg.sha512",
+        "mysql.data.nuspec"
+      ]
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "sha512": "6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "type": "package",
+      "path": "newtonsoft.json/12.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "newtonsoft.json.12.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
+    "NLog/4.7.0": {
+      "sha512": "ch4piF/ifV6ZapFx5Vj8MGaiCZkztHwTMFghJJSOkA/LeWcNdvqW8VzRw7ZMvS8anUmsH81FV334Vay6+ja4Kg==",
+      "type": "package",
+      "path": "nlog/4.7.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/monoandroid44/NLog.dll",
+        "lib/monoandroid44/NLog.xml",
+        "lib/net35/NLog.dll",
+        "lib/net35/NLog.xml",
+        "lib/net40-client/NLog.dll",
+        "lib/net40-client/NLog.xml",
+        "lib/net45/NLog.dll",
+        "lib/net45/NLog.xml",
+        "lib/netstandard1.3/NLog.dll",
+        "lib/netstandard1.3/NLog.xml",
+        "lib/netstandard1.5/NLog.dll",
+        "lib/netstandard1.5/NLog.xml",
+        "lib/netstandard2.0/NLog.dll",
+        "lib/netstandard2.0/NLog.xml",
+        "lib/sl4/NLog.dll",
+        "lib/sl4/NLog.xml",
+        "lib/sl5/NLog.dll",
+        "lib/sl5/NLog.xml",
+        "lib/wp8/NLog.dll",
+        "lib/wp8/NLog.xml",
+        "lib/xamarinios10/NLog.dll",
+        "lib/xamarinios10/NLog.xml",
+        "nlog.4.7.0.nupkg.sha512",
+        "nlog.nuspec"
+      ]
+    },
+    "NVelocity/1.2.0": {
+      "sha512": "MdvJ90+CLKLwy1cvtQDMbQfYIiLUAmKtxP/fUyVI/bMBVgLTqKP51RwkxCL4t5GBidQ+fTPAjd0cve6Bt+7F8A==",
+      "type": "package",
+      "path": "nvelocity/1.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/NVelocity.dll",
+        "nvelocity.1.2.0.nupkg.sha512",
+        "nvelocity.nuspec"
+      ]
+    },
+    "Pipelines.Sockets.Unofficial/1.0.7": {
+      "sha512": "n+YKaKVd9ZSa7uVeT0gyOT8eoeCWbiTdpVtnHkjthqmNopVPc4+efRQUReO+WH3WFyVKxgn5QS4BLi2Q+sioqA==",
+      "type": "package",
+      "path": "pipelines.sockets.unofficial/1.0.7",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net461/Pipelines.Sockets.Unofficial.dll",
+        "lib/net461/Pipelines.Sockets.Unofficial.xml",
+        "lib/net472/Pipelines.Sockets.Unofficial.dll",
+        "lib/net472/Pipelines.Sockets.Unofficial.xml",
+        "lib/netcoreapp2.1/Pipelines.Sockets.Unofficial.dll",
+        "lib/netcoreapp2.1/Pipelines.Sockets.Unofficial.xml",
+        "lib/netstandard2.0/Pipelines.Sockets.Unofficial.dll",
+        "lib/netstandard2.0/Pipelines.Sockets.Unofficial.xml",
+        "pipelines.sockets.unofficial.1.0.7.nupkg.sha512",
+        "pipelines.sockets.unofficial.nuspec"
+      ]
+    },
+    "Portable.BouncyCastle/1.8.5": {
+      "sha512": "EaCgmntbH1sOzemRTqyXSqYjB6pLH7VCYHhhDYZ59guHSD5qPwhIYa7kfy0QUlmTRt9IXhaXdFhNuBUArp70Ng==",
+      "type": "package",
+      "path": "portable.bouncycastle/1.8.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/BouncyCastle.Crypto.dll",
+        "lib/net40/BouncyCastle.Crypto.xml",
+        "lib/netstandard1.0/BouncyCastle.Crypto.dll",
+        "lib/netstandard1.0/BouncyCastle.Crypto.xml",
+        "lib/netstandard1.3/BouncyCastle.Crypto.dll",
+        "lib/netstandard1.3/BouncyCastle.Crypto.xml",
+        "lib/netstandard2.0/BouncyCastle.Crypto.dll",
+        "lib/netstandard2.0/BouncyCastle.Crypto.xml",
+        "portable.bouncycastle.1.8.5.nupkg.sha512",
+        "portable.bouncycastle.nuspec"
+      ]
+    },
+    "SSH.NET/2016.1.0": {
+      "sha512": "b0fcFFOE044KNRhq1uGujmK04ab+OzA9xARdeVCoZrY6I4D1IIaR6dn6qBIa+er4bJapGBhznDitwcRQpSRC0w==",
+      "type": "package",
+      "path": "ssh.net/2016.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net35/Renci.SshNet.dll",
+        "lib/net35/Renci.SshNet.xml",
+        "lib/net40/Renci.SshNet.dll",
+        "lib/net40/Renci.SshNet.xml",
+        "lib/netstandard1.3/Renci.SshNet.dll",
+        "lib/netstandard1.3/Renci.SshNet.xml",
+        "lib/sl4/Renci.SshNet.dll",
+        "lib/sl4/Renci.SshNet.xml",
+        "lib/sl5/Renci.SshNet.dll",
+        "lib/sl5/Renci.SshNet.xml",
+        "lib/uap10/Renci.SshNet.dll",
+        "lib/uap10/Renci.SshNet.xml",
+        "lib/wp71/Renci.SshNet.dll",
+        "lib/wp71/Renci.SshNet.xml",
+        "lib/wp8/Renci.SshNet.dll",
+        "lib/wp8/Renci.SshNet.xml",
+        "ssh.net.2016.1.0.nupkg.sha512",
+        "ssh.net.nuspec"
+      ]
+    },
+    "StackExchange.Redis/2.0.519": {
+      "sha512": "8+2UwZ5/xBzU0OxM/Rs273VXY9G1oFFM4WrHzF4BZQBbFqyJRM5Sj32zZSj9xJT9mPel2escaYEwKjfDUAgieQ==",
+      "type": "package",
+      "path": "stackexchange.redis/2.0.519",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net461/StackExchange.Redis.dll",
+        "lib/net461/StackExchange.Redis.xml",
+        "lib/net472/StackExchange.Redis.dll",
+        "lib/net472/StackExchange.Redis.xml",
+        "lib/netstandard2.0/StackExchange.Redis.dll",
+        "lib/netstandard2.0/StackExchange.Redis.xml",
+        "stackexchange.redis.2.0.519.nupkg.sha512",
+        "stackexchange.redis.nuspec"
+      ]
+    },
+    "StackExchange.Redis.Extensions.Core/4.0.5": {
+      "sha512": "JFiG9odfxfeZSGw9h3PADAJ102QF7WT2B5nmfLqqf4Y5TRmyaEheSdC4L1lGwXBJ2qv3hSFPzqkTAdFy7Ai1lw==",
+      "type": "package",
+      "path": "stackexchange.redis.extensions.core/4.0.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net461/StackExchange.Redis.Extensions.Core.dll",
+        "lib/net472/StackExchange.Redis.Extensions.Core.dll",
+        "lib/netstandard2.0/StackExchange.Redis.Extensions.Core.dll",
+        "stackexchange.redis.extensions.core.4.0.5.nupkg.sha512",
+        "stackexchange.redis.extensions.core.nuspec"
+      ]
+    },
+    "StackExchange.Redis.Extensions.LegacyConfiguration/4.0.5": {
+      "sha512": "DxY5WIbfPTo48bqkf071YodvmLjPcWvimPNKOTXE816HEpOZ8OXEFewg2JO91i7RtnVFqxboXEh4w2vAhzqo7g==",
+      "type": "package",
+      "path": "stackexchange.redis.extensions.legacyconfiguration/4.0.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net461/StackExchange.Redis.Extensions.LegacyConfiguration.dll",
+        "stackexchange.redis.extensions.legacyconfiguration.4.0.5.nupkg.sha512",
+        "stackexchange.redis.extensions.legacyconfiguration.nuspec"
+      ]
+    },
+    "System.Buffers/4.5.1": {
+      "sha512": "Rw7ijyl1qqRS0YQD/WycNst8hUUMgrMH4FCn1nNm27M4VxchZ1js3fVjQaANHO5f3sN4isvP4a+Met9Y4YomAg==",
+      "type": "package",
+      "path": "system.buffers/4.5.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/System.Buffers.dll",
+        "lib/net461/System.Buffers.xml",
+        "lib/netcoreapp2.0/_._",
+        "lib/netstandard1.1/System.Buffers.dll",
+        "lib/netstandard1.1/System.Buffers.xml",
+        "lib/netstandard2.0/System.Buffers.dll",
+        "lib/netstandard2.0/System.Buffers.xml",
+        "lib/uap10.0.16299/_._",
+        "ref/net45/System.Buffers.dll",
+        "ref/net45/System.Buffers.xml",
+        "ref/netcoreapp2.0/_._",
+        "ref/netstandard1.1/System.Buffers.dll",
+        "ref/netstandard1.1/System.Buffers.xml",
+        "ref/netstandard2.0/System.Buffers.dll",
+        "ref/netstandard2.0/System.Buffers.xml",
+        "ref/uap10.0.16299/_._",
+        "system.buffers.4.5.1.nupkg.sha512",
+        "system.buffers.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "System.Diagnostics.PerformanceCounter/4.5.0": {
+      "sha512": "JUO5/moXgchWZBMBElgmPebZPKCgwW8kY3dFwVJavaNR2ftcc/YjXXGjOaCjly2KBXT7Ld5l/GTkMVzNv41yZA==",
+      "type": "package",
+      "path": "system.diagnostics.performancecounter/4.5.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net461/System.Diagnostics.PerformanceCounter.dll",
+        "lib/netstandard2.0/System.Diagnostics.PerformanceCounter.dll",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "ref/MonoAndroid10/_._",
+        "ref/MonoTouch10/_._",
+        "ref/net461/System.Diagnostics.PerformanceCounter.dll",
+        "ref/net461/System.Diagnostics.PerformanceCounter.xml",
+        "ref/netstandard2.0/System.Diagnostics.PerformanceCounter.dll",
+        "ref/netstandard2.0/System.Diagnostics.PerformanceCounter.xml",
+        "ref/xamarinios10/_._",
+        "ref/xamarinmac20/_._",
+        "ref/xamarintvos10/_._",
+        "ref/xamarinwatchos10/_._",
+        "runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll",
+        "system.diagnostics.performancecounter.4.5.0.nupkg.sha512",
+        "system.diagnostics.performancecounter.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "System.IO/4.3.0": {
+      "sha512": "3qjaHvxQPDpSOYICjUoTsmoq5u6QJAFRUITgeT/4gqkF1bajbSmb1kwSxEA8AHlofqgcKJcM8udgieRNhaJ5Cg==",
+      "type": "package",
+      "path": "system.io/4.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ThirdPartyNotices.txt",
+        "dotnet_library_license.txt",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net45/_._",
+        "lib/net462/System.IO.dll",
+        "lib/portable-net45+win8+wp8+wpa81/_._",
+        "lib/win8/_._",
+        "lib/wp80/_._",
+        "lib/wpa81/_._",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "ref/MonoAndroid10/_._",
+        "ref/MonoTouch10/_._",
+        "ref/net45/_._",
+        "ref/net462/System.IO.dll",
+        "ref/netcore50/System.IO.dll",
+        "ref/netcore50/System.IO.xml",
+        "ref/netcore50/de/System.IO.xml",
+        "ref/netcore50/es/System.IO.xml",
+        "ref/netcore50/fr/System.IO.xml",
+        "ref/netcore50/it/System.IO.xml",
+        "ref/netcore50/ja/System.IO.xml",
+        "ref/netcore50/ko/System.IO.xml",
+        "ref/netcore50/ru/System.IO.xml",
+        "ref/netcore50/zh-hans/System.IO.xml",
+        "ref/netcore50/zh-hant/System.IO.xml",
+        "ref/netstandard1.0/System.IO.dll",
+        "ref/netstandard1.0/System.IO.xml",
+        "ref/netstandard1.0/de/System.IO.xml",
+        "ref/netstandard1.0/es/System.IO.xml",
+        "ref/netstandard1.0/fr/System.IO.xml",
+        "ref/netstandard1.0/it/System.IO.xml",
+        "ref/netstandard1.0/ja/System.IO.xml",
+        "ref/netstandard1.0/ko/System.IO.xml",
+        "ref/netstandard1.0/ru/System.IO.xml",
+        "ref/netstandard1.0/zh-hans/System.IO.xml",
+        "ref/netstandard1.0/zh-hant/System.IO.xml",
+        "ref/netstandard1.3/System.IO.dll",
+        "ref/netstandard1.3/System.IO.xml",
+        "ref/netstandard1.3/de/System.IO.xml",
+        "ref/netstandard1.3/es/System.IO.xml",
+        "ref/netstandard1.3/fr/System.IO.xml",
+        "ref/netstandard1.3/it/System.IO.xml",
+        "ref/netstandard1.3/ja/System.IO.xml",
+        "ref/netstandard1.3/ko/System.IO.xml",
+        "ref/netstandard1.3/ru/System.IO.xml",
+        "ref/netstandard1.3/zh-hans/System.IO.xml",
+        "ref/netstandard1.3/zh-hant/System.IO.xml",
+        "ref/netstandard1.5/System.IO.dll",
+        "ref/netstandard1.5/System.IO.xml",
+        "ref/netstandard1.5/de/System.IO.xml",
+        "ref/netstandard1.5/es/System.IO.xml",
+        "ref/netstandard1.5/fr/System.IO.xml",
+        "ref/netstandard1.5/it/System.IO.xml",
+        "ref/netstandard1.5/ja/System.IO.xml",
+        "ref/netstandard1.5/ko/System.IO.xml",
+        "ref/netstandard1.5/ru/System.IO.xml",
+        "ref/netstandard1.5/zh-hans/System.IO.xml",
+        "ref/netstandard1.5/zh-hant/System.IO.xml",
+        "ref/portable-net45+win8+wp8+wpa81/_._",
+        "ref/win8/_._",
+        "ref/wp80/_._",
+        "ref/wpa81/_._",
+        "ref/xamarinios10/_._",
+        "ref/xamarinmac20/_._",
+        "ref/xamarintvos10/_._",
+        "ref/xamarinwatchos10/_._",
+        "system.io.4.3.0.nupkg.sha512",
+        "system.io.nuspec"
+      ]
+    },
+    "System.IO.Compression/4.3.0": {
+      "sha512": "YHndyoiV90iu4iKG115ibkhrG+S3jBm8Ap9OwoUAzO5oPDAWcr0SFwQFm0HjM8WkEZWo0zvLTyLmbvTkW1bXgg==",
+      "type": "package",
+      "path": "system.io.compression/4.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ThirdPartyNotices.txt",
+        "dotnet_library_license.txt",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net45/_._",
+        "lib/net46/System.IO.Compression.dll",
+        "lib/portable-net45+win8+wpa81/_._",
+        "lib/win8/_._",
+        "lib/wpa81/_._",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "ref/MonoAndroid10/_._",
+        "ref/MonoTouch10/_._",
+        "ref/net45/_._",
+        "ref/net46/System.IO.Compression.dll",
+        "ref/netcore50/System.IO.Compression.dll",
+        "ref/netcore50/System.IO.Compression.xml",
+        "ref/netcore50/de/System.IO.Compression.xml",
+        "ref/netcore50/es/System.IO.Compression.xml",
+        "ref/netcore50/fr/System.IO.Compression.xml",
+        "ref/netcore50/it/System.IO.Compression.xml",
+        "ref/netcore50/ja/System.IO.Compression.xml",
+        "ref/netcore50/ko/System.IO.Compression.xml",
+        "ref/netcore50/ru/System.IO.Compression.xml",
+        "ref/netcore50/zh-hans/System.IO.Compression.xml",
+        "ref/netcore50/zh-hant/System.IO.Compression.xml",
+        "ref/netstandard1.1/System.IO.Compression.dll",
+        "ref/netstandard1.1/System.IO.Compression.xml",
+        "ref/netstandard1.1/de/System.IO.Compression.xml",
+        "ref/netstandard1.1/es/System.IO.Compression.xml",
+        "ref/netstandard1.1/fr/System.IO.Compression.xml",
+        "ref/netstandard1.1/it/System.IO.Compression.xml",
+        "ref/netstandard1.1/ja/System.IO.Compression.xml",
+        "ref/netstandard1.1/ko/System.IO.Compression.xml",
+        "ref/netstandard1.1/ru/System.IO.Compression.xml",
+        "ref/netstandard1.1/zh-hans/System.IO.Compression.xml",
+        "ref/netstandard1.1/zh-hant/System.IO.Compression.xml",
+        "ref/netstandard1.3/System.IO.Compression.dll",
+        "ref/netstandard1.3/System.IO.Compression.xml",
+        "ref/netstandard1.3/de/System.IO.Compression.xml",
+        "ref/netstandard1.3/es/System.IO.Compression.xml",
+        "ref/netstandard1.3/fr/System.IO.Compression.xml",
+        "ref/netstandard1.3/it/System.IO.Compression.xml",
+        "ref/netstandard1.3/ja/System.IO.Compression.xml",
+        "ref/netstandard1.3/ko/System.IO.Compression.xml",
+        "ref/netstandard1.3/ru/System.IO.Compression.xml",
+        "ref/netstandard1.3/zh-hans/System.IO.Compression.xml",
+        "ref/netstandard1.3/zh-hant/System.IO.Compression.xml",
+        "ref/portable-net45+win8+wpa81/_._",
+        "ref/win8/_._",
+        "ref/wpa81/_._",
+        "ref/xamarinios10/_._",
+        "ref/xamarinmac20/_._",
+        "ref/xamarintvos10/_._",
+        "ref/xamarinwatchos10/_._",
+        "runtimes/unix/lib/netstandard1.3/System.IO.Compression.dll",
+        "runtimes/win/lib/net46/System.IO.Compression.dll",
+        "runtimes/win/lib/netstandard1.3/System.IO.Compression.dll",
+        "system.io.compression.4.3.0.nupkg.sha512",
+        "system.io.compression.nuspec"
+      ]
+    },
+    "System.IO.Pipelines/4.5.1": {
+      "sha512": "oY5m31iOIZhvW0C69YTdKQWIbiYjFLgxn9NFXA7XeWD947uEk0zOi9fLbGtYgbs1eF7kTQ4zl9IeGQHthz+m+A==",
+      "type": "package",
+      "path": "system.io.pipelines/4.5.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/netcoreapp2.1/System.IO.Pipelines.dll",
+        "lib/netcoreapp2.1/System.IO.Pipelines.xml",
+        "lib/netstandard1.3/System.IO.Pipelines.dll",
+        "lib/netstandard1.3/System.IO.Pipelines.xml",
+        "lib/netstandard2.0/System.IO.Pipelines.dll",
+        "lib/netstandard2.0/System.IO.Pipelines.xml",
+        "ref/netstandard1.3/System.IO.Pipelines.dll",
+        "system.io.pipelines.4.5.1.nupkg.sha512",
+        "system.io.pipelines.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "System.Memory/4.5.3": {
+      "sha512": "3oDzvc/zzetpTKWMShs1AADwZjQ/36HnsufHRPcOjyRAAMLDlu2iD33MBI2opxnezcVUtXyqDXXjoFMOU9c7SA==",
+      "type": "package",
+      "path": "system.memory/4.5.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/netcoreapp2.1/_._",
+        "lib/netstandard1.1/System.Memory.dll",
+        "lib/netstandard1.1/System.Memory.xml",
+        "lib/netstandard2.0/System.Memory.dll",
+        "lib/netstandard2.0/System.Memory.xml",
+        "ref/netcoreapp2.1/_._",
+        "system.memory.4.5.3.nupkg.sha512",
+        "system.memory.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "System.Numerics.Vectors/4.4.0": {
+      "sha512": "UiLzLW+Lw6HLed1Hcg+8jSRttrbuXv7DANVj0DkL9g6EnnzbL75EB7EWsw5uRbhxd/4YdG8li5XizGWepmG3PQ==",
+      "type": "package",
+      "path": "system.numerics.vectors/4.4.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net46/System.Numerics.Vectors.dll",
+        "lib/net46/System.Numerics.Vectors.xml",
+        "lib/netcoreapp2.0/_._",
+        "lib/netstandard1.0/System.Numerics.Vectors.dll",
+        "lib/netstandard1.0/System.Numerics.Vectors.xml",
+        "lib/netstandard2.0/System.Numerics.Vectors.dll",
+        "lib/netstandard2.0/System.Numerics.Vectors.xml",
+        "lib/portable-net45+win8+wp8+wpa81/System.Numerics.Vectors.dll",
+        "lib/portable-net45+win8+wp8+wpa81/System.Numerics.Vectors.xml",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "ref/MonoAndroid10/_._",
+        "ref/MonoTouch10/_._",
+        "ref/net46/System.Numerics.Vectors.dll",
+        "ref/net46/System.Numerics.Vectors.xml",
+        "ref/netcoreapp2.0/_._",
+        "ref/netstandard1.0/System.Numerics.Vectors.dll",
+        "ref/netstandard1.0/System.Numerics.Vectors.xml",
+        "ref/netstandard2.0/System.Numerics.Vectors.dll",
+        "ref/netstandard2.0/System.Numerics.Vectors.xml",
+        "ref/xamarinios10/_._",
+        "ref/xamarinmac20/_._",
+        "ref/xamarintvos10/_._",
+        "ref/xamarinwatchos10/_._",
+        "system.numerics.vectors.4.4.0.nupkg.sha512",
+        "system.numerics.vectors.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "System.Runtime/4.3.0": {
+      "sha512": "JufQi0vPQ0xGnAczR13AUFglDyVYt4Kqnz1AZaiKZ5+GICq0/1MH/mO/eAJHt/mHW1zjKBJd7kV26SrxddAhiw==",
+      "type": "package",
+      "path": "system.runtime/4.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ThirdPartyNotices.txt",
+        "dotnet_library_license.txt",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net45/_._",
+        "lib/net462/System.Runtime.dll",
+        "lib/portable-net45+win8+wp80+wpa81/_._",
+        "lib/win8/_._",
+        "lib/wp80/_._",
+        "lib/wpa81/_._",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "ref/MonoAndroid10/_._",
+        "ref/MonoTouch10/_._",
+        "ref/net45/_._",
+        "ref/net462/System.Runtime.dll",
+        "ref/netcore50/System.Runtime.dll",
+        "ref/netcore50/System.Runtime.xml",
+        "ref/netcore50/de/System.Runtime.xml",
+        "ref/netcore50/es/System.Runtime.xml",
+        "ref/netcore50/fr/System.Runtime.xml",
+        "ref/netcore50/it/System.Runtime.xml",
+        "ref/netcore50/ja/System.Runtime.xml",
+        "ref/netcore50/ko/System.Runtime.xml",
+        "ref/netcore50/ru/System.Runtime.xml",
+        "ref/netcore50/zh-hans/System.Runtime.xml",
+        "ref/netcore50/zh-hant/System.Runtime.xml",
+        "ref/netstandard1.0/System.Runtime.dll",
+        "ref/netstandard1.0/System.Runtime.xml",
+        "ref/netstandard1.0/de/System.Runtime.xml",
+        "ref/netstandard1.0/es/System.Runtime.xml",
+        "ref/netstandard1.0/fr/System.Runtime.xml",
+        "ref/netstandard1.0/it/System.Runtime.xml",
+        "ref/netstandard1.0/ja/System.Runtime.xml",
+        "ref/netstandard1.0/ko/System.Runtime.xml",
+        "ref/netstandard1.0/ru/System.Runtime.xml",
+        "ref/netstandard1.0/zh-hans/System.Runtime.xml",
+        "ref/netstandard1.0/zh-hant/System.Runtime.xml",
+        "ref/netstandard1.2/System.Runtime.dll",
+        "ref/netstandard1.2/System.Runtime.xml",
+        "ref/netstandard1.2/de/System.Runtime.xml",
+        "ref/netstandard1.2/es/System.Runtime.xml",
+        "ref/netstandard1.2/fr/System.Runtime.xml",
+        "ref/netstandard1.2/it/System.Runtime.xml",
+        "ref/netstandard1.2/ja/System.Runtime.xml",
+        "ref/netstandard1.2/ko/System.Runtime.xml",
+        "ref/netstandard1.2/ru/System.Runtime.xml",
+        "ref/netstandard1.2/zh-hans/System.Runtime.xml",
+        "ref/netstandard1.2/zh-hant/System.Runtime.xml",
+        "ref/netstandard1.3/System.Runtime.dll",
+        "ref/netstandard1.3/System.Runtime.xml",
+        "ref/netstandard1.3/de/System.Runtime.xml",
+        "ref/netstandard1.3/es/System.Runtime.xml",
+        "ref/netstandard1.3/fr/System.Runtime.xml",
+        "ref/netstandard1.3/it/System.Runtime.xml",
+        "ref/netstandard1.3/ja/System.Runtime.xml",
+        "ref/netstandard1.3/ko/System.Runtime.xml",
+        "ref/netstandard1.3/ru/System.Runtime.xml",
+        "ref/netstandard1.3/zh-hans/System.Runtime.xml",
+        "ref/netstandard1.3/zh-hant/System.Runtime.xml",
+        "ref/netstandard1.5/System.Runtime.dll",
+        "ref/netstandard1.5/System.Runtime.xml",
+        "ref/netstandard1.5/de/System.Runtime.xml",
+        "ref/netstandard1.5/es/System.Runtime.xml",
+        "ref/netstandard1.5/fr/System.Runtime.xml",
+        "ref/netstandard1.5/it/System.Runtime.xml",
+        "ref/netstandard1.5/ja/System.Runtime.xml",
+        "ref/netstandard1.5/ko/System.Runtime.xml",
+        "ref/netstandard1.5/ru/System.Runtime.xml",
+        "ref/netstandard1.5/zh-hans/System.Runtime.xml",
+        "ref/netstandard1.5/zh-hant/System.Runtime.xml",
+        "ref/portable-net45+win8+wp80+wpa81/_._",
+        "ref/win8/_._",
+        "ref/wp80/_._",
+        "ref/wpa81/_._",
+        "ref/xamarinios10/_._",
+        "ref/xamarinmac20/_._",
+        "ref/xamarintvos10/_._",
+        "ref/xamarinwatchos10/_._",
+        "system.runtime.4.3.0.nupkg.sha512",
+        "system.runtime.nuspec"
+      ]
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.5.2": {
+      "sha512": "wprSFgext8cwqymChhrBLu62LMg/1u92bU+VOwyfBimSPVFXtsNqEWC92Pf9ofzJFlk4IHmJA75EDJn1b2goAQ==",
+      "type": "package",
+      "path": "system.runtime.compilerservices.unsafe/4.5.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll",
+        "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.xml",
+        "lib/netstandard1.0/System.Runtime.CompilerServices.Unsafe.dll",
+        "lib/netstandard1.0/System.Runtime.CompilerServices.Unsafe.xml",
+        "lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll",
+        "lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.xml",
+        "ref/netstandard1.0/System.Runtime.CompilerServices.Unsafe.dll",
+        "ref/netstandard1.0/System.Runtime.CompilerServices.Unsafe.xml",
+        "ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll",
+        "ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.xml",
+        "system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+        "system.runtime.compilerservices.unsafe.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "System.Security.Cryptography.Algorithms/4.3.0": {
+      "sha512": "W1kd2Y8mYSCgc3ULTAZ0hOP2dSdG5YauTb1089T0/kRcN2MpSAW1izOFROrJgxSlMn3ArsgHXagigyi+ibhevg==",
+      "type": "package",
+      "path": "system.security.cryptography.algorithms/4.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ThirdPartyNotices.txt",
+        "dotnet_library_license.txt",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net46/System.Security.Cryptography.Algorithms.dll",
+        "lib/net461/System.Security.Cryptography.Algorithms.dll",
+        "lib/net463/System.Security.Cryptography.Algorithms.dll",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "ref/MonoAndroid10/_._",
+        "ref/MonoTouch10/_._",
+        "ref/net46/System.Security.Cryptography.Algorithms.dll",
+        "ref/net461/System.Security.Cryptography.Algorithms.dll",
+        "ref/net463/System.Security.Cryptography.Algorithms.dll",
+        "ref/netstandard1.3/System.Security.Cryptography.Algorithms.dll",
+        "ref/netstandard1.4/System.Security.Cryptography.Algorithms.dll",
+        "ref/netstandard1.6/System.Security.Cryptography.Algorithms.dll",
+        "ref/xamarinios10/_._",
+        "ref/xamarinmac20/_._",
+        "ref/xamarintvos10/_._",
+        "ref/xamarinwatchos10/_._",
+        "runtimes/osx/lib/netstandard1.6/System.Security.Cryptography.Algorithms.dll",
+        "runtimes/unix/lib/netstandard1.6/System.Security.Cryptography.Algorithms.dll",
+        "runtimes/win/lib/net46/System.Security.Cryptography.Algorithms.dll",
+        "runtimes/win/lib/net461/System.Security.Cryptography.Algorithms.dll",
+        "runtimes/win/lib/net463/System.Security.Cryptography.Algorithms.dll",
+        "runtimes/win/lib/netcore50/System.Security.Cryptography.Algorithms.dll",
+        "runtimes/win/lib/netstandard1.6/System.Security.Cryptography.Algorithms.dll",
+        "system.security.cryptography.algorithms.4.3.0.nupkg.sha512",
+        "system.security.cryptography.algorithms.nuspec"
+      ]
+    },
+    "System.Security.Cryptography.Encoding/4.3.0": {
+      "sha512": "1DEWjZZly9ae9C79vFwqaO5kaOlI5q+3/55ohmq/7dpDyDfc8lYe7YVxJUZ5MF/NtbkRjwFRo14yM4OEo9EmDw==",
+      "type": "package",
+      "path": "system.security.cryptography.encoding/4.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ThirdPartyNotices.txt",
+        "dotnet_library_license.txt",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net46/System.Security.Cryptography.Encoding.dll",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "ref/MonoAndroid10/_._",
+        "ref/MonoTouch10/_._",
+        "ref/net46/System.Security.Cryptography.Encoding.dll",
+        "ref/netstandard1.3/System.Security.Cryptography.Encoding.dll",
+        "ref/netstandard1.3/System.Security.Cryptography.Encoding.xml",
+        "ref/netstandard1.3/de/System.Security.Cryptography.Encoding.xml",
+        "ref/netstandard1.3/es/System.Security.Cryptography.Encoding.xml",
+        "ref/netstandard1.3/fr/System.Security.Cryptography.Encoding.xml",
+        "ref/netstandard1.3/it/System.Security.Cryptography.Encoding.xml",
+        "ref/netstandard1.3/ja/System.Security.Cryptography.Encoding.xml",
+        "ref/netstandard1.3/ko/System.Security.Cryptography.Encoding.xml",
+        "ref/netstandard1.3/ru/System.Security.Cryptography.Encoding.xml",
+        "ref/netstandard1.3/zh-hans/System.Security.Cryptography.Encoding.xml",
+        "ref/netstandard1.3/zh-hant/System.Security.Cryptography.Encoding.xml",
+        "ref/xamarinios10/_._",
+        "ref/xamarinmac20/_._",
+        "ref/xamarintvos10/_._",
+        "ref/xamarinwatchos10/_._",
+        "runtimes/unix/lib/netstandard1.3/System.Security.Cryptography.Encoding.dll",
+        "runtimes/win/lib/net46/System.Security.Cryptography.Encoding.dll",
+        "runtimes/win/lib/netstandard1.3/System.Security.Cryptography.Encoding.dll",
+        "system.security.cryptography.encoding.4.3.0.nupkg.sha512",
+        "system.security.cryptography.encoding.nuspec"
+      ]
+    },
+    "System.Security.Cryptography.Primitives/4.3.0": {
+      "sha512": "7bDIyVFNL/xKeFHjhobUAQqSpJq9YTOpbEs6mR233Et01STBMXNAc/V+BM6dwYGc95gVh/Zf+iVXWzj3mE8DWg==",
+      "type": "package",
+      "path": "system.security.cryptography.primitives/4.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ThirdPartyNotices.txt",
+        "dotnet_library_license.txt",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net46/System.Security.Cryptography.Primitives.dll",
+        "lib/netstandard1.3/System.Security.Cryptography.Primitives.dll",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "ref/MonoAndroid10/_._",
+        "ref/MonoTouch10/_._",
+        "ref/net46/System.Security.Cryptography.Primitives.dll",
+        "ref/netstandard1.3/System.Security.Cryptography.Primitives.dll",
+        "ref/xamarinios10/_._",
+        "ref/xamarinmac20/_._",
+        "ref/xamarintvos10/_._",
+        "ref/xamarinwatchos10/_._",
+        "system.security.cryptography.primitives.4.3.0.nupkg.sha512",
+        "system.security.cryptography.primitives.nuspec"
+      ]
+    },
+    "System.Security.Cryptography.X509Certificates/4.3.2": {
+      "sha512": "uwlfOnvJd7rXRvP3aV126Q9XebIIEGEaZ245Rd5/ZwOg7U7AU+AmpE0vRh2F0DFjfOTuk7MAexv4nYiNP/RYnQ==",
+      "type": "package",
+      "path": "system.security.cryptography.x509certificates/4.3.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ThirdPartyNotices.txt",
+        "dotnet_library_license.txt",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net46/System.Security.Cryptography.X509Certificates.dll",
+        "lib/net461/System.Security.Cryptography.X509Certificates.dll",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "ref/MonoAndroid10/_._",
+        "ref/MonoTouch10/_._",
+        "ref/net46/System.Security.Cryptography.X509Certificates.dll",
+        "ref/net461/System.Security.Cryptography.X509Certificates.dll",
+        "ref/netstandard1.3/System.Security.Cryptography.X509Certificates.dll",
+        "ref/netstandard1.4/System.Security.Cryptography.X509Certificates.dll",
+        "ref/xamarinios10/_._",
+        "ref/xamarinmac20/_._",
+        "ref/xamarintvos10/_._",
+        "ref/xamarinwatchos10/_._",
+        "runtimes/unix/lib/netstandard1.6/System.Security.Cryptography.X509Certificates.dll",
+        "runtimes/win/lib/net46/System.Security.Cryptography.X509Certificates.dll",
+        "runtimes/win/lib/net461/System.Security.Cryptography.X509Certificates.dll",
+        "runtimes/win/lib/netcore50/System.Security.Cryptography.X509Certificates.dll",
+        "runtimes/win/lib/netstandard1.6/System.Security.Cryptography.X509Certificates.dll",
+        "system.security.cryptography.x509certificates.4.3.2.nupkg.sha512",
+        "system.security.cryptography.x509certificates.nuspec"
+      ]
+    },
+    "System.Threading.Channels/4.5.0": {
+      "sha512": "MEH06N0rIGmRT4LOKQ2BmUO0IxfvmIY/PaouSq+DFQku72OL8cxfw8W99uGpTCFf2vx2QHLRSh374iSM3asdTA==",
+      "type": "package",
+      "path": "system.threading.channels/4.5.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/netcoreapp2.1/System.Threading.Channels.dll",
+        "lib/netcoreapp2.1/System.Threading.Channels.xml",
+        "lib/netstandard1.3/System.Threading.Channels.dll",
+        "lib/netstandard1.3/System.Threading.Channels.xml",
+        "lib/netstandard2.0/System.Threading.Channels.dll",
+        "lib/netstandard2.0/System.Threading.Channels.xml",
+        "system.threading.channels.4.5.0.nupkg.sha512",
+        "system.threading.channels.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "System.Threading.Tasks.Extensions/4.5.2": {
+      "sha512": "BG/TNxDFv0svAzx8OiMXDlsHfGw623BZ8tCXw4YLhDFDvDhNUEV58jKYMGRnkbJNm7c3JNNJDiN7JBMzxRBR2w==",
+      "type": "package",
+      "path": "system.threading.tasks.extensions/4.5.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/netcoreapp2.1/_._",
+        "lib/netstandard1.0/System.Threading.Tasks.Extensions.dll",
+        "lib/netstandard1.0/System.Threading.Tasks.Extensions.xml",
+        "lib/netstandard2.0/System.Threading.Tasks.Extensions.dll",
+        "lib/netstandard2.0/System.Threading.Tasks.Extensions.xml",
+        "lib/portable-net45+win8+wp8+wpa81/System.Threading.Tasks.Extensions.dll",
+        "lib/portable-net45+win8+wp8+wpa81/System.Threading.Tasks.Extensions.xml",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "ref/MonoAndroid10/_._",
+        "ref/MonoTouch10/_._",
+        "ref/netcoreapp2.1/_._",
+        "ref/xamarinios10/_._",
+        "ref/xamarinmac20/_._",
+        "ref/xamarintvos10/_._",
+        "ref/xamarinwatchos10/_._",
+        "system.threading.tasks.extensions.4.5.2.nupkg.sha512",
+        "system.threading.tasks.extensions.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "twitterizer/2.4.2.2": {
+      "sha512": "OKt5/8mcqtrlR0SFGeoshcFaxy8j3eBbzMvxcI/Q0S5xhdgv7ZehOXXRPgQaBpgfJQLi7XgWHJdrCaLkma78aA==",
+      "type": "package",
+      "path": "twitterizer/2.4.2.2",
+      "files": [
+        ".nupkg.metadata",
+        "content/GettingStarted.txt",
+        "content/Twitterizer2.license.txt",
+        "lib/net48/Twitterizer2.XML",
+        "lib/net48/Twitterizer2.dll",
+        "twitterizer.2.4.2.2.nupkg.sha512",
+        "twitterizer.nuspec"
+      ]
+    },
+    "Ubiety.Dns.Core/2.4.1": {
+      "sha512": "IMOnFznd4NB4UynLOtBADIme9xjsptzZxpgAnmd2y7o8nzmafgtNwjg1pk8n/KPKKwzyb01AdTW/UCiX9ex/3g==",
+      "type": "package",
+      "path": "ubiety.dns.core/2.4.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Ubiety.Dns.Core.dll",
+        "lib/netstandard2.0/Ubiety.Dns.Core.xml",
+        "ubiety.dns.core.2.4.1.nupkg.sha512",
+        "ubiety.dns.core.nuspec"
+      ]
+    },
+    "ASC.Common/1.0.0": {
+      "type": "project",
+      "path": "../../../common/ASC.Common/ASC.Common.csproj",
+      "msbuildProject": "../../../common/ASC.Common/ASC.Common.csproj"
+    },
+    "ASC.Core.Common/1.0.0": {
+      "type": "project",
+      "path": "../../../common/ASC.Core.Common/ASC.Core.Common.csproj",
+      "msbuildProject": "../../../common/ASC.Core.Common/ASC.Core.Common.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": [
+      "ASC.Common >= 1.0.0",
+      "ASC.Core.Common >= 1.0.0",
+      "DotNetOpenAuth.Ultimate >= 4.1.0.12182",
+      "JWT >= 1.3.4",
+      "twitterizer >= 2.4.2.2"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Dizit\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Project\\LexicFromAsifBhai\\module\\ASC.Thrdparty\\ASC.FederatedLogin\\ASC.FederatedLogin.csproj",
+      "projectName": "ASC.FederatedLogin",
+      "projectPath": "E:\\Project\\LexicFromAsifBhai\\module\\ASC.Thrdparty\\ASC.FederatedLogin\\ASC.FederatedLogin.csproj",
+      "packagesPath": "C:\\Users\\Dizit\\.nuget\\packages\\",
+      "outputPath": "E:\\Project\\LexicFromAsifBhai\\module\\ASC.Thrdparty\\ASC.FederatedLogin\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "E:\\Project\\LexicFromAsifBhai\\NuGet.Config",
+        "C:\\Users\\Dizit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://www.nuget.org/api/v2/": {}
+      },
+      "frameworks": {
+        "net48": {
+          "projectReferences": {
+            "E:\\Project\\LexicFromAsifBhai\\common\\ASC.Common\\ASC.Common.csproj": {
+              "projectPath": "E:\\Project\\LexicFromAsifBhai\\common\\ASC.Common\\ASC.Common.csproj"
+            },
+            "E:\\Project\\LexicFromAsifBhai\\common\\ASC.Core.Common\\ASC.Core.Common.csproj": {
+              "projectPath": "E:\\Project\\LexicFromAsifBhai\\common\\ASC.Core.Common\\ASC.Core.Common.csproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "net48": {
+        "dependencies": {
+          "DotNetOpenAuth.Ultimate": {
+            "target": "Package",
+            "version": "[4.1.0.12182, )"
+          },
+          "JWT": {
+            "target": "Package",
+            "version": "[1.3.4, )"
+          },
+          "twitterizer": {
+            "target": "Package",
+            "version": "[2.4.2.2, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

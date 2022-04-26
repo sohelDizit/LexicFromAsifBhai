@@ -1,0 +1,562 @@
+2022-04-25 12:13:46,697 ERROR [15] ASC.Core - Authenticate error: cookie null, tenant -1, userid 00000000-0000-0000-0000-000000000000, indexTenant 0, expire 9999-12-31 23:59:59,999: System.Security.Cryptography.CryptographicException: Length of the data to decrypt is invalid.
+   at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.Stream.Dispose()
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(Byte[] data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 70
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(String data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 53
+   at ASC.Core.Security.Authentication.CookieStorage.DecryptCookie(String cookie, Int32& tenant, Guid& userid, Int32& indexTenant, DateTime& expire, Int32& indexUser) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Security\Authentication\CookieStorage.cs:line 47 
+2022-04-25 12:13:46,900 WARN [15] ASC.Core - Can not decrypt cookie: null from ::1 for http://localhost:55421/api/2.0/people/@self 
+2022-04-25 12:13:47,419 ERROR [10] ASC.Core - Authenticate error: cookie null, tenant -1, userid 00000000-0000-0000-0000-000000000000, indexTenant 0, expire 9999-12-31 23:59:59,999: System.Security.Cryptography.CryptographicException: Length of the data to decrypt is invalid.
+   at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.Stream.Dispose()
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(Byte[] data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 70
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(String data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 53
+   at ASC.Core.Security.Authentication.CookieStorage.DecryptCookie(String cookie, Int32& tenant, Guid& userid, Int32& indexTenant, DateTime& expire, Int32& indexUser) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Security\Authentication\CookieStorage.cs:line 47 
+2022-04-25 12:13:47,419 WARN [10] ASC.Core - Can not decrypt cookie: null from ::1 for http://localhost:55421/api/2.0/crm/opportunity/filter 
+2022-04-25 12:13:48,535 ERROR [11] ASC.Core - Authenticate error: cookie null, tenant -1, userid 00000000-0000-0000-0000-000000000000, indexTenant 0, expire 9999-12-31 23:59:59,999: System.Security.Cryptography.CryptographicException: Length of the data to decrypt is invalid.
+   at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.Stream.Dispose()
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(Byte[] data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 70
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(String data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 53
+   at ASC.Core.Security.Authentication.CookieStorage.DecryptCookie(String cookie, Int32& tenant, Guid& userid, Int32& indexTenant, DateTime& expire, Int32& indexUser) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Security\Authentication\CookieStorage.cs:line 47 
+2022-04-25 12:13:48,535 WARN [11] ASC.Core - Can not decrypt cookie: null from ::1 for http://localhost:55421/api/2.0/crm/invoice/filter 
+2022-04-25 12:13:48,566 ERROR [18] ASC.Core - Authenticate error: cookie null, tenant -1, userid 00000000-0000-0000-0000-000000000000, indexTenant 0, expire 9999-12-31 23:59:59,999: System.Security.Cryptography.CryptographicException: Length of the data to decrypt is invalid.
+   at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.Stream.Dispose()
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(Byte[] data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 70
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(String data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 53
+   at ASC.Core.Security.Authentication.CookieStorage.DecryptCookie(String cookie, Int32& tenant, Guid& userid, Int32& indexTenant, DateTime& expire, Int32& indexUser) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Security\Authentication\CookieStorage.cs:line 47 
+2022-04-25 12:13:48,566 WARN [18] ASC.Core - Can not decrypt cookie: null from ::1 for http://localhost:55421/api/2.0/crm/opportunity/filter?tags=Material Litigation 
+2022-04-25 12:17:42,985 ERROR [10] ASC.Core - Authenticate error: cookie null, tenant -1, userid 00000000-0000-0000-0000-000000000000, indexTenant 0, expire 9999-12-31 23:59:59,999: System.Security.Cryptography.CryptographicException: Length of the data to decrypt is invalid.
+   at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.Stream.Dispose()
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(Byte[] data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 70
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(String data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 53
+   at ASC.Core.Security.Authentication.CookieStorage.DecryptCookie(String cookie, Int32& tenant, Guid& userid, Int32& indexTenant, DateTime& expire, Int32& indexUser) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Security\Authentication\CookieStorage.cs:line 47 
+2022-04-25 12:17:42,985 WARN [10] ASC.Core - Can not decrypt cookie: null from ::1 for http://localhost:55421/api/2.0/people/@self 
+2022-04-25 12:17:43,275 ERROR [50] ASC.Core - Authenticate error: cookie null, tenant -1, userid 00000000-0000-0000-0000-000000000000, indexTenant 0, expire 9999-12-31 23:59:59,999: System.Security.Cryptography.CryptographicException: Length of the data to decrypt is invalid.
+   at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.Stream.Dispose()
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(Byte[] data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 70
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(String data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 53
+   at ASC.Core.Security.Authentication.CookieStorage.DecryptCookie(String cookie, Int32& tenant, Guid& userid, Int32& indexTenant, DateTime& expire, Int32& indexUser) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Security\Authentication\CookieStorage.cs:line 47 
+2022-04-25 12:17:43,275 WARN [50] ASC.Core - Can not decrypt cookie: null from ::1 for http://localhost:55421/api/2.0/crm/opportunity/filter 
+2022-04-25 12:17:44,381 ERROR [55] ASC.Core - Authenticate error: cookie null, tenant -1, userid 00000000-0000-0000-0000-000000000000, indexTenant 0, expire 9999-12-31 23:59:59,999: System.Security.Cryptography.CryptographicException: Length of the data to decrypt is invalid.
+   at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.Stream.Dispose()
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(Byte[] data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 70
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(String data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 53
+   at ASC.Core.Security.Authentication.CookieStorage.DecryptCookie(String cookie, Int32& tenant, Guid& userid, Int32& indexTenant, DateTime& expire, Int32& indexUser) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Security\Authentication\CookieStorage.cs:line 47 
+2022-04-25 12:17:44,381 WARN [55] ASC.Core - Can not decrypt cookie: null from ::1 for http://localhost:55421/api/2.0/crm/invoice/filter 
+2022-04-25 12:17:44,398 ERROR [57] ASC.Core - Authenticate error: cookie null, tenant -1, userid 00000000-0000-0000-0000-000000000000, indexTenant 0, expire 9999-12-31 23:59:59,999: System.Security.Cryptography.CryptographicException: Length of the data to decrypt is invalid.
+   at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.Stream.Dispose()
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(Byte[] data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 70
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(String data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 53
+   at ASC.Core.Security.Authentication.CookieStorage.DecryptCookie(String cookie, Int32& tenant, Guid& userid, Int32& indexTenant, DateTime& expire, Int32& indexUser) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Security\Authentication\CookieStorage.cs:line 47 
+2022-04-25 12:17:44,398 WARN [57] ASC.Core - Can not decrypt cookie: null from ::1 for http://localhost:55421/api/2.0/crm/opportunity/filter?tags=Material Litigation 
+2022-04-25 12:17:52,727 ERROR [9] ASC.Core - Authenticate error: cookie null, tenant -1, userid 00000000-0000-0000-0000-000000000000, indexTenant 0, expire 9999-12-31 23:59:59,999: System.Security.Cryptography.CryptographicException: Length of the data to decrypt is invalid.
+   at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.Stream.Dispose()
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(Byte[] data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 70
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(String data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 53
+   at ASC.Core.Security.Authentication.CookieStorage.DecryptCookie(String cookie, Int32& tenant, Guid& userid, Int32& indexTenant, DateTime& expire, Int32& indexUser) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Security\Authentication\CookieStorage.cs:line 47 
+2022-04-25 12:17:52,727 WARN [9] ASC.Core - Can not decrypt cookie: null from ::1 for http://localhost:55421/api/2.0/people/@self 
+2022-04-25 12:17:52,742 ERROR [7] ASC.Core - Authenticate error: cookie null, tenant -1, userid 00000000-0000-0000-0000-000000000000, indexTenant 0, expire 9999-12-31 23:59:59,999: System.Security.Cryptography.CryptographicException: Length of the data to decrypt is invalid.
+   at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.Stream.Dispose()
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(Byte[] data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 70
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(String data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 53
+   at ASC.Core.Security.Authentication.CookieStorage.DecryptCookie(String cookie, Int32& tenant, Guid& userid, Int32& indexTenant, DateTime& expire, Int32& indexUser) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Security\Authentication\CookieStorage.cs:line 47 
+2022-04-25 12:17:52,742 WARN [7] ASC.Core - Can not decrypt cookie: null from ::1 for http://localhost:55421/api/2.0/crm/opportunity/filter 
+2022-04-25 12:17:53,526 ERROR [6] ASC.Core - Authenticate error: cookie null, tenant -1, userid 00000000-0000-0000-0000-000000000000, indexTenant 0, expire 9999-12-31 23:59:59,999: System.Security.Cryptography.CryptographicException: Length of the data to decrypt is invalid.
+   at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.Stream.Dispose()
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(Byte[] data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 70
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(String data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 53
+   at ASC.Core.Security.Authentication.CookieStorage.DecryptCookie(String cookie, Int32& tenant, Guid& userid, Int32& indexTenant, DateTime& expire, Int32& indexUser) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Security\Authentication\CookieStorage.cs:line 47 
+2022-04-25 12:17:53,526 ERROR [10] ASC.Core - Authenticate error: cookie null, tenant -1, userid 00000000-0000-0000-0000-000000000000, indexTenant 0, expire 9999-12-31 23:59:59,999: System.Security.Cryptography.CryptographicException: Length of the data to decrypt is invalid.
+   at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.Stream.Dispose()
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(Byte[] data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 70
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(String data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 53
+   at ASC.Core.Security.Authentication.CookieStorage.DecryptCookie(String cookie, Int32& tenant, Guid& userid, Int32& indexTenant, DateTime& expire, Int32& indexUser) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Security\Authentication\CookieStorage.cs:line 47 
+2022-04-25 12:17:53,526 WARN [10] ASC.Core - Can not decrypt cookie: null from ::1 for http://localhost:55421/api/2.0/crm/invoice/filter 
+2022-04-25 12:17:53,526 WARN [6] ASC.Core - Can not decrypt cookie: null from ::1 for http://localhost:55421/api/2.0/crm/opportunity/filter?tags=Material Litigation 
+2022-04-25 12:22:02,662 ERROR [56] ASC.Core - Authenticate error: cookie null, tenant -1, userid 00000000-0000-0000-0000-000000000000, indexTenant 0, expire 9999-12-31 23:59:59,999: System.Security.Cryptography.CryptographicException: Length of the data to decrypt is invalid.
+   at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.Stream.Dispose()
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(Byte[] data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 70
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(String data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 53
+   at ASC.Core.Security.Authentication.CookieStorage.DecryptCookie(String cookie, Int32& tenant, Guid& userid, Int32& indexTenant, DateTime& expire, Int32& indexUser) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Security\Authentication\CookieStorage.cs:line 47 
+2022-04-25 12:22:02,662 WARN [56] ASC.Core - Can not decrypt cookie: null from ::1 for http://localhost:55421/api/2.0/people/@self 
+2022-04-25 12:22:02,842 ERROR [55] ASC.Core - Authenticate error: cookie null, tenant -1, userid 00000000-0000-0000-0000-000000000000, indexTenant 0, expire 9999-12-31 23:59:59,999: System.Security.Cryptography.CryptographicException: Length of the data to decrypt is invalid.
+   at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.Stream.Dispose()
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(Byte[] data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 70
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(String data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 53
+   at ASC.Core.Security.Authentication.CookieStorage.DecryptCookie(String cookie, Int32& tenant, Guid& userid, Int32& indexTenant, DateTime& expire, Int32& indexUser) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Security\Authentication\CookieStorage.cs:line 47 
+2022-04-25 12:22:02,842 WARN [55] ASC.Core - Can not decrypt cookie: null from ::1 for http://localhost:55421/api/2.0/crm/opportunity/filter 
+2022-04-25 12:22:03,425 ERROR [73] ASC.Core - Authenticate error: cookie null, tenant -1, userid 00000000-0000-0000-0000-000000000000, indexTenant 0, expire 9999-12-31 23:59:59,999: System.Security.Cryptography.CryptographicException: Length of the data to decrypt is invalid.
+   at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.Stream.Dispose()
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(Byte[] data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 70
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(String data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 53
+   at ASC.Core.Security.Authentication.CookieStorage.DecryptCookie(String cookie, Int32& tenant, Guid& userid, Int32& indexTenant, DateTime& expire, Int32& indexUser) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Security\Authentication\CookieStorage.cs:line 47 
+2022-04-25 12:22:03,425 WARN [73] ASC.Core - Can not decrypt cookie: null from ::1 for http://localhost:55421/api/2.0/crm/invoice/filter 
+2022-04-25 12:22:03,425 ERROR [79] ASC.Core - Authenticate error: cookie null, tenant -1, userid 00000000-0000-0000-0000-000000000000, indexTenant 0, expire 9999-12-31 23:59:59,999: System.Security.Cryptography.CryptographicException: Length of the data to decrypt is invalid.
+   at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.Stream.Dispose()
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(Byte[] data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 70
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(String data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 53
+   at ASC.Core.Security.Authentication.CookieStorage.DecryptCookie(String cookie, Int32& tenant, Guid& userid, Int32& indexTenant, DateTime& expire, Int32& indexUser) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Security\Authentication\CookieStorage.cs:line 47 
+2022-04-25 12:22:03,440 WARN [79] ASC.Core - Can not decrypt cookie: null from ::1 for http://localhost:55421/api/2.0/crm/opportunity/filter?tags=Material Litigation 
+2022-04-25 12:25:48,038 ERROR [8] ASC.Core - Authenticate error: cookie null, tenant -1, userid 00000000-0000-0000-0000-000000000000, indexTenant 0, expire 9999-12-31 23:59:59,999: System.Security.Cryptography.CryptographicException: Length of the data to decrypt is invalid.
+   at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.Stream.Dispose()
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(Byte[] data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 70
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(String data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 53
+   at ASC.Core.Security.Authentication.CookieStorage.DecryptCookie(String cookie, Int32& tenant, Guid& userid, Int32& indexTenant, DateTime& expire, Int32& indexUser) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Security\Authentication\CookieStorage.cs:line 47 
+2022-04-25 12:25:48,092 ERROR [10] ASC.Core - Authenticate error: cookie null, tenant -1, userid 00000000-0000-0000-0000-000000000000, indexTenant 0, expire 9999-12-31 23:59:59,999: System.Security.Cryptography.CryptographicException: Length of the data to decrypt is invalid.
+   at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.Stream.Dispose()
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(Byte[] data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 70
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(String data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 53
+   at ASC.Core.Security.Authentication.CookieStorage.DecryptCookie(String cookie, Int32& tenant, Guid& userid, Int32& indexTenant, DateTime& expire, Int32& indexUser) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Security\Authentication\CookieStorage.cs:line 47 
+2022-04-25 12:25:48,160 WARN [8] ASC.Core - Can not decrypt cookie: null from ::1 for http://localhost:55421/api/2.0/crm/opportunity/filter 
+2022-04-25 12:25:48,160 WARN [10] ASC.Core - Can not decrypt cookie: null from ::1 for http://localhost:55421/api/2.0/people/@self 
+2022-04-25 12:25:49,115 ERROR [13] ASC.Core - Authenticate error: cookie null, tenant -1, userid 00000000-0000-0000-0000-000000000000, indexTenant 0, expire 9999-12-31 23:59:59,999: System.Security.Cryptography.CryptographicException: Length of the data to decrypt is invalid.
+   at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.Stream.Dispose()
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(Byte[] data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 70
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(String data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 53
+   at ASC.Core.Security.Authentication.CookieStorage.DecryptCookie(String cookie, Int32& tenant, Guid& userid, Int32& indexTenant, DateTime& expire, Int32& indexUser) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Security\Authentication\CookieStorage.cs:line 47 
+2022-04-25 12:25:49,115 WARN [13] ASC.Core - Can not decrypt cookie: null from ::1 for http://localhost:55421/api/2.0/crm/invoice/filter 
+2022-04-25 12:25:49,115 ERROR [11] ASC.Core - Authenticate error: cookie null, tenant -1, userid 00000000-0000-0000-0000-000000000000, indexTenant 0, expire 9999-12-31 23:59:59,999: System.Security.Cryptography.CryptographicException: Length of the data to decrypt is invalid.
+   at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.Stream.Dispose()
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(Byte[] data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 70
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(String data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 53
+   at ASC.Core.Security.Authentication.CookieStorage.DecryptCookie(String cookie, Int32& tenant, Guid& userid, Int32& indexTenant, DateTime& expire, Int32& indexUser) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Security\Authentication\CookieStorage.cs:line 47 
+2022-04-25 12:25:49,115 WARN [11] ASC.Core - Can not decrypt cookie: null from ::1 for http://localhost:55421/api/2.0/crm/opportunity/filter?tags=Material Litigation 
+2022-04-25 12:28:36,182 ERROR [14] ASC.Core - Authenticate error: cookie null, tenant -1, userid 00000000-0000-0000-0000-000000000000, indexTenant 0, expire 9999-12-31 23:59:59,999: System.Security.Cryptography.CryptographicException: Length of the data to decrypt is invalid.
+   at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.Stream.Dispose()
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(Byte[] data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 70
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(String data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 53
+   at ASC.Core.Security.Authentication.CookieStorage.DecryptCookie(String cookie, Int32& tenant, Guid& userid, Int32& indexTenant, DateTime& expire, Int32& indexUser) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Security\Authentication\CookieStorage.cs:line 47 
+2022-04-25 12:28:36,182 WARN [14] ASC.Core - Can not decrypt cookie: null from ::1 for http://localhost:55421/api/2.0/people/@self 
+2022-04-25 12:28:36,269 ERROR [11] ASC.Core - Authenticate error: cookie null, tenant -1, userid 00000000-0000-0000-0000-000000000000, indexTenant 0, expire 9999-12-31 23:59:59,999: System.Security.Cryptography.CryptographicException: Length of the data to decrypt is invalid.
+   at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.Stream.Dispose()
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(Byte[] data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 70
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(String data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 53
+   at ASC.Core.Security.Authentication.CookieStorage.DecryptCookie(String cookie, Int32& tenant, Guid& userid, Int32& indexTenant, DateTime& expire, Int32& indexUser) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Security\Authentication\CookieStorage.cs:line 47 
+2022-04-25 12:28:36,269 WARN [11] ASC.Core - Can not decrypt cookie: null from ::1 for http://localhost:55421/api/2.0/crm/opportunity/filter 
+2022-04-25 12:28:36,882 ERROR [16] ASC.Core - Authenticate error: cookie null, tenant -1, userid 00000000-0000-0000-0000-000000000000, indexTenant 0, expire 9999-12-31 23:59:59,999: System.Security.Cryptography.CryptographicException: Length of the data to decrypt is invalid.
+   at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.Stream.Dispose()
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(Byte[] data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 70
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(String data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 53
+   at ASC.Core.Security.Authentication.CookieStorage.DecryptCookie(String cookie, Int32& tenant, Guid& userid, Int32& indexTenant, DateTime& expire, Int32& indexUser) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Security\Authentication\CookieStorage.cs:line 47 
+2022-04-25 12:28:36,882 WARN [16] ASC.Core - Can not decrypt cookie: null from ::1 for http://localhost:55421/api/2.0/crm/invoice/filter 
+2022-04-25 12:28:36,895 ERROR [18] ASC.Core - Authenticate error: cookie null, tenant -1, userid 00000000-0000-0000-0000-000000000000, indexTenant 0, expire 9999-12-31 23:59:59,999: System.Security.Cryptography.CryptographicException: Length of the data to decrypt is invalid.
+   at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.Stream.Dispose()
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(Byte[] data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 70
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(String data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 53
+   at ASC.Core.Security.Authentication.CookieStorage.DecryptCookie(String cookie, Int32& tenant, Guid& userid, Int32& indexTenant, DateTime& expire, Int32& indexUser) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Security\Authentication\CookieStorage.cs:line 47 
+2022-04-25 12:28:36,895 WARN [18] ASC.Core - Can not decrypt cookie: null from ::1 for http://localhost:55421/api/2.0/crm/opportunity/filter?tags=Material Litigation 
+2022-04-25 12:31:03,527 FATAL [6] ASC.Indexer - FactoryIndexer Elasticsearch.Net.ElasticsearchClientException: The remote server returned an error: (400) Bad Request.. Call: Status code 400 from: PUT /_ingest/pipeline/attachments. ServerError: Type: parse_exception Reason: "No processor type exists with name [attachment]" ---> System.Net.WebException: The remote server returned an error: (400) Bad Request.
+   at System.Net.HttpWebRequest.GetResponse()
+   at Elasticsearch.Net.HttpWebRequestConnection.Request[TResponse](RequestData requestData)
+   --- End of inner exception stack trace ---
+   at Elasticsearch.Net.Transport`1.HandleElasticsearchClientException(RequestData data, Exception clientException, IElasticsearchResponse response)
+   at Elasticsearch.Net.Transport`1.FinalizeResponse[TResponse](RequestData requestData, IRequestPipeline pipeline, List`1 seenExceptions, TResponse response)
+   at Elasticsearch.Net.Transport`1.Request[TResponse](HttpMethod method, String path, PostData data, IRequestParameters requestParameters)
+   at Elasticsearch.Net.ElasticLowLevelClient.DoRequest[TResponse](HttpMethod method, String path, PostData data, IRequestParameters requestParameters)
+   at Nest.ElasticClient.DoRequest[TRequest,TResponse](TRequest p, IRequestParameters parameters, Action`1 forceConfiguration)
+   at Nest.Specification.IngestApi.IngestNamespace.PutPipeline(Id id, Func`2 selector)
+   at ASC.ElasticSearch.FactoryIndexer..cctor() in E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.ElasticSearch\Engine\FactoryIndexer.cs:line 384
+2022-04-25 12:38:36,689 ERROR [101] ASC - Service Error: Unable to connect to the remote server,    at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.MakeRequest(String method, Object data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 318
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.FilesChangeEditors(Int32 tenantId, String fileId, Boolean finish) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 261, No connection could be made because the target machine actively refused it 127.0.0.1:9899 
+2022-04-25 12:38:41,502 ERROR [10] ASC - Service Error: Unable to connect to the remote server,    at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.MakeRequest(String method, Object data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 318
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.FilesChangeEditors(Int32 tenantId, String fileId, Boolean finish) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 261, No connection could be made because the target machine actively refused it 127.0.0.1:9899 
+2022-04-25 12:38:51,798 ERROR [13] ASC - Service Error: Unable to connect to the remote server,    at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.MakeRequest(String method, Object data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 318
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.FilesChangeEditors(Int32 tenantId, String fileId, Boolean finish) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 261, No connection could be made because the target machine actively refused it 127.0.0.1:9899 
+2022-04-25 12:39:14,147 ERROR [59] ASC - Service Error: Unable to connect to the remote server,    at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.MakeRequest(String method, Object data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 318
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.FilesChangeEditors(Int32 tenantId, String fileId, Boolean finish) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 261, No connection could be made because the target machine actively refused it 127.0.0.1:9899 
+2022-04-25 12:40:22,003 ERROR [59] ASC - Service Error: Unable to connect to the remote server,    at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.MakeRequest(String method, Object data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 318
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.FilesChangeEditors(Int32 tenantId, String fileId, Boolean finish) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 261, No connection could be made because the target machine actively refused it 127.0.0.1:9899 
+2022-04-25 12:43:14,945 ERROR [119] ASC - Service Error: Unable to connect to the remote server,    at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.MakeRequest(String method, Object data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 318
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.FilesChangeEditors(Int32 tenantId, String fileId, Boolean finish) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 261, No connection could be made because the target machine actively refused it 127.0.0.1:9899 
+2022-04-25 12:43:26,105 ERROR [119] ASC - Service Error: Unable to connect to the remote server,    at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.MakeRequest(String method, Object data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 318
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.FilesChangeEditors(Int32 tenantId, String fileId, Boolean finish) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 261, No connection could be made because the target machine actively refused it 127.0.0.1:9899 
+2022-04-25 12:44:31,741 ERROR [133] ASC - Service Error: Unable to connect to the remote server,    at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.MakeRequest(String method, Object data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 318
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.FilesChangeEditors(Int32 tenantId, String fileId, Boolean finish) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 261, No connection could be made because the target machine actively refused it 127.0.0.1:9899 
+2022-04-25 12:44:46,484 ERROR [59] ASC - Service Error: Unable to connect to the remote server,    at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.MakeRequest(String method, Object data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 318
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.FilesChangeEditors(Int32 tenantId, String fileId, Boolean finish) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 261, No connection could be made because the target machine actively refused it 127.0.0.1:9899 
+2022-04-25 12:44:49,873 ERROR [110] ASC - Service Error: Unable to connect to the remote server,    at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.MakeRequest(String method, Object data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 318
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.FilesChangeEditors(Int32 tenantId, String fileId, Boolean finish) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 261, No connection could be made because the target machine actively refused it 127.0.0.1:9899 
+2022-04-25 12:45:21,479 ERROR [110] ASC - Service Error: Unable to connect to the remote server,    at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.MakeRequest(String method, Object data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 318
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.FilesChangeEditors(Int32 tenantId, String fileId, Boolean finish) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 261, No connection could be made because the target machine actively refused it 127.0.0.1:9899 
+2022-04-25 12:49:18,315 ERROR [111] ASC - Service Error: Unable to connect to the remote server,    at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.MakeRequest(String method, Object data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 318
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.FilesChangeEditors(Int32 tenantId, String fileId, Boolean finish) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 261, No connection could be made because the target machine actively refused it 127.0.0.1:9899 
+2022-04-25 12:49:23,383 ERROR [115] ASC - Service Error: Unable to connect to the remote server,    at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.MakeRequest(String method, Object data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 318
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.FilesChangeEditors(Int32 tenantId, String fileId, Boolean finish) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 261, No connection could be made because the target machine actively refused it 127.0.0.1:9899 
+2022-04-25 12:49:28,153 ERROR [111] ASC - Service Error: Unable to connect to the remote server,    at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.MakeRequest(String method, Object data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 318
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.FilesChangeEditors(Int32 tenantId, String fileId, Boolean finish) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 261, No connection could be made because the target machine actively refused it 127.0.0.1:9899 
+2022-04-25 12:49:40,063 ERROR [118] ASC - Service Error: Unable to connect to the remote server,    at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.MakeRequest(String method, Object data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 318
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.FilesChangeEditors(Int32 tenantId, String fileId, Boolean finish) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 261, No connection could be made because the target machine actively refused it 127.0.0.1:9899 
+2022-04-25 12:52:10,606 ERROR [83] ASC - Service Error: Unable to connect to the remote server,    at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.MakeRequest(String method, Object data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 318
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.FilesChangeEditors(Int32 tenantId, String fileId, Boolean finish) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 261, No connection could be made because the target machine actively refused it 127.0.0.1:9899 
+2022-04-25 12:52:39,892 ERROR [59] ASC - Service Error: Unable to connect to the remote server,    at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.MakeRequest(String method, Object data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 318
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.FilesChangeEditors(Int32 tenantId, String fileId, Boolean finish) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 261, No connection could be made because the target machine actively refused it 127.0.0.1:9899 
+2022-04-25 12:52:44,269 ERROR [110] ASC - Service Error: Unable to connect to the remote server,    at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.MakeRequest(String method, Object data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 318
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.FilesChangeEditors(Int32 tenantId, String fileId, Boolean finish) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 261, No connection could be made because the target machine actively refused it 127.0.0.1:9899 
+2022-04-25 13:56:36,120 FATAL [10] ASC.Indexer - FactoryIndexer Elasticsearch.Net.ElasticsearchClientException: The remote server returned an error: (400) Bad Request.. Call: Status code 400 from: PUT /_ingest/pipeline/attachments. ServerError: Type: parse_exception Reason: "No processor type exists with name [attachment]" ---> System.Net.WebException: The remote server returned an error: (400) Bad Request.
+   at System.Net.HttpWebRequest.GetResponse()
+   at Elasticsearch.Net.HttpWebRequestConnection.Request[TResponse](RequestData requestData)
+   --- End of inner exception stack trace ---
+   at Elasticsearch.Net.Transport`1.HandleElasticsearchClientException(RequestData data, Exception clientException, IElasticsearchResponse response)
+   at Elasticsearch.Net.Transport`1.FinalizeResponse[TResponse](RequestData requestData, IRequestPipeline pipeline, List`1 seenExceptions, TResponse response)
+   at Elasticsearch.Net.Transport`1.Request[TResponse](HttpMethod method, String path, PostData data, IRequestParameters requestParameters)
+   at Elasticsearch.Net.ElasticLowLevelClient.DoRequest[TResponse](HttpMethod method, String path, PostData data, IRequestParameters requestParameters)
+   at Nest.ElasticClient.DoRequest[TRequest,TResponse](TRequest p, IRequestParameters parameters, Action`1 forceConfiguration)
+   at Nest.Specification.IngestApi.IngestNamespace.PutPipeline(Id id, Func`2 selector)
+   at ASC.ElasticSearch.FactoryIndexer..cctor() in E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.ElasticSearch\Engine\FactoryIndexer.cs:line 384
+2022-04-25 13:59:28,641 ERROR [61] ASC.Core - Authenticate error: cookie null, tenant -1, userid 00000000-0000-0000-0000-000000000000, indexTenant 0, expire 9999-12-31 23:59:59,999: System.Security.Cryptography.CryptographicException: Length of the data to decrypt is invalid.
+   at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.Stream.Dispose()
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(Byte[] data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 70
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(String data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 53
+   at ASC.Core.Security.Authentication.CookieStorage.DecryptCookie(String cookie, Int32& tenant, Guid& userid, Int32& indexTenant, DateTime& expire, Int32& indexUser) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Security\Authentication\CookieStorage.cs:line 47 
+2022-04-25 13:59:28,739 WARN [61] ASC.Core - Can not decrypt cookie: null from ::1 for http://localhost:55421/api/2.0/crm/opportunity/filter 
+2022-04-25 13:59:29,803 ERROR [100] ASC.Core - Authenticate error: cookie null, tenant -1, userid 00000000-0000-0000-0000-000000000000, indexTenant 0, expire 9999-12-31 23:59:59,999: System.Security.Cryptography.CryptographicException: Length of the data to decrypt is invalid.
+   at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.Stream.Dispose()
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(Byte[] data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 70
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(String data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 53
+   at ASC.Core.Security.Authentication.CookieStorage.DecryptCookie(String cookie, Int32& tenant, Guid& userid, Int32& indexTenant, DateTime& expire, Int32& indexUser) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Security\Authentication\CookieStorage.cs:line 47 
+2022-04-25 13:59:29,803 WARN [100] ASC.Core - Can not decrypt cookie: null from ::1 for http://localhost:55421/api/2.0/people/@self 
+2022-04-25 13:59:31,059 ERROR [13] ASC.Core - Authenticate error: cookie null, tenant -1, userid 00000000-0000-0000-0000-000000000000, indexTenant 0, expire 9999-12-31 23:59:59,999: System.Security.Cryptography.CryptographicException: Length of the data to decrypt is invalid.
+   at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.Stream.Dispose()
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(Byte[] data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 70
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(String data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 53
+   at ASC.Core.Security.Authentication.CookieStorage.DecryptCookie(String cookie, Int32& tenant, Guid& userid, Int32& indexTenant, DateTime& expire, Int32& indexUser) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Security\Authentication\CookieStorage.cs:line 47 
+2022-04-25 13:59:31,059 WARN [13] ASC.Core - Can not decrypt cookie: null from ::1 for http://localhost:55421/api/2.0/crm/invoice/filter 
+2022-04-25 13:59:31,138 ERROR [98] ASC.Core - Authenticate error: cookie null, tenant -1, userid 00000000-0000-0000-0000-000000000000, indexTenant 0, expire 9999-12-31 23:59:59,999: System.Security.Cryptography.CryptographicException: Length of the data to decrypt is invalid.
+   at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.Stream.Dispose()
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(Byte[] data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 70
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(String data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 53
+   at ASC.Core.Security.Authentication.CookieStorage.DecryptCookie(String cookie, Int32& tenant, Guid& userid, Int32& indexTenant, DateTime& expire, Int32& indexUser) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Security\Authentication\CookieStorage.cs:line 47 
+2022-04-25 13:59:31,138 WARN [98] ASC.Core - Can not decrypt cookie: null from ::1 for http://localhost:55421/api/2.0/crm/opportunity/filter?tags=Material Litigation 
+2022-04-25 14:30:56,542 ERROR [221] ASC.Core - Authenticate error: cookie null, tenant -1, userid 00000000-0000-0000-0000-000000000000, indexTenant 0, expire 9999-12-31 23:59:59,999: System.Security.Cryptography.CryptographicException: Length of the data to decrypt is invalid.
+   at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.Stream.Dispose()
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(Byte[] data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 70
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(String data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 53
+   at ASC.Core.Security.Authentication.CookieStorage.DecryptCookie(String cookie, Int32& tenant, Guid& userid, Int32& indexTenant, DateTime& expire, Int32& indexUser) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Security\Authentication\CookieStorage.cs:line 47 
+2022-04-25 14:30:56,542 WARN [221] ASC.Core - Can not decrypt cookie: null from ::1 for http://localhost:55421/api/2.0/people/@self 
+2022-04-25 14:30:56,590 ERROR [216] ASC.Core - Authenticate error: cookie null, tenant -1, userid 00000000-0000-0000-0000-000000000000, indexTenant 0, expire 9999-12-31 23:59:59,999: System.Security.Cryptography.CryptographicException: Length of the data to decrypt is invalid.
+   at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.Stream.Dispose()
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(Byte[] data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 70
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(String data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 53
+   at ASC.Core.Security.Authentication.CookieStorage.DecryptCookie(String cookie, Int32& tenant, Guid& userid, Int32& indexTenant, DateTime& expire, Int32& indexUser) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Security\Authentication\CookieStorage.cs:line 47 
+2022-04-25 14:30:56,590 WARN [216] ASC.Core - Can not decrypt cookie: null from ::1 for http://localhost:55421/api/2.0/crm/opportunity/filter 
+2022-04-25 14:30:57,382 ERROR [235] ASC.Core - Authenticate error: cookie null, tenant -1, userid 00000000-0000-0000-0000-000000000000, indexTenant 0, expire 9999-12-31 23:59:59,999: System.Security.Cryptography.CryptographicException: Length of the data to decrypt is invalid.
+   at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.Stream.Dispose()
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(Byte[] data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 70
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(String data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 53
+   at ASC.Core.Security.Authentication.CookieStorage.DecryptCookie(String cookie, Int32& tenant, Guid& userid, Int32& indexTenant, DateTime& expire, Int32& indexUser) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Security\Authentication\CookieStorage.cs:line 47 
+2022-04-25 14:30:57,382 WARN [235] ASC.Core - Can not decrypt cookie: null from ::1 for http://localhost:55421/api/2.0/crm/invoice/filter 
+2022-04-25 14:30:57,389 ERROR [231] ASC.Core - Authenticate error: cookie null, tenant -1, userid 00000000-0000-0000-0000-000000000000, indexTenant 0, expire 9999-12-31 23:59:59,999: System.Security.Cryptography.CryptographicException: Length of the data to decrypt is invalid.
+   at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.Stream.Dispose()
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(Byte[] data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 70
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(String data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 53
+   at ASC.Core.Security.Authentication.CookieStorage.DecryptCookie(String cookie, Int32& tenant, Guid& userid, Int32& indexTenant, DateTime& expire, Int32& indexUser) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Security\Authentication\CookieStorage.cs:line 47 
+2022-04-25 14:30:57,389 WARN [231] ASC.Core - Can not decrypt cookie: null from ::1 for http://localhost:55421/api/2.0/crm/opportunity/filter?tags=Material Litigation 
+2022-04-25 14:30:58,124 ERROR [223] ASC.Core - Authenticate error: cookie null, tenant -1, userid 00000000-0000-0000-0000-000000000000, indexTenant 0, expire 9999-12-31 23:59:59,999: System.Security.Cryptography.CryptographicException: Length of the data to decrypt is invalid.
+   at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.Stream.Dispose()
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(Byte[] data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 70
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(String data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 53
+   at ASC.Core.Security.Authentication.CookieStorage.DecryptCookie(String cookie, Int32& tenant, Guid& userid, Int32& indexTenant, DateTime& expire, Int32& indexUser) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Security\Authentication\CookieStorage.cs:line 47 
+2022-04-25 14:30:58,124 WARN [223] ASC.Core - Can not decrypt cookie: null from ::1 for http://localhost:55421/api/2.0/people/@self 
+2022-04-25 14:30:58,341 ERROR [216] ASC.Core - Authenticate error: cookie null, tenant -1, userid 00000000-0000-0000-0000-000000000000, indexTenant 0, expire 9999-12-31 23:59:59,999: System.Security.Cryptography.CryptographicException: Length of the data to decrypt is invalid.
+   at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.Stream.Dispose()
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(Byte[] data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 70
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(String data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 53
+   at ASC.Core.Security.Authentication.CookieStorage.DecryptCookie(String cookie, Int32& tenant, Guid& userid, Int32& indexTenant, DateTime& expire, Int32& indexUser) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Security\Authentication\CookieStorage.cs:line 47 
+2022-04-25 14:30:58,341 WARN [216] ASC.Core - Can not decrypt cookie: null from ::1 for http://localhost:55421/api/2.0/crm/opportunity/filter 
+2022-04-25 14:30:58,782 ERROR [219] ASC.Core - Authenticate error: cookie null, tenant -1, userid 00000000-0000-0000-0000-000000000000, indexTenant 0, expire 9999-12-31 23:59:59,999: System.Security.Cryptography.CryptographicException: Length of the data to decrypt is invalid.
+   at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.Stream.Dispose()
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(Byte[] data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 70
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(String data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 53
+   at ASC.Core.Security.Authentication.CookieStorage.DecryptCookie(String cookie, Int32& tenant, Guid& userid, Int32& indexTenant, DateTime& expire, Int32& indexUser) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Security\Authentication\CookieStorage.cs:line 47 
+2022-04-25 14:30:58,782 WARN [219] ASC.Core - Can not decrypt cookie: null from ::1 for http://localhost:55421/api/2.0/crm/invoice/filter 
+2022-04-25 14:30:58,782 ERROR [220] ASC.Core - Authenticate error: cookie null, tenant -1, userid 00000000-0000-0000-0000-000000000000, indexTenant 0, expire 9999-12-31 23:59:59,999: System.Security.Cryptography.CryptographicException: Length of the data to decrypt is invalid.
+   at System.Security.Cryptography.RijndaelManagedTransform.TransformFinalBlock(Byte[] inputBuffer, Int32 inputOffset, Int32 inputCount)
+   at System.Security.Cryptography.CryptoStream.FlushFinalBlock()
+   at System.Security.Cryptography.CryptoStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.IO.Stream.Dispose()
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(Byte[] data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 70
+   at ASC.Security.Cryptography.InstanceCrypto.Decrypt(String data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\Security\Cryptography\InstanceCrypto.cs:line 53
+   at ASC.Core.Security.Authentication.CookieStorage.DecryptCookie(String cookie, Int32& tenant, Guid& userid, Int32& indexTenant, DateTime& expire, Int32& indexUser) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Security\Authentication\CookieStorage.cs:line 47 
+2022-04-25 14:30:58,782 WARN [220] ASC.Core - Can not decrypt cookie: null from ::1 for http://localhost:55421/api/2.0/crm/opportunity/filter?tags=Material Litigation 
+2022-04-25 14:53:15,482 ERROR [139] ASC - Service Error: Unable to connect to the remote server,    at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.MakeRequest(String method, Object data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 318
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.FilesChangeEditors(Int32 tenantId, String fileId, Boolean finish) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 261, No connection could be made because the target machine actively refused it 127.0.0.1:9899 
+2022-04-25 14:53:33,965 ERROR [258] ASC - Service Error: Unable to connect to the remote server,    at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.MakeRequest(String method, Object data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 318
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.FilesChangeEditors(Int32 tenantId, String fileId, Boolean finish) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 261, No connection could be made because the target machine actively refused it 127.0.0.1:9899 
+2022-04-25 14:53:49,003 ERROR [239] ASC - Service Error: Unable to connect to the remote server,    at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.MakeRequest(String method, Object data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 318
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.FilesChangeEditors(Int32 tenantId, String fileId, Boolean finish) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 261, No connection could be made because the target machine actively refused it 127.0.0.1:9899 
+2022-04-25 14:53:59,811 ERROR [258] ASC - Service Error: Unable to connect to the remote server,    at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.MakeRequest(String method, Object data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 318
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.FilesChangeEditors(Int32 tenantId, String fileId, Boolean finish) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 261, No connection could be made because the target machine actively refused it 127.0.0.1:9899 
+2022-04-25 15:00:03,028 ERROR [239] ASC - Service Error: Unable to connect to the remote server,    at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.MakeRequest(String method, Object data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 318
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.FilesChangeEditors(Int32 tenantId, String fileId, Boolean finish) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 261, No connection could be made because the target machine actively refused it 127.0.0.1:9899 
+2022-04-25 15:00:13,737 ERROR [239] ASC - Service Error: Unable to connect to the remote server,    at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.MakeRequest(String method, Object data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 318
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.FilesChangeEditors(Int32 tenantId, String fileId, Boolean finish) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 261, No connection could be made because the target machine actively refused it 127.0.0.1:9899 
+2022-04-25 15:05:22,707 ERROR [112] ASC - Service Error: Unable to connect to the remote server,    at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.MakeRequest(String method, Object data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 318
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.FilesChangeEditors(Int32 tenantId, String fileId, Boolean finish) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 261, No connection could be made because the target machine actively refused it 127.0.0.1:9899 
+2022-04-25 15:05:30,387 ERROR [137] ASC - Service Error: Unable to connect to the remote server,    at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.MakeRequest(String method, Object data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 318
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.FilesChangeEditors(Int32 tenantId, String fileId, Boolean finish) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 261, No connection could be made because the target machine actively refused it 127.0.0.1:9899 
+2022-04-25 15:13:48,909 ERROR [119] ASC - Service Error: Unable to connect to the remote server,    at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.MakeRequest(String method, Object data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 318
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.FilesChangeEditors(Int32 tenantId, String fileId, Boolean finish) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 261, No connection could be made because the target machine actively refused it 127.0.0.1:9899 
+2022-04-25 15:14:19,934 ERROR [248] ASC - Service Error: Unable to connect to the remote server,    at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.MakeRequest(String method, Object data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 318
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.FilesChangeEditors(Int32 tenantId, String fileId, Boolean finish) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 261, No connection could be made because the target machine actively refused it 127.0.0.1:9899 
+2022-04-25 15:14:46,154 ERROR [119] ASC - Service Error: Unable to connect to the remote server,    at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.MakeRequest(String method, Object data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 318
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.FilesChangeEditors(Int32 tenantId, String fileId, Boolean finish) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 261, No connection could be made because the target machine actively refused it 127.0.0.1:9899 
+2022-04-25 15:14:58,772 ERROR [253] ASC - Service Error: Unable to connect to the remote server,    at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.MakeRequest(String method, Object data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 318
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.FilesChangeEditors(Int32 tenantId, String fileId, Boolean finish) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 261, No connection could be made because the target machine actively refused it 127.0.0.1:9899 
+2022-04-25 15:15:09,022 ERROR [248] ASC - Service Error: Unable to connect to the remote server,    at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.MakeRequest(String method, Object data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 318
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.FilesChangeEditors(Int32 tenantId, String fileId, Boolean finish) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 261, No connection could be made because the target machine actively refused it 127.0.0.1:9899 
+2022-04-25 15:15:24,357 ERROR [248] ASC - Service Error: Unable to connect to the remote server,    at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.MakeRequest(String method, Object data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 318
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.FilesChangeEditors(Int32 tenantId, String fileId, Boolean finish) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 261, No connection could be made because the target machine actively refused it 127.0.0.1:9899 
+2022-04-25 15:15:24,654 ERROR [262] ASC - Service Error: Unable to connect to the remote server,    at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.MakeRequest(String method, Object data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 318
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.FilesChangeEditors(Int32 tenantId, String fileId, Boolean finish) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 261, No connection could be made because the target machine actively refused it 127.0.0.1:9899 
+2022-04-25 15:15:27,777 ERROR [119] ASC - Service Error: Unable to connect to the remote server,    at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.MakeRequest(String method, Object data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 318
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.FilesChangeEditors(Int32 tenantId, String fileId, Boolean finish) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 261, No connection could be made because the target machine actively refused it 127.0.0.1:9899 
+2022-04-25 15:15:34,800 ERROR [245] ASC - Service Error: Unable to connect to the remote server,    at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.MakeRequest(String method, Object data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 318
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.FilesChangeEditors(Int32 tenantId, String fileId, Boolean finish) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 261, No connection could be made because the target machine actively refused it 127.0.0.1:9899 
+2022-04-25 15:15:45,289 ERROR [248] ASC - Service Error: Unable to connect to the remote server,    at System.Net.WebClient.UploadDataInternal(Uri address, String method, Byte[] data, WebRequest& request)
+   at System.Net.WebClient.UploadString(Uri address, String method, String data)
+   at System.Net.WebClient.UploadString(String address, String data)
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.MakeRequest(String method, Object data) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 318
+   at ASC.Core.Notify.Signalr.SignalrServiceClient.FilesChangeEditors(Int32 tenantId, String fileId, Boolean finish) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Core.Common\Notify\Signalr\SignalrServiceClient.cs:line 261, No connection could be made because the target machine actively refused it 127.0.0.1:9899 

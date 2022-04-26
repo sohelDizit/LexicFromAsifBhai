@@ -1,0 +1,30 @@
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\callback.htm
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Api.MailServer.dll.config
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Api.MailServer.XML
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Api.MailServer.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Api.MailServer.pdb
+E:\CommunityServer\module\ASC.Api\ASC.Api.MailServer\obj\Debug\ASC.Api.MailServer.csprojAssemblyReference.cache
+E:\CommunityServer\module\ASC.Api\ASC.Api.MailServer\obj\Debug\ASC.Api.MailServer.csproj.CoreCompileInputs.cache
+E:\CommunityServer\module\ASC.Api\ASC.Api.MailServer\obj\Debug\ASC.Api.MailServer.csproj.CopyComplete
+E:\CommunityServer\module\ASC.Api\ASC.Api.MailServer\obj\Debug\ASC.Api.MailServer.dll
+E:\CommunityServer\module\ASC.Api\ASC.Api.MailServer\obj\Debug\ASC.Api.MailServer.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\callback.htm
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Api.MailServer.dll.config
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Api.MailServer.XML
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Api.MailServer.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Api.MailServer.pdb
+D:\EKT.AI\LEXIC-2.0\module\ASC.Api\ASC.Api.MailServer\obj\Debug\ASC.Api.MailServer.csprojAssemblyReference.cache
+D:\EKT.AI\LEXIC-2.0\module\ASC.Api\ASC.Api.MailServer\obj\Debug\ASC.Api.MailServer.csproj.CoreCompileInputs.cache
+D:\EKT.AI\LEXIC-2.0\module\ASC.Api\ASC.Api.MailServer\obj\Debug\ASC.Api.MailServer.csproj.CopyComplete
+D:\EKT.AI\LEXIC-2.0\module\ASC.Api\ASC.Api.MailServer\obj\Debug\ASC.Api.MailServer.dll
+D:\EKT.AI\LEXIC-2.0\module\ASC.Api\ASC.Api.MailServer\obj\Debug\ASC.Api.MailServer.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\callback.htm
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Api.MailServer.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Api.MailServer.XML
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Api.MailServer.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Api.MailServer.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Api\ASC.Api.MailServer\obj\Debug\ASC.Api.MailServer.csproj.AssemblyReference.cache
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Api\ASC.Api.MailServer\obj\Debug\ASC.Api.MailServer.csproj.CoreCompileInputs.cache
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Api\ASC.Api.MailServer\obj\Debug\ASC.Api.MailServer.csproj.CopyComplete
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Api\ASC.Api.MailServer\obj\Debug\ASC.Api.MailServer.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Api\ASC.Api.MailServer\obj\Debug\ASC.Api.MailServer.pdb

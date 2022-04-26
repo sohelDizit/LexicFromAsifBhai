@@ -1,0 +1,34 @@
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\ASC.Common.dll.config
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\ASC.Common.dll
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\ASC.Common.pdb
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailAggregator\ASC.Common.dll.config
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailAggregator\ASC.Common.dll
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailAggregator\ASC.Common.pdb
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailWatchdog\ASC.Common.dll.config
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailWatchdog\ASC.Common.dll
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailWatchdog\ASC.Common.pdb
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailCleaner\ASC.Common.dll.config
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailCleaner\ASC.Common.dll
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\MailCleaner\ASC.Common.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Common.dll.config
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Common.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Common.pdb
+E:\CommunityServer\common\ASC.Common\obj\Debug\ASC.Common.csproj.CoreCompileInputs.cache
+E:\CommunityServer\common\ASC.Common\obj\Debug\ASC.Common.csproj.CopyComplete
+E:\CommunityServer\common\ASC.Common\obj\Debug\ASC.Common.dll
+E:\CommunityServer\common\ASC.Common\obj\Debug\ASC.Common.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Common.dll.config
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Common.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Common.pdb
+D:\EKT.AI\LEXIC-2.0\common\ASC.Common\obj\Debug\ASC.Common.csprojAssemblyReference.cache
+D:\EKT.AI\LEXIC-2.0\common\ASC.Common\obj\Debug\ASC.Common.csproj.CoreCompileInputs.cache
+D:\EKT.AI\LEXIC-2.0\common\ASC.Common\obj\Debug\ASC.Common.csproj.CopyComplete
+D:\EKT.AI\LEXIC-2.0\common\ASC.Common\obj\Debug\ASC.Common.dll
+D:\EKT.AI\LEXIC-2.0\common\ASC.Common\obj\Debug\ASC.Common.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Common.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Common.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Common.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\obj\Debug\ASC.Common.csproj.CoreCompileInputs.cache
+E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\obj\Debug\ASC.Common.csproj.CopyComplete
+E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\obj\Debug\ASC.Common.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Common\obj\Debug\ASC.Common.pdb

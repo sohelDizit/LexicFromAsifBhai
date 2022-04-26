@@ -1,0 +1,630 @@
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\callback.htm
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.Web.Upload.dll.config
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.Web.Upload.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.Web.Upload.pdb
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\AjaxMin.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\AjaxPro.2.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\AntiXssLibrary.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\HtmlSanitizationLibrary.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Antlr3.Runtime.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Antlr3.Runtime.pdb
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\AppLimit.CloudComputing.SharpBox.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ARSoft.Tools.Net.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Autofac.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Autofac.pdb
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\AutoFixture.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\AutoFixture.pdb
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\AutoMapper.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\AutoMapper.pdb
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\AWSSDK.CloudFront.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\AWSSDK.CloudFront.pdb
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\AWSSDK.Core.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\AWSSDK.Core.pdb
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\AWSSDK.S3.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\AWSSDK.S3.pdb
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\AWSSDK.SecurityToken.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\AWSSDK.SecurityToken.pdb
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\AWSSDK.SimpleEmail.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\AWSSDK.SimpleEmail.pdb
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\bouncy_castle_hmac_sha_pcl.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Box.V2.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\DocuSign.eSign.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\dotless.AspNet.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\dotless.Core.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\DotNetOpenAuth.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\DotNetZip.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\DotNetZip.pdb
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Dropbox.Api.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Elasticsearch.Net.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Fare.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Flurl.Http.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Flurl.Http.pdb
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Flurl.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Flurl.pdb
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Google.Api.Gax.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Google.Api.Gax.pdb
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Google.Api.Gax.Rest.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Google.Api.Gax.Rest.pdb
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Google.Apis.PlatformServices.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Google.Apis.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Google.Apis.pdb
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Google.Apis.Auth.PlatformServices.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Google.Apis.Auth.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Google.Apis.Auth.pdb
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Google.Apis.Core.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Google.Apis.Core.pdb
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Google.Apis.Drive.v3.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Google.Apis.Drive.v3.pdb
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Google.Apis.Storage.v1.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Google.Apis.Storage.v1.pdb
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Google.Cloud.Storage.V1.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Google.Cloud.Storage.V1.pdb
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Google.Protobuf.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Google.Authenticator.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\HtmlAgilityPack.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\JWT.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\PhoneNumbers.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\log4net.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\LumenWorks.Framework.IO.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\LumenWorks.Framework.IO.pdb
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\MailKit.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Marvin.JsonPatch.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\System.Web.Mvc.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\System.Web.Razor.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\System.Web.Optimization.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\System.Net.Http.Formatting.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\System.Web.Http.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\System.Web.Http.WebHost.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\System.Web.Helpers.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\System.Web.WebPages.Deployment.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\System.Web.WebPages.Razor.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\System.Web.WebPages.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Microsoft.Extensions.DependencyInjection.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Microsoft.Graph.Core.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Microsoft.IdentityModel.Logging.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Microsoft.IdentityModel.Tokens.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Microsoft.OneDrive.Sdk.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Microsoft.Office.Client.Policy.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Microsoft.Office.Client.TranslationServices.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Microsoft.Office.SharePoint.Tools.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Microsoft.Online.SharePoint.Client.Tenant.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Microsoft.ProjectServer.Client.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Microsoft.SharePoint.Client.DocumentManagement.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Microsoft.SharePoint.Client.Publishing.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Microsoft.SharePoint.Client.Runtime.Windows.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Microsoft.SharePoint.Client.Runtime.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Microsoft.SharePoint.Client.Search.Applications.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Microsoft.SharePoint.Client.Search.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Microsoft.SharePoint.Client.Taxonomy.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Microsoft.SharePoint.Client.UserProfiles.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Microsoft.SharePoint.Client.WorkflowServices.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Microsoft.SharePoint.Client.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Microsoft.Web.Infrastructure.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\MimeKit.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Mono.Security.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\MySql.Data.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Nest.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Newtonsoft.Json.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Nito.AsyncEx.Concurrent.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Nito.AsyncEx.Enlightenment.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Nito.AsyncEx.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\NLog.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Novell.Directory.LDAP.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\nunit.framework.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\nunit.framework.pdb
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\NVelocity.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\openstacknet.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\openstacknet.pdb
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Pipelines.Sockets.Unofficial.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\BouncyCastle.Crypto.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Rackspace.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\RedisSessionProvider.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\RestSharp.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\SelectelSharp.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Renci.SshNet.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\StackExchange.Redis.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\StackExchange.Redis.Extensions.Core.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\StackExchange.Redis.Extensions.LegacyConfiguration.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\System.Buffers.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\System.Collections.Immutable.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\System.Diagnostics.DiagnosticSource.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\System.Diagnostics.PerformanceCounter.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\System.IO.Pipelines.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\System.Memory.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\System.Numerics.Vectors.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\System.Threading.Channels.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\System.Threading.Tasks.Extensions.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\System.ValueTuple.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Textile.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Twilio.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Twilio.AspNet.Common.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Twilio.AspNet.Mvc.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Twitterizer2.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\UAParser.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\Ubiety.Dns.Core.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\WebGrease.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.Common.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.Core.Common.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.Data.Storage.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.Files.Thirdparty.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.Web.Core.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.Web.CRM.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.Web.Files.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.Web.Projects.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.FederatedLogin.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.Web.Studio.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.VoipService.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.Api.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.Thrdparty.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.MessagingSystem.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.ElasticSearch.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.Feed.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.ActiveDirectory.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.IPSecurity.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.Common.pdb
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.Common.dll.config
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.Core.Common.pdb
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.Core.Common.dll.config
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.Data.Storage.pdb
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.Data.Storage.dll.config
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.Files.Thirdparty.pdb
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.Files.Thirdparty.dll.config
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.Web.Core.pdb
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.Web.Core.dll.config
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.Web.CRM.pdb
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.Web.CRM.dll.config
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.Web.Files.pdb
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.Web.Files.dll.config
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.Web.Projects.pdb
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.Web.Projects.dll.config
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.FederatedLogin.pdb
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.FederatedLogin.dll.config
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.Web.Studio.pdb
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.Web.Studio.dll.config
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.VoipService.pdb
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.VoipService.dll.config
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.Api.pdb
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.Api.dll.config
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.Thrdparty.pdb
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.Thrdparty.dll.config
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.MessagingSystem.pdb
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.MessagingSystem.dll.config
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.ElasticSearch.pdb
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.ElasticSearch.dll.config
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.Feed.pdb
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.Feed.dll.config
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.ActiveDirectory.pdb
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.ActiveDirectory.dll.config
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.IPSecurity.pdb
+E:\CommunityServer\web\studio\ASC.Web.Upload\bin\ASC.IPSecurity.dll.config
+E:\CommunityServer\web\studio\ASC.Web.Upload\obj\Debug\ASC.Web.Upload.csprojAssemblyReference.cache
+E:\CommunityServer\web\studio\ASC.Web.Upload\obj\Debug\ASC.Web.Upload.csproj.CoreCompileInputs.cache
+E:\CommunityServer\web\studio\ASC.Web.Upload\obj\Debug\ASC.Web.Upload.csproj.CopyComplete
+E:\CommunityServer\web\studio\ASC.Web.Upload\obj\Debug\ASC.Web.Upload.dll
+E:\CommunityServer\web\studio\ASC.Web.Upload\obj\Debug\ASC.Web.Upload.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\callback.htm
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.Web.Upload.dll.config
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.Web.Upload.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.Web.Upload.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\AjaxMin.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\AjaxPro.2.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\AntiXssLibrary.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\HtmlSanitizationLibrary.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Antlr3.Runtime.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Antlr3.Runtime.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\AppLimit.CloudComputing.SharpBox.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ARSoft.Tools.Net.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Autofac.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Autofac.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\AutoFixture.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\AutoFixture.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\AutoMapper.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\AutoMapper.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\AWSSDK.CloudFront.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\AWSSDK.CloudFront.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\AWSSDK.Core.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\AWSSDK.Core.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\AWSSDK.S3.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\AWSSDK.S3.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\AWSSDK.SecurityToken.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\AWSSDK.SecurityToken.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\AWSSDK.SimpleEmail.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\AWSSDK.SimpleEmail.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\bouncy_castle_hmac_sha_pcl.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Box.V2.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\DocuSign.eSign.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\dotless.AspNet.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\dotless.Core.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\DotNetOpenAuth.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\DotNetZip.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\DotNetZip.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Dropbox.Api.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Elasticsearch.Net.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Fare.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Flurl.Http.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Flurl.Http.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Flurl.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Flurl.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Google.Api.Gax.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Google.Api.Gax.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Google.Api.Gax.Rest.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Google.Api.Gax.Rest.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Google.Apis.PlatformServices.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Google.Apis.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Google.Apis.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Google.Apis.Auth.PlatformServices.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Google.Apis.Auth.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Google.Apis.Auth.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Google.Apis.Core.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Google.Apis.Core.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Google.Apis.Drive.v3.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Google.Apis.Drive.v3.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Google.Apis.Storage.v1.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Google.Apis.Storage.v1.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Google.Cloud.Storage.V1.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Google.Cloud.Storage.V1.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Google.Protobuf.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Google.Authenticator.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\HtmlAgilityPack.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\JWT.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\PhoneNumbers.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\log4net.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\LumenWorks.Framework.IO.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\LumenWorks.Framework.IO.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\MailKit.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Marvin.JsonPatch.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\System.Web.Mvc.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\System.Web.Razor.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\System.Web.Optimization.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\System.Net.Http.Formatting.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\System.Web.Http.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\System.Web.Http.WebHost.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\System.Web.Helpers.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\System.Web.WebPages.Deployment.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\System.Web.WebPages.Razor.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\System.Web.WebPages.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Microsoft.Graph.Core.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Microsoft.IdentityModel.Logging.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Microsoft.IdentityModel.Tokens.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Microsoft.OneDrive.Sdk.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Microsoft.Office.Client.Policy.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Microsoft.Office.Client.TranslationServices.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Microsoft.Office.SharePoint.Tools.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Microsoft.Online.SharePoint.Client.Tenant.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Microsoft.ProjectServer.Client.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Microsoft.SharePoint.Client.DocumentManagement.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Microsoft.SharePoint.Client.Publishing.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Microsoft.SharePoint.Client.Runtime.Windows.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Microsoft.SharePoint.Client.Runtime.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Microsoft.SharePoint.Client.Search.Applications.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Microsoft.SharePoint.Client.Search.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Microsoft.SharePoint.Client.Taxonomy.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Microsoft.SharePoint.Client.UserProfiles.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Microsoft.SharePoint.Client.WorkflowServices.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Microsoft.SharePoint.Client.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Microsoft.Web.Infrastructure.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\MimeKit.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Mono.Security.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\MySql.Data.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Nest.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Newtonsoft.Json.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Nito.AsyncEx.Concurrent.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Nito.AsyncEx.Enlightenment.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Nito.AsyncEx.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\NLog.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Novell.Directory.LDAP.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\nunit.framework.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\nunit.framework.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\NVelocity.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\openstacknet.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\openstacknet.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Pipelines.Sockets.Unofficial.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\BouncyCastle.Crypto.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Rackspace.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\RedisSessionProvider.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\RestSharp.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\SelectelSharp.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Renci.SshNet.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\StackExchange.Redis.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\StackExchange.Redis.Extensions.Core.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\StackExchange.Redis.Extensions.LegacyConfiguration.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\System.Buffers.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\System.Collections.Immutable.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\System.Diagnostics.DiagnosticSource.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\System.Diagnostics.PerformanceCounter.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\System.IO.Pipelines.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\System.Memory.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\System.Numerics.Vectors.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\System.Threading.Channels.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\System.Threading.Tasks.Extensions.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\System.ValueTuple.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Textile.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Twilio.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Twilio.AspNet.Common.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Twilio.AspNet.Mvc.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Twitterizer2.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\UAParser.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\Ubiety.Dns.Core.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\WebGrease.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.Common.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.Core.Common.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.Data.Storage.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.Files.Thirdparty.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.Web.Core.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.Web.CRM.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.Web.Files.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.Web.Projects.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.FederatedLogin.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.Web.Studio.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.VoipService.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.Api.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.Thrdparty.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.MessagingSystem.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.ElasticSearch.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.Feed.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.ActiveDirectory.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.IPSecurity.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.Common.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.Common.dll.config
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.Core.Common.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.Core.Common.dll.config
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.Data.Storage.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.Data.Storage.dll.config
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.Files.Thirdparty.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.Files.Thirdparty.dll.config
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.Web.Core.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.Web.Core.dll.config
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.Web.CRM.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.Web.CRM.dll.config
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.Web.Files.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.Web.Files.dll.config
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.Web.Projects.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.Web.Projects.dll.config
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.FederatedLogin.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.FederatedLogin.dll.config
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.Web.Studio.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.Web.Studio.dll.config
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.VoipService.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.VoipService.dll.config
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.Api.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.Api.dll.config
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.Thrdparty.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.Thrdparty.dll.config
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.MessagingSystem.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.MessagingSystem.dll.config
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.ElasticSearch.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.ElasticSearch.dll.config
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.Feed.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.Feed.dll.config
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.ActiveDirectory.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.ActiveDirectory.dll.config
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.IPSecurity.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\bin\ASC.IPSecurity.dll.config
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\obj\Debug\ASC.Web.Upload.csprojAssemblyReference.cache
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\obj\Debug\ASC.Web.Upload.csproj.CoreCompileInputs.cache
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\obj\Debug\ASC.Web.Upload.csproj.CopyComplete
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\obj\Debug\ASC.Web.Upload.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Upload\obj\Debug\ASC.Web.Upload.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\callback.htm
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.Web.Upload.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.Web.Upload.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.Web.Upload.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\AjaxMin.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\AjaxPro.2.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\AntiXssLibrary.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\HtmlSanitizationLibrary.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Antlr3.Runtime.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Antlr3.Runtime.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\AppLimit.CloudComputing.SharpBox.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ARSoft.Tools.Net.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Autofac.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Autofac.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\AutoFixture.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\AutoFixture.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\AutoMapper.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\AutoMapper.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\AWSSDK.CloudFront.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\AWSSDK.CloudFront.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\AWSSDK.Core.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\AWSSDK.Core.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\AWSSDK.S3.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\AWSSDK.S3.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\AWSSDK.SecurityToken.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\AWSSDK.SecurityToken.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\AWSSDK.SimpleEmail.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\AWSSDK.SimpleEmail.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\bouncy_castle_hmac_sha_pcl.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Box.V2.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\DocuSign.eSign.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\dotless.AspNet.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\dotless.Core.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\DotNetOpenAuth.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\DotNetZip.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\DotNetZip.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Dropbox.Api.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Elasticsearch.Net.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Fare.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Flurl.Http.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Flurl.Http.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Flurl.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Flurl.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Google.Api.Gax.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Google.Api.Gax.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Google.Api.Gax.Rest.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Google.Api.Gax.Rest.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Google.Apis.PlatformServices.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Google.Apis.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Google.Apis.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Google.Apis.Auth.PlatformServices.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Google.Apis.Auth.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Google.Apis.Auth.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Google.Apis.Core.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Google.Apis.Core.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Google.Apis.Drive.v3.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Google.Apis.Drive.v3.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Google.Apis.Storage.v1.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Google.Apis.Storage.v1.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Google.Cloud.Storage.V1.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Google.Cloud.Storage.V1.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Google.Protobuf.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Google.Authenticator.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\HtmlAgilityPack.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\JWT.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\PhoneNumbers.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\log4net.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\LumenWorks.Framework.IO.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\LumenWorks.Framework.IO.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\MailKit.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Marvin.JsonPatch.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\System.Web.Mvc.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\System.Web.Razor.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\System.Web.Optimization.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\System.Net.Http.Formatting.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\System.Web.Http.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\System.Web.Http.WebHost.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\System.Web.Helpers.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\System.Web.WebPages.Deployment.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\System.Web.WebPages.Razor.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\System.Web.WebPages.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Microsoft.Extensions.DependencyInjection.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Microsoft.Graph.Core.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Microsoft.IdentityModel.Logging.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Microsoft.IdentityModel.Tokens.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Microsoft.OneDrive.Sdk.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Microsoft.Office.Client.Policy.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Microsoft.Office.Client.TranslationServices.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Microsoft.Office.SharePoint.Tools.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Microsoft.Online.SharePoint.Client.Tenant.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Microsoft.ProjectServer.Client.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Microsoft.SharePoint.Client.DocumentManagement.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Microsoft.SharePoint.Client.Publishing.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Microsoft.SharePoint.Client.Runtime.Windows.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Microsoft.SharePoint.Client.Runtime.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Microsoft.SharePoint.Client.Search.Applications.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Microsoft.SharePoint.Client.Search.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Microsoft.SharePoint.Client.Taxonomy.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Microsoft.SharePoint.Client.UserProfiles.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Microsoft.SharePoint.Client.WorkflowServices.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Microsoft.SharePoint.Client.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Microsoft.Web.Infrastructure.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\MimeKit.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Mono.Security.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\MySql.Data.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Nest.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Newtonsoft.Json.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Nito.AsyncEx.Concurrent.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Nito.AsyncEx.Enlightenment.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Nito.AsyncEx.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\NLog.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Novell.Directory.LDAP.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\nunit.framework.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\nunit.framework.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\NVelocity.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\openstacknet.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\openstacknet.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Pipelines.Sockets.Unofficial.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\BouncyCastle.Crypto.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Rackspace.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\RedisSessionProvider.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\RestSharp.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\SelectelSharp.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Renci.SshNet.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\StackExchange.Redis.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\StackExchange.Redis.Extensions.Core.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\StackExchange.Redis.Extensions.LegacyConfiguration.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\System.Buffers.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\System.Collections.Immutable.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\System.Diagnostics.PerformanceCounter.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\System.IO.Pipelines.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\System.Memory.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\System.Numerics.Vectors.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\System.Threading.Channels.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\System.Threading.Tasks.Extensions.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\System.ValueTuple.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Textile.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Twilio.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Twilio.AspNet.Common.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Twilio.AspNet.Mvc.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Twitterizer2.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\UAParser.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\Ubiety.Dns.Core.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\WebGrease.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.Common.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.Core.Common.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.Data.Storage.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.Files.Thirdparty.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.Web.Core.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.Web.CRM.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.Web.Files.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.Web.Projects.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.FederatedLogin.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.Web.Studio.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.VoipService.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.Api.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.Thrdparty.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.MessagingSystem.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.ElasticSearch.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.Feed.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.ActiveDirectory.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.IPSecurity.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.Common.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.Common.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.Core.Common.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.Core.Common.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.Data.Storage.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.Data.Storage.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.Files.Thirdparty.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.Files.Thirdparty.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.Web.Core.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.Web.Core.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.Web.CRM.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.Web.CRM.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.Web.Files.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.Web.Files.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.Web.Projects.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.Web.Projects.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.FederatedLogin.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.FederatedLogin.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.Web.Studio.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.Web.Studio.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.VoipService.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.VoipService.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.Api.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.Api.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.Thrdparty.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.Thrdparty.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.MessagingSystem.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.MessagingSystem.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.ElasticSearch.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.ElasticSearch.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.Feed.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.Feed.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.ActiveDirectory.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.ActiveDirectory.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.IPSecurity.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\bin\ASC.IPSecurity.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\obj\Debug\ASC.Web.Upload.csproj.AssemblyReference.cache
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\obj\Debug\ASC.Web.Upload.csproj.CoreCompileInputs.cache
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\obj\Debug\ASC.Web.Upload.csproj.CopyComplete
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\obj\Debug\ASC.Web.Upload.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Upload\obj\Debug\ASC.Web.Upload.pdb

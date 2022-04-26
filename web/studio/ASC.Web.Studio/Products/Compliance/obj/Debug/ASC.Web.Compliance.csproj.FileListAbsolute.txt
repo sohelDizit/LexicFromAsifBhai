@@ -1,0 +1,8 @@
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Compliance\obj\Debug\ASC.Web.Compliance.csprojAssemblyReference.cache
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Compliance\obj\Debug\ASC.Web.Compliance.Resources.ComplianceResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Compliance\obj\Debug\ASC.Web.Compliance.csproj.GenerateResource.cache
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Compliance\obj\Debug\ASC.Web.Compliance.csproj.CoreCompileInputs.cache
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Compliance\obj\Debug\ASC.Web.Compliance.csproj.AssemblyReference.cache
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Compliance\obj\Debug\ASC.Web.Compliance.Resources.ComplianceResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Compliance\obj\Debug\ASC.Web.Compliance.csproj.GenerateResource.cache
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Compliance\obj\Debug\ASC.Web.Compliance.csproj.CoreCompileInputs.cache

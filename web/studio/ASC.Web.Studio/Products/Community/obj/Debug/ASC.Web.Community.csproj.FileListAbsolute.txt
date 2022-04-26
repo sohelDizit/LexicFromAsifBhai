@@ -1,0 +1,100 @@
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\callback.htm
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\ASC.Web.Community.dll.config
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\ASC.Web.Community.dll
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\ASC.Web.Community.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\callback.htm
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Web.Community.dll.config
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Web.Community.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Web.Community.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.csprojAssemblyReference.cache
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Birthdays.Resources.BirthdayPatternResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Birthdays.Resources.BirthdaysResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Blogs.Core.Resources.BlogsResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Blogs.Core.Service.BlogPatternResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Blogs.Core.Service.BlogPatternsResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Bookmarking.Core.Patterns.BookmarkingPatternResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Bookmarking.Core.Resources.BookmarkingBusinessResources.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Bookmarking.Core.Resources.BookmarkingSubscriptionPatterns.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Bookmarking.Resources.BookmarkingResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Bookmarking.UserControls.Resources.BookmarkingUCResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Forum.Core.Module.ForumPatternResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Forum.Core.Module.Patterns.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Forum.Resources.ForumResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Forum.UserControls.Resources.ForumUCResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.News.Resources.NewsResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.News.Resources.NewsPatternsResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.News.Resources.NewsPatternResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Wiki.Resources.WikiUCResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Wiki.Resources.WikiResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Wiki.Code.Patterns.WikiPatternsResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Wiki.Code.Patterns.WikiPatternResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Resources.CommunityResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.csproj.GenerateResource.cache
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.csproj.CoreCompileInputs.cache
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.csproj.CopyComplete
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\callback.htm
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Web.Community.dll.config
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Web.Community.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Web.Community.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.csprojAssemblyReference.cache
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Birthdays.Resources.BirthdayPatternResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Birthdays.Resources.BirthdaysResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Blogs.Core.Resources.BlogsResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Blogs.Core.Service.BlogPatternResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Blogs.Core.Service.BlogPatternsResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Bookmarking.Core.Patterns.BookmarkingPatternResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Bookmarking.Core.Resources.BookmarkingBusinessResources.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Bookmarking.Core.Resources.BookmarkingSubscriptionPatterns.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Bookmarking.Resources.BookmarkingResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Bookmarking.UserControls.Resources.BookmarkingUCResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Forum.Core.Module.ForumPatternResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Forum.Core.Module.Patterns.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Forum.Resources.ForumResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Forum.UserControls.Resources.ForumUCResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.News.Resources.NewsResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.News.Resources.NewsPatternsResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.News.Resources.NewsPatternResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Wiki.Resources.WikiUCResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Wiki.Resources.WikiResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Wiki.Code.Patterns.WikiPatternsResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Wiki.Code.Patterns.WikiPatternResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Resources.CommunityResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.csproj.GenerateResource.cache
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.csproj.CoreCompileInputs.cache
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.csproj.CopyComplete
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\callback.htm
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Web.Community.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Web.Community.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Web.Community.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.csproj.AssemblyReference.cache
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Birthdays.Resources.BirthdayPatternResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Birthdays.Resources.BirthdaysResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Blogs.Core.Resources.BlogsResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Blogs.Core.Service.BlogPatternResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Blogs.Core.Service.BlogPatternsResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Bookmarking.Core.Patterns.BookmarkingPatternResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Bookmarking.Core.Resources.BookmarkingBusinessResources.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Bookmarking.Core.Resources.BookmarkingSubscriptionPatterns.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Bookmarking.Resources.BookmarkingResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Bookmarking.UserControls.Resources.BookmarkingUCResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Forum.Core.Module.ForumPatternResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Forum.Core.Module.Patterns.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Forum.Resources.ForumResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Forum.UserControls.Resources.ForumUCResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.News.Resources.NewsResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.News.Resources.NewsPatternsResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.News.Resources.NewsPatternResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Wiki.Resources.WikiUCResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Wiki.Resources.WikiResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Wiki.Code.Patterns.WikiPatternsResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Wiki.Code.Patterns.WikiPatternResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Resources.CommunityResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.csproj.GenerateResource.cache
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.csproj.CoreCompileInputs.cache
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.csproj.CopyComplete
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.pdb

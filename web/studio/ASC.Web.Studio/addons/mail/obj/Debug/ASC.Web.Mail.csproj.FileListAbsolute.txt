@@ -1,0 +1,55 @@
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\callback.htm
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\ASC.Web.Mail.dll.config
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\ASC.Web.Mail.dll
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\ASC.Web.Mail.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\callback.htm
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Web.Mail.dll.config
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Web.Mail.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Web.Mail.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\addons\mail\obj\Debug\ASC.Web.Mail.csprojAssemblyReference.cache
+E:\CommunityServer\web\studio\ASC.Web.Studio\addons\mail\obj\Debug\ASC.Web.Mail.Resources.MailAdministrationResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\addons\mail\obj\Debug\ASC.Web.Mail.Resources.MailActionCompleteResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\addons\mail\obj\Debug\ASC.Web.Mail.Resources.MailApiErrorsResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\addons\mail\obj\Debug\ASC.Web.Mail.Resources.MailApiResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\addons\mail\obj\Debug\ASC.Web.Mail.Resources.MailAttachmentsResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\addons\mail\obj\Debug\ASC.Web.Mail.Resources.MailResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\addons\mail\obj\Debug\ASC.Web.Mail.Resources.MailScriptResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\addons\mail\obj\Debug\ASC.Web.Mail.csproj.GenerateResource.cache
+E:\CommunityServer\web\studio\ASC.Web.Studio\addons\mail\obj\Debug\ASC.Web.Mail.csproj.CoreCompileInputs.cache
+E:\CommunityServer\web\studio\ASC.Web.Studio\addons\mail\obj\Debug\ASC.Web.Mail.csproj.CopyComplete
+E:\CommunityServer\web\studio\ASC.Web.Studio\addons\mail\obj\Debug\ASC.Web.Mail.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\addons\mail\obj\Debug\ASC.Web.Mail.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\callback.htm
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Web.Mail.dll.config
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Web.Mail.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Web.Mail.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\addons\mail\obj\Debug\ASC.Web.Mail.csprojAssemblyReference.cache
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\addons\mail\obj\Debug\ASC.Web.Mail.Resources.MailAdministrationResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\addons\mail\obj\Debug\ASC.Web.Mail.Resources.MailActionCompleteResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\addons\mail\obj\Debug\ASC.Web.Mail.Resources.MailApiErrorsResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\addons\mail\obj\Debug\ASC.Web.Mail.Resources.MailApiResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\addons\mail\obj\Debug\ASC.Web.Mail.Resources.MailAttachmentsResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\addons\mail\obj\Debug\ASC.Web.Mail.Resources.MailResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\addons\mail\obj\Debug\ASC.Web.Mail.Resources.MailScriptResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\addons\mail\obj\Debug\ASC.Web.Mail.csproj.GenerateResource.cache
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\addons\mail\obj\Debug\ASC.Web.Mail.csproj.CoreCompileInputs.cache
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\addons\mail\obj\Debug\ASC.Web.Mail.csproj.CopyComplete
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\addons\mail\obj\Debug\ASC.Web.Mail.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\addons\mail\obj\Debug\ASC.Web.Mail.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\callback.htm
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Web.Mail.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Web.Mail.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Web.Mail.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\addons\mail\obj\Debug\ASC.Web.Mail.csproj.AssemblyReference.cache
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\addons\mail\obj\Debug\ASC.Web.Mail.Resources.MailAdministrationResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\addons\mail\obj\Debug\ASC.Web.Mail.Resources.MailActionCompleteResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\addons\mail\obj\Debug\ASC.Web.Mail.Resources.MailApiErrorsResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\addons\mail\obj\Debug\ASC.Web.Mail.Resources.MailApiResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\addons\mail\obj\Debug\ASC.Web.Mail.Resources.MailAttachmentsResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\addons\mail\obj\Debug\ASC.Web.Mail.Resources.MailResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\addons\mail\obj\Debug\ASC.Web.Mail.Resources.MailScriptResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\addons\mail\obj\Debug\ASC.Web.Mail.csproj.GenerateResource.cache
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\addons\mail\obj\Debug\ASC.Web.Mail.csproj.CoreCompileInputs.cache
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\addons\mail\obj\Debug\ASC.Web.Mail.csproj.CopyComplete
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\addons\mail\obj\Debug\ASC.Web.Mail.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\addons\mail\obj\Debug\ASC.Web.Mail.pdb

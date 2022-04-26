@@ -1,0 +1,256 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Project\\LexicFromAsifBhai\\module\\ASC.MessagingSystem\\ASC.MessagingSystem.csproj": {}
+  },
+  "projects": {
+    "E:\\Project\\LexicFromAsifBhai\\common\\ASC.Common\\ASC.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Project\\LexicFromAsifBhai\\common\\ASC.Common\\ASC.Common.csproj",
+        "projectName": "ASC.Common",
+        "projectPath": "E:\\Project\\LexicFromAsifBhai\\common\\ASC.Common\\ASC.Common.csproj",
+        "packagesPath": "C:\\Users\\Dizit\\.nuget\\packages\\",
+        "outputPath": "E:\\Project\\LexicFromAsifBhai\\common\\ASC.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "E:\\Project\\LexicFromAsifBhai\\NuGet.Config",
+          "C:\\Users\\Dizit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "ARSoft.Tools.Net": {
+              "target": "Package",
+              "version": "[2.2.9, )"
+            },
+            "Autofac": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
+            "HtmlAgilityPack": {
+              "target": "Package",
+              "version": "[1.6.0.1, )"
+            },
+            "Microsoft.AspNetCore.Cryptography.KeyDerivation": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.19, )"
+            },
+            "NLog": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "NVelocity": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.0.519, )"
+            },
+            "StackExchange.Redis.Extensions.LegacyConfiguration": {
+              "target": "Package",
+              "version": "[4.0.5, )"
+            },
+            "System.Buffers": {
+              "target": "Package",
+              "version": "[4.5.1, )"
+            },
+            "System.Memory": {
+              "target": "Package",
+              "version": "[4.5.3, )"
+            },
+            "Ubiety.Dns.Core": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.8, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "E:\\Project\\LexicFromAsifBhai\\common\\ASC.Core.Common\\ASC.Core.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Project\\LexicFromAsifBhai\\common\\ASC.Core.Common\\ASC.Core.Common.csproj",
+        "projectName": "ASC.Core.Common",
+        "projectPath": "E:\\Project\\LexicFromAsifBhai\\common\\ASC.Core.Common\\ASC.Core.Common.csproj",
+        "packagesPath": "C:\\Users\\Dizit\\.nuget\\packages\\",
+        "outputPath": "E:\\Project\\LexicFromAsifBhai\\common\\ASC.Core.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "E:\\Project\\LexicFromAsifBhai\\NuGet.Config",
+          "C:\\Users\\Dizit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "E:\\Project\\LexicFromAsifBhai\\common\\ASC.Common\\ASC.Common.csproj": {
+                "projectPath": "E:\\Project\\LexicFromAsifBhai\\common\\ASC.Common\\ASC.Common.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "AWSSDK.CloudFront": {
+              "target": "Package",
+              "version": "[3.3.101.126, )"
+            },
+            "AWSSDK.S3": {
+              "target": "Package",
+              "version": "[3.3.110.50, )"
+            },
+            "AWSSDK.SimpleEmail": {
+              "target": "Package",
+              "version": "[3.3.101.130, )"
+            },
+            "Autofac": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
+            "MailKit": {
+              "target": "Package",
+              "version": "[2.5.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "System.Security.Cryptography.X509Certificates": {
+              "target": "Package",
+              "version": "[4.3.2, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "E:\\Project\\LexicFromAsifBhai\\module\\ASC.MessagingSystem\\ASC.MessagingSystem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Project\\LexicFromAsifBhai\\module\\ASC.MessagingSystem\\ASC.MessagingSystem.csproj",
+        "projectName": "ASC.MessagingSystem",
+        "projectPath": "E:\\Project\\LexicFromAsifBhai\\module\\ASC.MessagingSystem\\ASC.MessagingSystem.csproj",
+        "packagesPath": "C:\\Users\\Dizit\\.nuget\\packages\\",
+        "outputPath": "E:\\Project\\LexicFromAsifBhai\\module\\ASC.MessagingSystem\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "E:\\Project\\LexicFromAsifBhai\\NuGet.Config",
+          "C:\\Users\\Dizit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "E:\\Project\\LexicFromAsifBhai\\common\\ASC.Common\\ASC.Common.csproj": {
+                "projectPath": "E:\\Project\\LexicFromAsifBhai\\common\\ASC.Common\\ASC.Common.csproj"
+              },
+              "E:\\Project\\LexicFromAsifBhai\\common\\ASC.Core.Common\\ASC.Core.Common.csproj": {
+                "projectPath": "E:\\Project\\LexicFromAsifBhai\\common\\ASC.Core.Common\\ASC.Core.Common.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "UAParser": {
+              "target": "Package",
+              "version": "[3.1.44, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

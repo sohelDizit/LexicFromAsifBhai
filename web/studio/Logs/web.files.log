@@ -1,0 +1,68 @@
+2022-04-25 12:38:42,636 ERROR [79] ASC.Files - Error for: http://localhost:55421/Products/Files/HttpHandlers/filehandler.ashx?action=stream&fileid=4928&stream_auth=388564716723.MZ28PL5AGGUOKE2KZ56XEK2UG9IB25JGNWSDL5NRVQ&X-REWRITER-URL=http:%2F%2Flocalhost:55421 System.IO.FileNotFoundException: File not found
+File name: 'E:\Project\LexicFromAsifBhai\web\studio\Data\Products\Files\00\00\01\folder_5000\file_4928\v2\content.pptx'
+   at ASC.Data.Storage.DiscStorage.DiscDataStore.GetReadStream(String domain, String path, Int32 offset) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Data.Storage\DiscStorage\DiscDataStore.cs:line 107
+   at ASC.Files.Core.Data.FileDao.GetFileStream(File file, Int64 offset) in E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Files\Core\Dao\TeamlabDao\FileDao.cs:line 270
+   at ASC.Files.Thirdparty.ProviderDao.ProviderFileDao.GetFileStream(File file, Int64 offset) in E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Files.Thirdparty\ProviderDao\ProviderFileDao.cs:line 211
+   at ASC.Files.Thirdparty.ProviderDao.ProviderFileDao.GetFileStream(File file) in E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Files.Thirdparty\ProviderDao\ProviderFileDao.cs:line 193
+   at ASC.Web.Files.FileHandler.StreamFile(HttpContext context) in E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Files\HttpHandlers\FileHandler.ashx.cs:line 555
+2022-04-25 12:38:44,167 ERROR [77] ASC.Files - Error for: http://localhost:55421/Products/Files/HttpHandlers/filehandler.ashx?action=stream&fileid=4928&stream_auth=388564716723.MZ28PL5AGGUOKE2KZ56XEK2UG9IB25JGNWSDL5NRVQ&X-REWRITER-URL=http:%2F%2Flocalhost:55421 System.IO.FileNotFoundException: File not found
+File name: 'E:\Project\LexicFromAsifBhai\web\studio\Data\Products\Files\00\00\01\folder_5000\file_4928\v2\content.pptx'
+   at ASC.Data.Storage.DiscStorage.DiscDataStore.GetReadStream(String domain, String path, Int32 offset) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Data.Storage\DiscStorage\DiscDataStore.cs:line 107
+   at ASC.Files.Core.Data.FileDao.GetFileStream(File file, Int64 offset) in E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Files\Core\Dao\TeamlabDao\FileDao.cs:line 270
+   at ASC.Files.Thirdparty.ProviderDao.ProviderFileDao.GetFileStream(File file, Int64 offset) in E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Files.Thirdparty\ProviderDao\ProviderFileDao.cs:line 211
+   at ASC.Files.Thirdparty.ProviderDao.ProviderFileDao.GetFileStream(File file) in E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Files.Thirdparty\ProviderDao\ProviderFileDao.cs:line 193
+   at ASC.Web.Files.FileHandler.StreamFile(HttpContext context) in E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Files\HttpHandlers\FileHandler.ashx.cs:line 555
+2022-04-25 12:38:45,953 ERROR [59] ASC.Files - Error for: http://localhost:55421/Products/Files/HttpHandlers/filehandler.ashx?action=stream&fileid=4928&stream_auth=388564716723.MZ28PL5AGGUOKE2KZ56XEK2UG9IB25JGNWSDL5NRVQ&X-REWRITER-URL=http:%2F%2Flocalhost:55421 System.IO.FileNotFoundException: File not found
+File name: 'E:\Project\LexicFromAsifBhai\web\studio\Data\Products\Files\00\00\01\folder_5000\file_4928\v2\content.pptx'
+   at ASC.Data.Storage.DiscStorage.DiscDataStore.GetReadStream(String domain, String path, Int32 offset) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Data.Storage\DiscStorage\DiscDataStore.cs:line 107
+   at ASC.Files.Core.Data.FileDao.GetFileStream(File file, Int64 offset) in E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Files\Core\Dao\TeamlabDao\FileDao.cs:line 270
+   at ASC.Files.Thirdparty.ProviderDao.ProviderFileDao.GetFileStream(File file, Int64 offset) in E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Files.Thirdparty\ProviderDao\ProviderFileDao.cs:line 211
+   at ASC.Files.Thirdparty.ProviderDao.ProviderFileDao.GetFileStream(File file) in E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Files.Thirdparty\ProviderDao\ProviderFileDao.cs:line 193
+   at ASC.Web.Files.FileHandler.StreamFile(HttpContext context) in E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Files\HttpHandlers\FileHandler.ashx.cs:line 555
+2022-04-25 14:53:51,704 ERROR [239] ASC.Files - Error for: http://localhost:55421/Products/Files/HttpHandlers/filehandler.ashx?action=stream&fileid=4928&stream_auth=388572829007.2NUSJUVW04L5ETZKIVHG2JHBYDJGYTRMBKC958ZMK&X-REWRITER-URL=http:%2F%2Flocalhost:55421 System.IO.FileNotFoundException: File not found
+File name: 'E:\Project\LexicFromAsifBhai\web\studio\Data\Products\Files\00\00\01\folder_5000\file_4928\v2\content.pptx'
+   at ASC.Data.Storage.DiscStorage.DiscDataStore.GetReadStream(String domain, String path, Int32 offset) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Data.Storage\DiscStorage\DiscDataStore.cs:line 107
+   at ASC.Files.Core.Data.FileDao.GetFileStream(File file, Int64 offset) in E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Files\Core\Dao\TeamlabDao\FileDao.cs:line 270
+   at ASC.Files.Thirdparty.ProviderDao.ProviderFileDao.GetFileStream(File file, Int64 offset) in E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Files.Thirdparty\ProviderDao\ProviderFileDao.cs:line 211
+   at ASC.Files.Thirdparty.ProviderDao.ProviderFileDao.GetFileStream(File file) in E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Files.Thirdparty\ProviderDao\ProviderFileDao.cs:line 193
+   at ASC.Web.Files.FileHandler.StreamFile(HttpContext context) in E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Files\HttpHandlers\FileHandler.ashx.cs:line 555
+2022-04-25 14:53:53,332 ERROR [139] ASC.Files - Error for: http://localhost:55421/Products/Files/HttpHandlers/filehandler.ashx?action=stream&fileid=4928&stream_auth=388572829007.2NUSJUVW04L5ETZKIVHG2JHBYDJGYTRMBKC958ZMK&X-REWRITER-URL=http:%2F%2Flocalhost:55421 System.IO.FileNotFoundException: File not found
+File name: 'E:\Project\LexicFromAsifBhai\web\studio\Data\Products\Files\00\00\01\folder_5000\file_4928\v2\content.pptx'
+   at ASC.Data.Storage.DiscStorage.DiscDataStore.GetReadStream(String domain, String path, Int32 offset) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Data.Storage\DiscStorage\DiscDataStore.cs:line 107
+   at ASC.Files.Core.Data.FileDao.GetFileStream(File file, Int64 offset) in E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Files\Core\Dao\TeamlabDao\FileDao.cs:line 270
+   at ASC.Files.Thirdparty.ProviderDao.ProviderFileDao.GetFileStream(File file, Int64 offset) in E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Files.Thirdparty\ProviderDao\ProviderFileDao.cs:line 211
+   at ASC.Files.Thirdparty.ProviderDao.ProviderFileDao.GetFileStream(File file) in E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Files.Thirdparty\ProviderDao\ProviderFileDao.cs:line 193
+   at ASC.Web.Files.FileHandler.StreamFile(HttpContext context) in E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Files\HttpHandlers\FileHandler.ashx.cs:line 555
+2022-04-25 14:53:54,364 ERROR [259] ASC.Files - Error for: http://localhost:55421/Products/Files/HttpHandlers/filehandler.ashx?action=stream&fileid=4928&stream_auth=388572829007.2NUSJUVW04L5ETZKIVHG2JHBYDJGYTRMBKC958ZMK&X-REWRITER-URL=http:%2F%2Flocalhost:55421 System.IO.FileNotFoundException: File not found
+File name: 'E:\Project\LexicFromAsifBhai\web\studio\Data\Products\Files\00\00\01\folder_5000\file_4928\v2\content.pptx'
+   at ASC.Data.Storage.DiscStorage.DiscDataStore.GetReadStream(String domain, String path, Int32 offset) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Data.Storage\DiscStorage\DiscDataStore.cs:line 107
+   at ASC.Files.Core.Data.FileDao.GetFileStream(File file, Int64 offset) in E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Files\Core\Dao\TeamlabDao\FileDao.cs:line 270
+   at ASC.Files.Thirdparty.ProviderDao.ProviderFileDao.GetFileStream(File file, Int64 offset) in E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Files.Thirdparty\ProviderDao\ProviderFileDao.cs:line 211
+   at ASC.Files.Thirdparty.ProviderDao.ProviderFileDao.GetFileStream(File file) in E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Files.Thirdparty\ProviderDao\ProviderFileDao.cs:line 193
+   at ASC.Web.Files.FileHandler.StreamFile(HttpContext context) in E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Files\HttpHandlers\FileHandler.ashx.cs:line 555
+2022-04-25 14:54:05,963 ERROR [239] ASC.Files - Download file error. File is not exist on storage. File id: 4928. 
+2022-04-25 14:54:26,845 ERROR [138] ASC.Files - Download file error. File is not exist on storage. File id: 4928. 
+2022-04-25 14:54:34,618 ERROR [138] ASC.Files - Download file error. File is not exist on storage. File id: 4928. 
+2022-04-25 14:55:42,329 ERROR [259] ASC.Files - Download file error. File is not exist on storage. File id: 4928. 
+2022-04-25 14:58:08,958 ERROR [259] ASC.Files - Download file error. File is not exist on storage. File id: 4928. 
+2022-04-25 15:00:05,783 ERROR [275] ASC.Files - Error for: http://localhost:55421/Products/Files/HttpHandlers/filehandler.ashx?action=stream&fileid=4928&stream_auth=388573203050.E2FGQEZLJFNGCHZEBEIJTLZLW03JANTKHDNDUM5U&X-REWRITER-URL=http:%2F%2Flocalhost:55421 System.IO.FileNotFoundException: File not found
+File name: 'E:\Project\LexicFromAsifBhai\web\studio\Data\Products\Files\00\00\01\folder_5000\file_4928\v2\content.pptx'
+   at ASC.Data.Storage.DiscStorage.DiscDataStore.GetReadStream(String domain, String path, Int32 offset) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Data.Storage\DiscStorage\DiscDataStore.cs:line 107
+   at ASC.Files.Core.Data.FileDao.GetFileStream(File file, Int64 offset) in E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Files\Core\Dao\TeamlabDao\FileDao.cs:line 270
+   at ASC.Files.Thirdparty.ProviderDao.ProviderFileDao.GetFileStream(File file, Int64 offset) in E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Files.Thirdparty\ProviderDao\ProviderFileDao.cs:line 211
+   at ASC.Files.Thirdparty.ProviderDao.ProviderFileDao.GetFileStream(File file) in E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Files.Thirdparty\ProviderDao\ProviderFileDao.cs:line 193
+   at ASC.Web.Files.FileHandler.StreamFile(HttpContext context) in E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Files\HttpHandlers\FileHandler.ashx.cs:line 555
+2022-04-25 15:00:07,220 ERROR [239] ASC.Files - Error for: http://localhost:55421/Products/Files/HttpHandlers/filehandler.ashx?action=stream&fileid=4928&stream_auth=388573203050.E2FGQEZLJFNGCHZEBEIJTLZLW03JANTKHDNDUM5U&X-REWRITER-URL=http:%2F%2Flocalhost:55421 System.IO.FileNotFoundException: File not found
+File name: 'E:\Project\LexicFromAsifBhai\web\studio\Data\Products\Files\00\00\01\folder_5000\file_4928\v2\content.pptx'
+   at ASC.Data.Storage.DiscStorage.DiscDataStore.GetReadStream(String domain, String path, Int32 offset) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Data.Storage\DiscStorage\DiscDataStore.cs:line 107
+   at ASC.Files.Core.Data.FileDao.GetFileStream(File file, Int64 offset) in E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Files\Core\Dao\TeamlabDao\FileDao.cs:line 270
+   at ASC.Files.Thirdparty.ProviderDao.ProviderFileDao.GetFileStream(File file, Int64 offset) in E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Files.Thirdparty\ProviderDao\ProviderFileDao.cs:line 211
+   at ASC.Files.Thirdparty.ProviderDao.ProviderFileDao.GetFileStream(File file) in E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Files.Thirdparty\ProviderDao\ProviderFileDao.cs:line 193
+   at ASC.Web.Files.FileHandler.StreamFile(HttpContext context) in E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Files\HttpHandlers\FileHandler.ashx.cs:line 555
+2022-04-25 15:00:08,319 ERROR [230] ASC.Files - Error for: http://localhost:55421/Products/Files/HttpHandlers/filehandler.ashx?action=stream&fileid=4928&stream_auth=388573203050.E2FGQEZLJFNGCHZEBEIJTLZLW03JANTKHDNDUM5U&X-REWRITER-URL=http:%2F%2Flocalhost:55421 System.IO.FileNotFoundException: File not found
+File name: 'E:\Project\LexicFromAsifBhai\web\studio\Data\Products\Files\00\00\01\folder_5000\file_4928\v2\content.pptx'
+   at ASC.Data.Storage.DiscStorage.DiscDataStore.GetReadStream(String domain, String path, Int32 offset) in E:\Lexic From Asif vai\LEXIC-2.0-main\common\ASC.Data.Storage\DiscStorage\DiscDataStore.cs:line 107
+   at ASC.Files.Core.Data.FileDao.GetFileStream(File file, Int64 offset) in E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Files\Core\Dao\TeamlabDao\FileDao.cs:line 270
+   at ASC.Files.Thirdparty.ProviderDao.ProviderFileDao.GetFileStream(File file, Int64 offset) in E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Files.Thirdparty\ProviderDao\ProviderFileDao.cs:line 211
+   at ASC.Files.Thirdparty.ProviderDao.ProviderFileDao.GetFileStream(File file) in E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Files.Thirdparty\ProviderDao\ProviderFileDao.cs:line 193
+   at ASC.Web.Files.FileHandler.StreamFile(HttpContext context) in E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Files\HttpHandlers\FileHandler.ashx.cs:line 555

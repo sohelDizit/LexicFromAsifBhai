@@ -1,0 +1,85 @@
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\callback.htm
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\ASC.Web.Projects.dll.config
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\ASC.Web.Projects.dll
+E:\CommunityServer\build\deploy\OPENSOURCE.SERVER\Services\TeamLabSvc\ASC.Web.Projects.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\callback.htm
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Web.Projects.dll.config
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Web.Projects.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\bin\ASC.Web.Projects.pdb
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.csprojAssemblyReference.cache
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Core.Model.Resources.ProjectsEnumResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Core.Model.Resources.ProjectsPatternResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Core.Model.Services.NotifyService.PatternResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Core.Engine.EngineResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Resources.ImportResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Resources.ProjectResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Resources.ProjectsCommonResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Resources.ProjectsFileResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Resources.GrammaticalResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Resources.ProjectsFilterResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Resources.ProjectsJSResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Resources.MessageResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Resources.MilestoneResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Resources.ProjectTemplatesResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Resources.ReportResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Resources.TaskResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Resources.TimeTrackingResource.resources
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.csproj.GenerateResource.cache
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.csproj.CoreCompileInputs.cache
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.csproj.CopyComplete
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.dll
+E:\CommunityServer\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\callback.htm
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Web.Projects.dll.config
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Web.Projects.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\bin\ASC.Web.Projects.pdb
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.csprojAssemblyReference.cache
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Core.Model.Resources.ProjectsEnumResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Core.Model.Resources.ProjectsPatternResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Core.Model.Services.NotifyService.PatternResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Core.Engine.EngineResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Resources.ImportResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Resources.ProjectResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Resources.ProjectsCommonResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Resources.ProjectsFileResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Resources.GrammaticalResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Resources.ProjectsFilterResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Resources.ProjectsJSResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Resources.MessageResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Resources.MilestoneResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Resources.ProjectTemplatesResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Resources.ReportResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Resources.TaskResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Resources.TimeTrackingResource.resources
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.csproj.GenerateResource.cache
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.csproj.CoreCompileInputs.cache
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.csproj.CopyComplete
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.dll
+D:\EKT.AI\LEXIC-2.0\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\callback.htm
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Web.Projects.dll.config
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Web.Projects.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\bin\ASC.Web.Projects.pdb
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.csproj.AssemblyReference.cache
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Core.Model.Resources.ProjectsEnumResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Core.Model.Resources.ProjectsPatternResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Core.Model.Services.NotifyService.PatternResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Core.Engine.EngineResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Resources.ImportResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Resources.ProjectResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Resources.ProjectsCommonResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Resources.ProjectsFileResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Resources.GrammaticalResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Resources.ProjectsFilterResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Resources.ProjectsJSResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Resources.MessageResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Resources.MilestoneResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Resources.ProjectTemplatesResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Resources.ReportResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Resources.TaskResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.Resources.TimeTrackingResource.resources
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.csproj.GenerateResource.cache
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.csproj.CoreCompileInputs.cache
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.csproj.CopyComplete
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.dll
+E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Projects\obj\Debug\ASC.Web.Projects.pdb
