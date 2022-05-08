@@ -34,3 +34,11 @@ E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.ElasticSearch\obj\Debug\ASC.Ela
 E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.ElasticSearch\obj\Debug\ASC.ElasticSearch.csproj.CopyComplete
 E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.ElasticSearch\obj\Debug\ASC.ElasticSearch.dll
 E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.ElasticSearch\obj\Debug\ASC.ElasticSearch.pdb
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.ElasticSearch.dll.config
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.ElasticSearch.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.ElasticSearch.pdb
+E:\Project\LexicFromAsifBhai\module\ASC.ElasticSearch\obj\Debug\ASC.ElasticSearch.csproj.AssemblyReference.cache
+E:\Project\LexicFromAsifBhai\module\ASC.ElasticSearch\obj\Debug\ASC.ElasticSearch.csproj.CoreCompileInputs.cache
+E:\Project\LexicFromAsifBhai\module\ASC.ElasticSearch\obj\Debug\ASC.ElasticSearch.csproj.CopyComplete
+E:\Project\LexicFromAsifBhai\module\ASC.ElasticSearch\obj\Debug\ASC.ElasticSearch.dll
+E:\Project\LexicFromAsifBhai\module\ASC.ElasticSearch\obj\Debug\ASC.ElasticSearch.pdb

@@ -98,3 +98,35 @@ E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Communi
 E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.csproj.CopyComplete
 E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.dll
 E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.pdb
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\callback.htm
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.Web.Community.dll.config
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.Web.Community.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.Web.Community.pdb
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.csproj.AssemblyReference.cache
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Birthdays.Resources.BirthdayPatternResource.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Birthdays.Resources.BirthdaysResource.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Blogs.Core.Resources.BlogsResource.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Blogs.Core.Service.BlogPatternResource.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Blogs.Core.Service.BlogPatternsResource.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Bookmarking.Core.Patterns.BookmarkingPatternResource.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Bookmarking.Core.Resources.BookmarkingBusinessResources.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Bookmarking.Core.Resources.BookmarkingSubscriptionPatterns.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Bookmarking.Resources.BookmarkingResource.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Bookmarking.UserControls.Resources.BookmarkingUCResource.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Forum.Core.Module.ForumPatternResource.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Forum.Core.Module.Patterns.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Forum.Resources.ForumResource.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Forum.UserControls.Resources.ForumUCResource.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.News.Resources.NewsResource.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.News.Resources.NewsPatternsResource.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.News.Resources.NewsPatternResource.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Wiki.Resources.WikiUCResource.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Wiki.Resources.WikiResource.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Wiki.Code.Patterns.WikiPatternsResource.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Modules.Wiki.Code.Patterns.WikiPatternResource.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.Resources.CommunityResource.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.csproj.GenerateResource.cache
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.csproj.CoreCompileInputs.cache
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.csproj.CopyComplete
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\Community\obj\Debug\ASC.Web.Community.pdb

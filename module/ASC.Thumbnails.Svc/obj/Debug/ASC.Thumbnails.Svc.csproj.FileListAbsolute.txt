@@ -118,3 +118,42 @@ E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Thumbnails.Svc\obj\Debug\ASC.Th
 E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Thumbnails.Svc\obj\Debug\ASC.Thumbnails.Svc.csproj.CopyComplete
 E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Thumbnails.Svc\obj\Debug\ASC.Thumbnails.Svc.dll
 E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Thumbnails.Svc\obj\Debug\ASC.Thumbnails.Svc.pdb
+E:\Project\LexicFromAsifBhai\module\ASC.Thumbnails.Svc\bin\Debug\ASC.Thumbnails.Svc.dll.config
+E:\Project\LexicFromAsifBhai\module\ASC.Thumbnails.Svc\bin\Debug\ASC.Thumbnails.Svc.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Thumbnails.Svc\bin\Debug\ASC.Thumbnails.Svc.pdb
+E:\Project\LexicFromAsifBhai\module\ASC.Thumbnails.Svc\bin\Debug\ARSoft.Tools.Net.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Thumbnails.Svc\bin\Debug\Autofac.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Thumbnails.Svc\bin\Debug\Autofac.pdb
+E:\Project\LexicFromAsifBhai\module\ASC.Thumbnails.Svc\bin\Debug\BouncyCastle.Crypto.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Thumbnails.Svc\bin\Debug\Google.Protobuf.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Thumbnails.Svc\bin\Debug\HtmlAgilityPack.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Thumbnails.Svc\bin\Debug\log4net.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Thumbnails.Svc\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Thumbnails.Svc\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Thumbnails.Svc\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Thumbnails.Svc\bin\Debug\MySql.Data.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Thumbnails.Svc\bin\Debug\Newtonsoft.Json.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Thumbnails.Svc\bin\Debug\NLog.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Thumbnails.Svc\bin\Debug\NVelocity.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Thumbnails.Svc\bin\Debug\Pipelines.Sockets.Unofficial.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Thumbnails.Svc\bin\Debug\Renci.SshNet.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Thumbnails.Svc\bin\Debug\StackExchange.Redis.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Thumbnails.Svc\bin\Debug\StackExchange.Redis.Extensions.Core.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Thumbnails.Svc\bin\Debug\StackExchange.Redis.Extensions.LegacyConfiguration.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Thumbnails.Svc\bin\Debug\System.Buffers.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Thumbnails.Svc\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Thumbnails.Svc\bin\Debug\System.IO.Pipelines.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Thumbnails.Svc\bin\Debug\System.Memory.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Thumbnails.Svc\bin\Debug\System.Numerics.Vectors.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Thumbnails.Svc\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Thumbnails.Svc\bin\Debug\System.Threading.Channels.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Thumbnails.Svc\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Thumbnails.Svc\bin\Debug\Ubiety.Dns.Core.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Thumbnails.Svc\bin\Debug\ASC.Common.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Thumbnails.Svc\bin\Debug\ASC.Common.pdb
+E:\Project\LexicFromAsifBhai\module\ASC.Thumbnails.Svc\bin\Debug\ASC.Common.dll.config
+E:\Project\LexicFromAsifBhai\module\ASC.Thumbnails.Svc\obj\Debug\ASC.Thumbnails.Svc.csproj.AssemblyReference.cache
+E:\Project\LexicFromAsifBhai\module\ASC.Thumbnails.Svc\obj\Debug\ASC.Thumbnails.Svc.csproj.CoreCompileInputs.cache
+E:\Project\LexicFromAsifBhai\module\ASC.Thumbnails.Svc\obj\Debug\ASC.Thumbnails.Svc.csproj.CopyComplete
+E:\Project\LexicFromAsifBhai\module\ASC.Thumbnails.Svc\obj\Debug\ASC.Thumbnails.Svc.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Thumbnails.Svc\obj\Debug\ASC.Thumbnails.Svc.pdb

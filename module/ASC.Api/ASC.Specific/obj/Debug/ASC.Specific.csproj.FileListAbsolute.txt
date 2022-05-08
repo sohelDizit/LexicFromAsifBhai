@@ -48,3 +48,13 @@ E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Api\ASC.Specific\obj\Debug\ASC.
 E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Api\ASC.Specific\obj\Debug\ASC.Specific.csproj.CopyComplete
 E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Api\ASC.Specific\obj\Debug\ASC.Specific.dll
 E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Api\ASC.Specific\obj\Debug\ASC.Specific.pdb
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\callback.htm
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.Specific.dll.config
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.Specific.XML
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.Specific.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.Specific.pdb
+E:\Project\LexicFromAsifBhai\module\ASC.Api\ASC.Specific\obj\Debug\ASC.Specific.csproj.AssemblyReference.cache
+E:\Project\LexicFromAsifBhai\module\ASC.Api\ASC.Specific\obj\Debug\ASC.Specific.csproj.CoreCompileInputs.cache
+E:\Project\LexicFromAsifBhai\module\ASC.Api\ASC.Specific\obj\Debug\ASC.Specific.csproj.CopyComplete
+E:\Project\LexicFromAsifBhai\module\ASC.Api\ASC.Specific\obj\Debug\ASC.Specific.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Api\ASC.Specific\obj\Debug\ASC.Specific.pdb

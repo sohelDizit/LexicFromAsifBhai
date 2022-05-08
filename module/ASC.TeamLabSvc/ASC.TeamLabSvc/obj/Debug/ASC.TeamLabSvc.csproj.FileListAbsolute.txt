@@ -90,3 +90,33 @@ E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TeamLabSvc\ASC.TeamLabSvc\obj\D
 E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TeamLabSvc\ASC.TeamLabSvc\obj\Debug\ASC.TeamLabSvc.csproj.CopyComplete
 E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TeamLabSvc\ASC.TeamLabSvc\obj\Debug\TeamLabSvc.exe
 E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.TeamLabSvc\ASC.TeamLabSvc\obj\Debug\TeamLabSvc.pdb
+E:\Project\LexicFromAsifBhai\module\ASC.TeamLabSvc\ASC.TeamLabSvc\bin\Debug\TeamLabSvc.exe.config
+E:\Project\LexicFromAsifBhai\module\ASC.TeamLabSvc\ASC.TeamLabSvc\bin\Debug\TeamLabSvc.exe
+E:\Project\LexicFromAsifBhai\module\ASC.TeamLabSvc\ASC.TeamLabSvc\bin\Debug\TeamLabSvc.pdb
+E:\Project\LexicFromAsifBhai\module\ASC.TeamLabSvc\ASC.TeamLabSvc\bin\Debug\ASC.Common.dll
+E:\Project\LexicFromAsifBhai\module\ASC.TeamLabSvc\ASC.TeamLabSvc\bin\Debug\NVelocity.dll
+E:\Project\LexicFromAsifBhai\module\ASC.TeamLabSvc\ASC.TeamLabSvc\bin\Debug\ARSoft.Tools.Net.dll
+E:\Project\LexicFromAsifBhai\module\ASC.TeamLabSvc\ASC.TeamLabSvc\bin\Debug\Newtonsoft.Json.dll
+E:\Project\LexicFromAsifBhai\module\ASC.TeamLabSvc\ASC.TeamLabSvc\bin\Debug\NLog.dll
+E:\Project\LexicFromAsifBhai\module\ASC.TeamLabSvc\ASC.TeamLabSvc\bin\Debug\log4net.dll
+E:\Project\LexicFromAsifBhai\module\ASC.TeamLabSvc\ASC.TeamLabSvc\bin\Debug\Autofac.dll
+E:\Project\LexicFromAsifBhai\module\ASC.TeamLabSvc\ASC.TeamLabSvc\bin\Debug\StackExchange.Redis.Extensions.Core.dll
+E:\Project\LexicFromAsifBhai\module\ASC.TeamLabSvc\ASC.TeamLabSvc\bin\Debug\StackExchange.Redis.Extensions.LegacyConfiguration.dll
+E:\Project\LexicFromAsifBhai\module\ASC.TeamLabSvc\ASC.TeamLabSvc\bin\Debug\StackExchange.Redis.dll
+E:\Project\LexicFromAsifBhai\module\ASC.TeamLabSvc\ASC.TeamLabSvc\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Project\LexicFromAsifBhai\module\ASC.TeamLabSvc\ASC.TeamLabSvc\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Project\LexicFromAsifBhai\module\ASC.TeamLabSvc\ASC.TeamLabSvc\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Project\LexicFromAsifBhai\module\ASC.TeamLabSvc\ASC.TeamLabSvc\bin\Debug\System.Threading.Channels.dll
+E:\Project\LexicFromAsifBhai\module\ASC.TeamLabSvc\ASC.TeamLabSvc\bin\Debug\System.IO.Pipelines.dll
+E:\Project\LexicFromAsifBhai\module\ASC.TeamLabSvc\ASC.TeamLabSvc\bin\Debug\Pipelines.Sockets.Unofficial.dll
+E:\Project\LexicFromAsifBhai\module\ASC.TeamLabSvc\ASC.TeamLabSvc\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Project\LexicFromAsifBhai\module\ASC.TeamLabSvc\ASC.TeamLabSvc\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Project\LexicFromAsifBhai\module\ASC.TeamLabSvc\ASC.TeamLabSvc\bin\Debug\ASC.Common.pdb
+E:\Project\LexicFromAsifBhai\module\ASC.TeamLabSvc\ASC.TeamLabSvc\bin\Debug\ASC.Common.dll.config
+E:\Project\LexicFromAsifBhai\module\ASC.TeamLabSvc\ASC.TeamLabSvc\bin\Debug\Autofac.pdb
+E:\Project\LexicFromAsifBhai\module\ASC.TeamLabSvc\ASC.TeamLabSvc\obj\Debug\ASC.TeamLabSvc.csproj.AssemblyReference.cache
+E:\Project\LexicFromAsifBhai\module\ASC.TeamLabSvc\ASC.TeamLabSvc\obj\Debug\TeamLabSvc.exe.config
+E:\Project\LexicFromAsifBhai\module\ASC.TeamLabSvc\ASC.TeamLabSvc\obj\Debug\ASC.TeamLabSvc.csproj.CoreCompileInputs.cache
+E:\Project\LexicFromAsifBhai\module\ASC.TeamLabSvc\ASC.TeamLabSvc\obj\Debug\ASC.TeamLabSvc.csproj.CopyComplete
+E:\Project\LexicFromAsifBhai\module\ASC.TeamLabSvc\ASC.TeamLabSvc\obj\Debug\TeamLabSvc.exe
+E:\Project\LexicFromAsifBhai\module\ASC.TeamLabSvc\ASC.TeamLabSvc\obj\Debug\TeamLabSvc.pdb

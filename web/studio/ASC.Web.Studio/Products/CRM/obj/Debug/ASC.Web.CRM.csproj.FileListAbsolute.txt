@@ -86,3 +86,27 @@ E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\CRM\obj
 E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.csproj.CopyComplete
 E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.dll
 E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.pdb
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\callback.htm
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.Web.CRM.dll.config
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.Web.CRM.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.Web.CRM.pdb
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.csproj.AssemblyReference.cache
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMErrorsResource.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMVoipResource.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMContactResource.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMCommonResource.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMJSResource.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMDealResource.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMReportResource.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMSettingResource.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMSocialMediaResource.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMTaskResource.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Services.NotifyService.CRMPatternResource.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMInvoiceResource.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMCasesResource.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.Resources.CRMEnumResource.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.csproj.GenerateResource.cache
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.csproj.CoreCompileInputs.cache
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.csproj.CopyComplete
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\CRM\obj\Debug\ASC.Web.CRM.pdb

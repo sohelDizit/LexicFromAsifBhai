@@ -19,3 +19,10 @@ E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Api\ASC.Api.Client\obj\Debug\AS
 E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Api\ASC.Api.Client\obj\Debug\ASC.Api.Client.csproj.CopyComplete
 E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Api\ASC.Api.Client\obj\Debug\ASC.Api.Client.dll
 E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Api\ASC.Api.Client\obj\Debug\ASC.Api.Client.pdb
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.Api.Client.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.Api.Client.pdb
+E:\Project\LexicFromAsifBhai\module\ASC.Api\ASC.Api.Client\obj\Debug\ASC.Api.Client.csproj.AssemblyReference.cache
+E:\Project\LexicFromAsifBhai\module\ASC.Api\ASC.Api.Client\obj\Debug\ASC.Api.Client.csproj.CoreCompileInputs.cache
+E:\Project\LexicFromAsifBhai\module\ASC.Api\ASC.Api.Client\obj\Debug\ASC.Api.Client.csproj.CopyComplete
+E:\Project\LexicFromAsifBhai\module\ASC.Api\ASC.Api.Client\obj\Debug\ASC.Api.Client.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Api\ASC.Api.Client\obj\Debug\ASC.Api.Client.pdb

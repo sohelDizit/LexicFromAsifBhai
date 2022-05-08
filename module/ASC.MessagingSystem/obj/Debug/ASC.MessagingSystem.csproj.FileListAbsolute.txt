@@ -33,3 +33,11 @@ E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.MessagingSystem\obj\Debug\ASC.M
 E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.MessagingSystem\obj\Debug\ASC.MessagingSystem.csproj.CopyComplete
 E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.MessagingSystem\obj\Debug\ASC.MessagingSystem.dll
 E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.MessagingSystem\obj\Debug\ASC.MessagingSystem.pdb
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.MessagingSystem.dll.config
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.MessagingSystem.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.MessagingSystem.pdb
+E:\Project\LexicFromAsifBhai\module\ASC.MessagingSystem\obj\Debug\ASC.MessagingSystem.csproj.AssemblyReference.cache
+E:\Project\LexicFromAsifBhai\module\ASC.MessagingSystem\obj\Debug\ASC.MessagingSystem.csproj.CoreCompileInputs.cache
+E:\Project\LexicFromAsifBhai\module\ASC.MessagingSystem\obj\Debug\ASC.MessagingSystem.csproj.CopyComplete
+E:\Project\LexicFromAsifBhai\module\ASC.MessagingSystem\obj\Debug\ASC.MessagingSystem.dll
+E:\Project\LexicFromAsifBhai\module\ASC.MessagingSystem\obj\Debug\ASC.MessagingSystem.pdb

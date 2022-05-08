@@ -28,3 +28,13 @@ E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Api\ASC.Api.CRM\obj\Debug\ASC.A
 E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Api\ASC.Api.CRM\obj\Debug\ASC.Api.CRM.csproj.CopyComplete
 E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Api\ASC.Api.CRM\obj\Debug\ASC.Api.CRM.dll
 E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Api\ASC.Api.CRM\obj\Debug\ASC.Api.CRM.pdb
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\callback.htm
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.Api.CRM.dll.config
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.Api.CRM.XML
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.Api.CRM.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.Api.CRM.pdb
+E:\Project\LexicFromAsifBhai\module\ASC.Api\ASC.Api.CRM\obj\Debug\ASC.Api.CRM.csproj.AssemblyReference.cache
+E:\Project\LexicFromAsifBhai\module\ASC.Api\ASC.Api.CRM\obj\Debug\ASC.Api.CRM.csproj.CoreCompileInputs.cache
+E:\Project\LexicFromAsifBhai\module\ASC.Api\ASC.Api.CRM\obj\Debug\ASC.Api.CRM.csproj.CopyComplete
+E:\Project\LexicFromAsifBhai\module\ASC.Api\ASC.Api.CRM\obj\Debug\ASC.Api.CRM.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Api\ASC.Api.CRM\obj\Debug\ASC.Api.CRM.pdb

@@ -41,3 +41,12 @@ E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Thrdparty\ASC.FederatedLogin\ob
 E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Thrdparty\ASC.FederatedLogin\obj\Debug\ASC.FederatedLogin.csproj.CopyComplete
 E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Thrdparty\ASC.FederatedLogin\obj\Debug\ASC.FederatedLogin.dll
 E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Thrdparty\ASC.FederatedLogin\obj\Debug\ASC.FederatedLogin.pdb
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\callback.htm
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.FederatedLogin.dll.config
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.FederatedLogin.dll
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\bin\ASC.FederatedLogin.pdb
+E:\Project\LexicFromAsifBhai\module\ASC.Thrdparty\ASC.FederatedLogin\obj\Debug\ASC.FederatedLogin.csproj.AssemblyReference.cache
+E:\Project\LexicFromAsifBhai\module\ASC.Thrdparty\ASC.FederatedLogin\obj\Debug\ASC.FederatedLogin.csproj.CoreCompileInputs.cache
+E:\Project\LexicFromAsifBhai\module\ASC.Thrdparty\ASC.FederatedLogin\obj\Debug\ASC.FederatedLogin.csproj.CopyComplete
+E:\Project\LexicFromAsifBhai\module\ASC.Thrdparty\ASC.FederatedLogin\obj\Debug\ASC.FederatedLogin.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Thrdparty\ASC.FederatedLogin\obj\Debug\ASC.FederatedLogin.pdb

@@ -117,7 +117,14 @@ ASC.Projects.Description = (function () {
             debugger;
             console.log("from new API");
             console.log(data.response);
+            if (data.response.projectNumber == null || data.response.projectNumber == undefined)
+            {
+                data.response.projectNumber = "";
+            }
+
             extra = data.response.projectNumber;
+            console.log("from new API1");
+            console.log("from new API2");
 
             baseProjects.DescriptionTab
                 .init()

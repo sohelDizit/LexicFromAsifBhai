@@ -130,3 +130,43 @@ E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail.Server\ASC.Mail.Server\obj
 E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail.Server\ASC.Mail.Server\obj\Debug\ASC.Mail.Server.dll
 E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail.Server\ASC.Mail.Server\obj\Debug\ASC.Mail.Server.pdb
 E:\Lexic From Asif vai\LEXIC-2.0-main\module\ASC.Mail.Server\ASC.Mail.Server\obj\Debug\ASC.Mail.Server.csproj.AssemblyReference.cache
+E:\Project\LexicFromAsifBhai\module\ASC.Mail.Server\ASC.Mail.Server\bin\Debug\ASC.Mail.Server.dll.config
+E:\Project\LexicFromAsifBhai\module\ASC.Mail.Server\ASC.Mail.Server\bin\Debug\ASC.Mail.Server.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Mail.Server\ASC.Mail.Server\bin\Debug\ASC.Mail.Server.pdb
+E:\Project\LexicFromAsifBhai\module\ASC.Mail.Server\ASC.Mail.Server\bin\Debug\ARSoft.Tools.Net.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Mail.Server\ASC.Mail.Server\bin\Debug\Autofac.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Mail.Server\ASC.Mail.Server\bin\Debug\Autofac.pdb
+E:\Project\LexicFromAsifBhai\module\ASC.Mail.Server\ASC.Mail.Server\bin\Debug\BouncyCastle.Crypto.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Mail.Server\ASC.Mail.Server\bin\Debug\Google.Protobuf.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Mail.Server\ASC.Mail.Server\bin\Debug\HtmlAgilityPack.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Mail.Server\ASC.Mail.Server\bin\Debug\log4net.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Mail.Server\ASC.Mail.Server\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Mail.Server\ASC.Mail.Server\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Mail.Server\ASC.Mail.Server\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Mail.Server\ASC.Mail.Server\bin\Debug\MySql.Data.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Mail.Server\ASC.Mail.Server\bin\Debug\Newtonsoft.Json.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Mail.Server\ASC.Mail.Server\bin\Debug\NLog.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Mail.Server\ASC.Mail.Server\bin\Debug\NVelocity.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Mail.Server\ASC.Mail.Server\bin\Debug\Pipelines.Sockets.Unofficial.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Mail.Server\ASC.Mail.Server\bin\Debug\RestSharp.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Mail.Server\ASC.Mail.Server\bin\Debug\Renci.SshNet.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Mail.Server\ASC.Mail.Server\bin\Debug\StackExchange.Redis.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Mail.Server\ASC.Mail.Server\bin\Debug\StackExchange.Redis.Extensions.Core.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Mail.Server\ASC.Mail.Server\bin\Debug\StackExchange.Redis.Extensions.LegacyConfiguration.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Mail.Server\ASC.Mail.Server\bin\Debug\System.Buffers.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Mail.Server\ASC.Mail.Server\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Mail.Server\ASC.Mail.Server\bin\Debug\System.IO.Pipelines.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Mail.Server\ASC.Mail.Server\bin\Debug\System.Memory.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Mail.Server\ASC.Mail.Server\bin\Debug\System.Numerics.Vectors.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Mail.Server\ASC.Mail.Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Mail.Server\ASC.Mail.Server\bin\Debug\System.Threading.Channels.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Mail.Server\ASC.Mail.Server\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Mail.Server\ASC.Mail.Server\bin\Debug\Ubiety.Dns.Core.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Mail.Server\ASC.Mail.Server\bin\Debug\ASC.Common.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Mail.Server\ASC.Mail.Server\bin\Debug\ASC.Common.pdb
+E:\Project\LexicFromAsifBhai\module\ASC.Mail.Server\ASC.Mail.Server\bin\Debug\ASC.Common.dll.config
+E:\Project\LexicFromAsifBhai\module\ASC.Mail.Server\ASC.Mail.Server\obj\Debug\ASC.Mail.Server.csproj.AssemblyReference.cache
+E:\Project\LexicFromAsifBhai\module\ASC.Mail.Server\ASC.Mail.Server\obj\Debug\ASC.Mail.Server.csproj.CoreCompileInputs.cache
+E:\Project\LexicFromAsifBhai\module\ASC.Mail.Server\ASC.Mail.Server\obj\Debug\ASC.Mail.Server.csproj.CopyComplete
+E:\Project\LexicFromAsifBhai\module\ASC.Mail.Server\ASC.Mail.Server\obj\Debug\ASC.Mail.Server.dll
+E:\Project\LexicFromAsifBhai\module\ASC.Mail.Server\ASC.Mail.Server\obj\Debug\ASC.Mail.Server.pdb

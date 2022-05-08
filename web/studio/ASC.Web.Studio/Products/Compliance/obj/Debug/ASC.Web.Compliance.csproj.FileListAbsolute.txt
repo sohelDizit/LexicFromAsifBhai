@@ -6,3 +6,7 @@ E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Complia
 E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Compliance\obj\Debug\ASC.Web.Compliance.Resources.ComplianceResource.resources
 E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Compliance\obj\Debug\ASC.Web.Compliance.csproj.GenerateResource.cache
 E:\Lexic From Asif vai\LEXIC-2.0-main\web\studio\ASC.Web.Studio\Products\Compliance\obj\Debug\ASC.Web.Compliance.csproj.CoreCompileInputs.cache
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\Compliance\obj\Debug\ASC.Web.Compliance.csproj.AssemblyReference.cache
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\Compliance\obj\Debug\ASC.Web.Compliance.Resources.ComplianceResource.resources
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\Compliance\obj\Debug\ASC.Web.Compliance.csproj.GenerateResource.cache
+E:\Project\LexicFromAsifBhai\web\studio\ASC.Web.Studio\Products\Compliance\obj\Debug\ASC.Web.Compliance.csproj.CoreCompileInputs.cache
